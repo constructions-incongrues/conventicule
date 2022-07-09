@@ -1,6 +1,6 @@
 backend:
   name: github
-  branch: constructions-incongrues/empilements
+  repo: constructions-incongrues/empilements
 
 media_folder: 'assets/uploads'
 
