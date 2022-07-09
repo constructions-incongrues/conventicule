@@ -3,8 +3,6 @@ backend:
   repo: constructions-incongrues/empilements
   branch: main
   site_domain: 1a522206-9642-4c26-bac4-280770cfbff4
-  base_url: constructions-incongrues.github.io
-  auth_endpoint: api/auth
   
 # local_backend: true
 
