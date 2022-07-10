@@ -6,12 +6,15 @@ backend:
   auth_scope: repo
   open_authoring: true
 
+backend_local: true
+
 media_folder: static/files
 public_folder: /files
 
 display_url: https://empilements.constructions-incongrues.net
 publish_mode: editorial_workflow
 show_preview_links: true
+
 
 collections:
   - label: Empilement
@@ -22,15 +25,22 @@ collections:
     preview_path: empilement/{{slug}}
     identifier_field: title
     extension: json
+    view_groups:
+      - label: Year
+        field: date
+        # groups items based on the value matched by the pattern
+        pattern: \d{4}
+      - label: Curator
+        field: curators
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Publish Date', name: 'date', widget: 'date' }
       - { label: 'Description', name: 'description', widget: 'markdown', required: false }
       - label: Cover
         name: cover
         widget: image
-        media_library:
-          choose_url: false
+        choose_url: false
+        media_folder: ''
       - label: Curators
         name: curators
         widget: list
@@ -47,5 +57,6 @@ collections:
           - label: File
             name: file
             widget: file
-            media_library:
-              choose_url: false
+            required: false
+            choose_url: false
+            media_folder: ''
