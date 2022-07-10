@@ -8,11 +8,11 @@ title = 'Empilements'
   GitHubUser = 'constructions-incongrues'
 
 [permalinks]
-  empilement = '/:slug/'
+  empilement = '/empilement/:slug/'
 
-[frontmatter]
-  date = [':git', ':default']
+[mediaTypes.'application/json']
+  suffixes = ['json']
 
 [outputs]
   home = ['HTML']
-  empilement = ['HTML', 'RSS', 'JSON']
+  empilement = ['HTML', 'RSS', 'JSON', 'YAML']
