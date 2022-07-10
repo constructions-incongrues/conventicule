@@ -1,1 +1,48 @@
-WFRELGE
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{ .Title }}</title>
+  </head>
+
+  <body>
+    <h1>{{ .Title }}</h1>
+    <p>par {{ delimit .Params.curators ", " ", and " }}</p>
+    <p>{{ .Params.description | markdownify }}</p>
+
+    <hr>
+
+    <img src="{{ .Params.cover }}" />
+
+    <hr>
+
+    <div>
+      <span class="amplitude-play-pause">GO</span>
+    </div>
+
+    <hr>
+
+    {{ range $index, $track := .Params.tracks }}
+    <div class="amplitude-song-container" data-amplitude-song-index="{{ $index }}">
+      <span data-amplitude-song-info="name" data-amplitude-song-index="{{ $index }}"></span> - 
+      <span data-amplitude-song-info="artist" data-amplitude-song-index="{{ $index }}"></span>
+    </div>
+    {{ end }}
+
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/amplitudejs@v5.3.2/dist/amplitude.js"></script>
+    <script>
+var tracks = JSON.parse({{ .Params.tracks | jsonify }});
+var songs = [];
+tracks.forEach(track => {
+  songs.push({
+    name: track.track.title,
+    artist: track.track.artist,
+    url: track.track.file,
+    cover: track.track.cover
+  })
+});
+Amplitude.init({
+  "songs": songs
+});
+    </script>
+  </body>
+</html>

@@ -1,5 +1,18 @@
 baseURL = "https://empilement.constructions-incongrues.net"
+enableGitInfo = true
+
+title = 'Empilements'
+
+[params]
+  AuthorName = 'Constructions Incongrues'
+  GitHubUser = 'constructions-incongrues'
+
+[permalinks]
+  empilement = '/:slug/'
+
+[frontmatter]
+  date = [':git', ':default']
 
 [outputs]
-  home = ['HTML', 'AMP', 'RSS']
-  page = ['HTML']
+  home = ['HTML']
+  empilement = ['HTML', 'RSS', 'JSON']

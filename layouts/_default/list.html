@@ -1,3 +1,11 @@
 {{ range .Pages }}
-    <li>{{ .Render "li" }}</li>
+    {{ .Render "li" }}
 {{ end }}
+
+{{ range .AlternativeOutputFormats -}}
+<a href="{{ .Permalink | safeURL }}"></a> |
+{{ end -}}
+
+{{ range .AlternativeOutputFormats -}}
+<link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
+{{ end -}}

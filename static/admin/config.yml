@@ -25,7 +25,8 @@ collections:
     slug: '{{title}}'
     preview_path: empilement/{{slug}}
     path: '{{slug}}/_index'
-    extension: json
+    extension: md
+    format: json-frontmatter
     summary: '{{title}}'
     sortable_fields: [date, title]
     view_groups:
@@ -38,19 +39,16 @@ collections:
 
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Release date', name: 'date', widget: 'date' }
 
       - label: Curators
         name: curators
         widget: list
         fields:
-          - label: Curator
-            name: curator
-            widget: object
-            fields:
-              - label: Name
-                name: name
+          - label: Name
+            name: name
+            widget: string
 
-      - { label: 'Publish Date', name: 'date', widget: 'date' }
 
       - { label: 'Description', name: 'description', widget: 'markdown', required: false }
 
