@@ -1,7 +1,8 @@
-baseURL = "https://empiler.constructions-incongrues.net"
+baseURL = "https://empiler.incongru.org"
 enableGitInfo = true
 
-title = 'Empiler'
+title = 'Empilements Incongrus'
+subtitle = 'La situation empile à chaque seconde'
 
 [params]
   AuthorName = 'Constructions Incongrues'

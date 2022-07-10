@@ -14,7 +14,7 @@ backend:
 media_folder: static/files
 public_folder: /files
 
-site_url: https://empiler.constructions-incongrues.net
+site_url: https://empiler.incongru.org
 show_preview_links: true
 publish_mode: editorial_workflow
 
