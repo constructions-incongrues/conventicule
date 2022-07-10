@@ -18,7 +18,7 @@ collections:
     name: "empilements"
     folder: "content/empilement"
     create: true
-    slug: {{ title }}
+    slug: "{{ title }}"
     preview_path: empilement/{{slug}}
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
