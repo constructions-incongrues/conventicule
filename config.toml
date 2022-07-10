@@ -1,19 +1,22 @@
-baseURL = "https://empilement.constructions-incongrues.net"
+baseURL = "https://empiler.constructions-incongrues.net"
 enableGitInfo = true
 
-title = 'Empilements'
+title = 'Empiler'
 
 [params]
   AuthorName = 'Constructions Incongrues'
   GitHubUser = 'constructions-incongrues'
 
 [permalinks]
-  empilement = '/empilement/:slug/'
+  audio-selecta = '/audio-selecta/:slug/'
 
 [mediaTypes.'application/json']
   suffixes = ['json']
 
+[outputFormats.JSON]
+  mediaType = "application/json"
+  isPlainText = true
+
 [outputs]
   home = ['HTML']
-  empilement = ['RSS']
-  page = ['HTML', 'JSON']
+  page = ['HTML', 'JSON', 'RSS']

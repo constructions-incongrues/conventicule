@@ -2,7 +2,7 @@ backend_local: true
 
 backend:
   name: github
-  repo: constructions-incongrues/empilements
+  repo: constructions-incongrues/empiler
   branch: main
   site_domain: 1a522206-9642-4c26-bac4-280770cfbff4
   auth_scope: repo
@@ -14,14 +14,14 @@ backend:
 media_folder: static/files
 public_folder: /files
 
-site_url: https://empilements.constructions-incongrues.net
+site_url: https://empiler.constructions-incongrues.net
 show_preview_links: true
 publish_mode: editorial_workflow
 
 collections:
-  - label: Empilement
-    name: empilement
-    folder: content/empilement
+  - label: Audio Selecta
+    name: audio-selecta
+    folder: content/audio-selecta
     create: true
     slug: '{{title}}'
     preview_path: '{{slug}}'

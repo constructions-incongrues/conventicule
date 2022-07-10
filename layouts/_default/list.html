@@ -2,9 +2,13 @@
     {{ .Render "li" }}
 {{ end }}
 
+<hr>
+
 {{ range .AlternativeOutputFormats -}}
-<a href="{{ .Permalink | safeURL }}"></a> |
+<a href="{{ .Permalink | safeURL }}">{{ .MediaType.Type }}</a> |
 {{ end -}}
+
+<hr>
 
 {{ range .AlternativeOutputFormats -}}
 <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">

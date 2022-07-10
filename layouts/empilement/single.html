@@ -19,7 +19,7 @@
     </div>
 
     <h1>{{ .Title }}</h1>
-    <p>par {{ delimit .Params.curators ", " ", and " }}</p>
+    <p>par {{ delimit (.Params.curators | default (slice "")) ", " " et " }}</p>
     <p>{{ .Params.description | markdownify }}</p>
 
     <hr>
@@ -40,7 +40,14 @@
       <span data-amplitude-song-info="artist" data-amplitude-song-index="{{ $index }}"></span>
     </div>
     {{ end }}
+    
+    <hr>
 
+    <div>
+      {{ range .AlternativeOutputFormats -}}
+        <a href="{{ .Permalink | safeURL }}">{{ .MediaType.Type }}</a> |
+      {{ end -}}
+    </div>
     <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/amplitudejs@v5.3.2/dist/amplitude.js"></script>
     <script>
 var tracks = JSON.parse({{ .Params.tracks | jsonify }});
