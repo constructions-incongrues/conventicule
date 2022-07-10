@@ -2,7 +2,11 @@
   "date": "2011-12-20",
   "title": "Soliloque",
   "curators": [
-    "Jacques Cochise"
+    {
+      "curator": {
+        "name": "Jacques Cochise"
+      }
+    }
   ],
   "cover": "source.jpg",
   "tracks": [

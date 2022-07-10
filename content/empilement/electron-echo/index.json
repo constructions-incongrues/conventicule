@@ -2,7 +2,11 @@
   "date": "2011-10-28",
   "title": "Electron Echo",
   "curators": [
-    "Eat Rabbit"
+    {
+      "curator": {
+        "name": "Eat Rabbit"
+      }
+    }
   ],
   "cover": "source.jpg",
   "tracks": [

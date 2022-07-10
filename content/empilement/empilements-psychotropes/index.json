@@ -2,7 +2,11 @@
   "date": "2011-12-07",
   "title": "Empilements Psychotropes",
   "curators": [
-    "Klaten"
+    {
+      "curator": {
+        "name": "Klaten"
+      }
+    }
   ],
   "cover": "source.jpg",
   "tracks": [

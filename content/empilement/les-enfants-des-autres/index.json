@@ -2,7 +2,11 @@
   "date": "2013-03-12",
   "title": "Les Enfants Des Autres",
   "curators": [
-    "Sascii"
+    {
+      "curator": {
+        "name": "Sascii"
+      }
+    }
   ],
   "cover": "source.jpg",
   "tracks": [

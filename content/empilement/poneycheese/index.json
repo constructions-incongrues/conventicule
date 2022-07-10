@@ -2,7 +2,11 @@
   "date": "2011-11-30",
   "title": "Poneycheese",
   "curators": [
-    "Cagolkebab"
+    {
+      "curator": {
+        "name": "Cagolkebab"
+      }
+    }
   ],
   "cover": "source.jpg",
   "tracks": [

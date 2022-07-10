@@ -2,7 +2,11 @@
   "date": "2011-12-16",
   "title": "Beauty To The Beast",
   "curators": [
-    "Tep"
+    {
+      "curator": {
+        "name": "Tep"
+      }
+    }
   ],
   "cover": "source.jpg",
   "tracks": [

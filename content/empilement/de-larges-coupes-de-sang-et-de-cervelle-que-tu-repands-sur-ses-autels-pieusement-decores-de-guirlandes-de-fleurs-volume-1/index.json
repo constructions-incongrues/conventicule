@@ -2,7 +2,11 @@
   "date": "2011-12-19",
   "title": "De larges coupes de sang et de cervelle que tu répands sur ses autels, pieusement décorés de guirlandes de fleurs - Volume 1",
   "curators": [
-    "Kabeljau Mechanische"
+    {
+      "curator": {
+        "name": "Kabeljau Mechanische"
+      }
+    }
   ],
   "cover": "source.jpg",
   "tracks": [

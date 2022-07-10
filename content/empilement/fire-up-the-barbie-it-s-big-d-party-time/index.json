@@ -2,7 +2,11 @@
   "date": "2012-02-11",
   "title": "Fire up The Barbie! It's Big D Party Time!",
   "curators": [
-    "Bobby Bass Ewing"
+    {
+      "curator": {
+        "name": "Bobby Bass Ewing"
+      }
+    }
   ],
   "cover": "source.jpg",
   "tracks": [

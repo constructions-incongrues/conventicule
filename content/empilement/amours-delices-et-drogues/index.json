@@ -2,7 +2,11 @@
   "date": "2013-02-15",
   "title": "Amours, Délices et Drogues",
   "curators": [
-    "Jean-Michel Chakra Lambert"
+    {
+      "curator": {
+        "name": "Jean-Michel Chakra Lambert"
+      }
+    }
   ],
   "cover": "source.jpg",
   "tracks": [

@@ -2,9 +2,21 @@
   "date": "2011-11-09",
   "title": "Siège Incliné",
   "curators": [
-    "Bertier",
-    "Bozoo",
-    "Eat Rabbit"
+    {
+      "curator": {
+        "name": "Bertier"
+      }
+    },
+    {
+      "curator": {
+        "name": "Bozoo"
+      }
+    },
+    {
+      "curator": {
+        "name": "Eat Rabbit"
+      }
+    }
   ],
   "cover": "source.jpg",
   "tracks": [

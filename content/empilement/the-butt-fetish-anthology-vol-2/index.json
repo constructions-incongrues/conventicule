@@ -2,7 +2,11 @@
   "date": "2011-10-07",
   "title": "The Butt Fetish Anthology, vol. 2",
   "curators": [
-    "Bozoo et Bertier"
+    {
+      "curator": {
+        "name": "Bozoo et Bertier"
+      }
+    }
   ],
   "cover": "source.jpg",
   "tracks": [

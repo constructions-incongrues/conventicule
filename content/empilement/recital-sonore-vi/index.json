@@ -2,8 +2,16 @@
   "date": "2011-11-10",
   "title": "Récital Sonore VI",
   "curators": [
-    "Gumbi",
-    "Esoteric Sob"
+    {
+      "curator": {
+        "name": "Gumbi"
+      }
+    },
+    {
+      "curator": {
+        "name": "Esoteric Sob"
+      }
+    }
   ],
   "cover": "source.jpg",
   "tracks": [

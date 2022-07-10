@@ -2,8 +2,16 @@
   "date": "2012-10-28",
   "title": "Not Gay !",
   "curators": [
-    "Michel Bertier",
-    "Badabig Pink Pig"
+    {
+      "curator": {
+        "name": "Michel Bertier"
+      }
+    },
+    {
+      "curator": {
+        "name": "Badabig Pink Pig"
+      }
+    }
   ],
   "cover": "source.jpg",
   "tracks": [

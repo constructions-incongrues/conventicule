@@ -2,7 +2,11 @@
   "date": "2012-02-24",
   "title": "Does Dubstep Is Really Shit ?",
   "curators": [
-    "Raffi"
+    {
+      "curator": {
+        "name": "Raffi"
+      }
+    }
   ],
   "cover": "source.jpg",
   "tracks": [

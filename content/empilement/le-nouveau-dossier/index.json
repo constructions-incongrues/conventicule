@@ -2,7 +2,11 @@
   "date": "2011-12-02",
   "title": "Le Nouveau Dossier",
   "curators": [
-    "Le Professeur M."
+    {
+      "curator": {
+        "name": "Le Professeur M."
+      }
+    }
   ],
   "cover": "source.jpg",
   "tracks": [

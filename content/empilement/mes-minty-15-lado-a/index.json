@@ -2,7 +2,11 @@
   "date": "2011-12-06",
   "title": "Mes Minty 15 - lado A",
   "curators": [
-    "Minty"
+    {
+      "curator": {
+        "name": "Minty"
+      }
+    }
   ],
   "cover": "source.jpg",
   "tracks": [

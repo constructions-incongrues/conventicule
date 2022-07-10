@@ -2,7 +2,11 @@
   "date": "2011-11-23",
   "title": "Super Futur",
   "curators": [
-    "Nate"
+    {
+      "curator": {
+        "name": "Nate"
+      }
+    }
   ],
   "cover": "source.jpg",
   "tracks": [

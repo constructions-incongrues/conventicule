@@ -2,7 +2,11 @@
   "date": "2005-01-01",
   "title": "40 Mild und Hi-Lo Binary Melodeez",
   "curators": [
-    "Glafouk"
+    {
+      "curator": {
+        "name": "Glafouk"
+      }
+    }
   ],
   "cover": "source.jpg",
   "tracks": [

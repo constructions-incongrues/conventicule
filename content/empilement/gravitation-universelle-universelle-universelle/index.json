@@ -2,9 +2,21 @@
   "date": "2011-10-14",
   "title": "Gravitation Universelle Universelle Universelle",
   "curators": [
-    "Michel Bertier",
-    "Iris",
-    "Satanik Mike"
+    {
+      "curator": {
+        "name": "Michel Bertier"
+      }
+    },
+    {
+      "curator": {
+        "name": "Iris"
+      }
+    },
+    {
+      "curator": {
+        "name": "Satanik Mike"
+      }
+    }
   ],
   "cover": "source.jpg",
   "tracks": [

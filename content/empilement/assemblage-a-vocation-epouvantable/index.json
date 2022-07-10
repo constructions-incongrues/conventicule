@@ -2,7 +2,11 @@
   "date": "2011-12-21",
   "title": "Assemblage à Vocation Épouvantable",
   "curators": [
-    "Paul Kersey"
+    {
+      "curator": {
+        "name": "Paul Kersey"
+      }
+    }
   ],
   "cover": "source.jpg",
   "tracks": [

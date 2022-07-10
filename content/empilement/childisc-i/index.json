@@ -2,7 +2,11 @@
   "date": "2011-10-21",
   "title": "Childisc I",
   "curators": [
-    "Yvan&Lendl"
+    {
+      "curator": {
+        "name": "Yvan&Lendl"
+      }
+    }
   ],
   "cover": "source.jpg",
   "tracks": [

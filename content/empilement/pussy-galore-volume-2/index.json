@@ -2,7 +2,11 @@
   "date": "2012-01-03",
   "title": "Pussy Galore - Volume 2",
   "curators": [
-    "Thomas Berlin"
+    {
+      "curator": {
+        "name": "Thomas Berlin"
+      }
+    }
   ],
   "cover": "source.jpg",
   "tracks": [

@@ -2,7 +2,11 @@
   "date": "2013-02-11",
   "title": "Guitares & Synthés",
   "curators": [
-    "Cellule 34"
+    {
+      "curator": {
+        "name": "Cellule 34"
+      }
+    }
   ],
   "cover": "source.jpg",
   "tracks": [

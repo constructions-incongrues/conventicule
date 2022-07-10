@@ -2,8 +2,16 @@
   "date": "2012-02-20",
   "title": "Récital Sonore XII (sea)",
   "curators": [
-    "Gumbi",
-    "Melorman"
+    {
+      "curator": {
+        "name": "Gumbi"
+      }
+    },
+    {
+      "curator": {
+        "name": "Melorman"
+      }
+    }
   ],
   "cover": "source.jpg",
   "tracks": [

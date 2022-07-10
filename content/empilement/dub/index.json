@@ -2,7 +2,11 @@
   "date": "2011-11-25",
   "title": "Dub",
   "curators": [
-    "Carl Cock"
+    {
+      "curator": {
+        "name": "Carl Cock"
+      }
+    }
   ],
   "cover": "source.jpg",
   "tracks": [

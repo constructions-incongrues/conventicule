@@ -2,7 +2,11 @@
   "date": "2011-11-15",
   "title": "Récital Sonore VII",
   "curators": [
-    "Gumbi"
+    {
+      "curator": {
+        "name": "Gumbi"
+      }
+    }
   ],
   "cover": "source.jpg",
   "tracks": [

@@ -2,7 +2,11 @@
   "date": "2011-11-14",
   "title": "Procrastination Hysterik",
   "curators": [
-    "Ricky Copro"
+    {
+      "curator": {
+        "name": "Ricky Copro"
+      }
+    }
   ],
   "cover": "source.jpg",
   "tracks": [
