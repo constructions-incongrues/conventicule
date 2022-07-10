@@ -2,7 +2,11 @@
   "date": "2011-12-09",
   "title": "Miami Bass War - The SLUT side",
   "curators": [
-    "Santa Nihill"
+    {
+      "curator": {
+        "name": "Santa Nihill"
+      }
+    }
   ],
   "cover": "source.jpg",
   "tracks": [

@@ -2,8 +2,16 @@
   "date": "2012-02-21",
   "title": "La Tendresse de Daniel Guichard, Chienne d'Afrique",
   "curators": [
-    "Michel Bertier",
-    "Satanik Mike"
+    {
+      "curator": {
+        "name": "Michel Bertier"
+      }
+    },
+    {
+      "curator": {
+        "name": "Satanik Mike"
+      }
+    }
   ],
   "cover": "source.jpg",
   "tracks": [

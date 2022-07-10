@@ -2,7 +2,11 @@
   "date": "2011-11-17",
   "title": "Superbit",
   "curators": [
-    "Eat Rabbit"
+    {
+      "curator": {
+        "name": "Eat Rabbit"
+      }
+    }
   ],
   "cover": "source.jpg",
   "tracks": [

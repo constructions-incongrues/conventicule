@@ -2,7 +2,11 @@
   "date": "2011-11-04",
   "title": "91 was Britcore",
   "curators": [
-    "BBpuiky Raffi"
+    {
+      "curator": {
+        "name": "BBpuiky Raffi"
+      }
+    }
   ],
   "cover": "source.jpg",
   "tracks": [

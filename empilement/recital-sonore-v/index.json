@@ -2,7 +2,11 @@
   "date": "2011-11-08",
   "title": "Récital Sonore V",
   "curators": [
-    "Gumbi"
+    {
+      "curator": {
+        "name": "Gumbi"
+      }
+    }
   ],
   "cover": "source.jpg",
   "tracks": [

@@ -2,7 +2,11 @@
   "date": "2011-10-23",
   "title": "Récital Sonore II",
   "curators": [
-    "Gumbi"
+    {
+      "curator": {
+        "name": "Gumbi"
+      }
+    }
   ],
   "cover": "source.jpg",
   "tracks": [

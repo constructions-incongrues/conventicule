@@ -2,8 +2,16 @@
   "date": "2011-11-07",
   "title": "Remontée Mécanique",
   "curators": [
-    "Stereotype",
-    "Trakabs et Eat Rabbit"
+    {
+      "curator": {
+        "name": "Stereotype"
+      }
+    },
+    {
+      "curator": {
+        "name": "Trakabs et Eat Rabbit"
+      }
+    }
   ],
   "cover": "source.jpg",
   "tracks": [

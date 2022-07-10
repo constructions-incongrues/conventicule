@@ -2,9 +2,21 @@
   "date": "2011-10-19",
   "title": "Défibrilateur Sonore",
   "curators": [
-    "Bozoo",
-    "Maryn",
-    "Fita et Keke"
+    {
+      "curator": {
+        "name": "Bozoo"
+      }
+    },
+    {
+      "curator": {
+        "name": "Maryn"
+      }
+    },
+    {
+      "curator": {
+        "name": "Fita et Keke"
+      }
+    }
   ],
   "cover": "source.jpg",
   "tracks": [

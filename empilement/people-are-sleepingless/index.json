@@ -2,7 +2,11 @@
   "date": "2011-11-16",
   "title": "People Are Sleepingless",
   "curators": [
-    "Parasite"
+    {
+      "curator": {
+        "name": "Parasite"
+      }
+    }
   ],
   "cover": "source.jpg",
   "tracks": [

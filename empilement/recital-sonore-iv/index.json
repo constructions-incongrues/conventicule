@@ -2,7 +2,11 @@
   "date": "2011-11-02",
   "title": "Récital Sonore IV",
   "curators": [
-    "Gumbi"
+    {
+      "curator": {
+        "name": "Gumbi"
+      }
+    }
   ],
   "cover": "source.jpg",
   "tracks": [

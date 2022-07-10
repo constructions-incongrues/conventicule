@@ -2,7 +2,11 @@
   "date": "2011-12-22",
   "title": "Pussy Galore - Volume 1",
   "curators": [
-    "DJ Chananas"
+    {
+      "curator": {
+        "name": "DJ Chananas"
+      }
+    }
   ],
   "cover": "source.jpg",
   "tracks": [

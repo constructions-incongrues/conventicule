@@ -2,7 +2,11 @@
   "date": "2011-10-19",
   "title": "Récital Sonore I",
   "curators": [
-    "Gumbi"
+    {
+      "curator": {
+        "name": "Gumbi"
+      }
+    }
   ],
   "cover": "source.jpg",
   "tracks": [

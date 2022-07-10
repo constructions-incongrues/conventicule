@@ -2,7 +2,11 @@
   "date": "2011-11-28",
   "title": "Miami Bass War - The GAY side",
   "curators": [
-    "Santa Nihill"
+    {
+      "curator": {
+        "name": "Santa Nihill"
+      }
+    }
   ],
   "cover": "source.jpg",
   "tracks": [

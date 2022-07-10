@@ -2,8 +2,16 @@
   "date": "2011-10-27",
   "title": "Récital Sonore III",
   "curators": [
-    "Gumbi",
-    "Melorman"
+    {
+      "curator": {
+        "name": "Gumbi"
+      }
+    },
+    {
+      "curator": {
+        "name": "Melorman"
+      }
+    }
   ],
   "cover": "source.jpg",
   "tracks": [

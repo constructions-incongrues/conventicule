@@ -2,8 +2,16 @@
   "date": "2011-12-15",
   "title": "Récital Sonore IX",
   "curators": [
-    "Gumbi",
-    "Naono"
+    {
+      "curator": {
+        "name": "Gumbi"
+      }
+    },
+    {
+      "curator": {
+        "name": "Naono"
+      }
+    }
   ],
   "cover": "source.jpg",
   "tracks": [

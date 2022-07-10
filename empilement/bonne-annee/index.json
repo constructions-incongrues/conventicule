@@ -2,10 +2,26 @@
   "date": "2011-31-12",
   "title": "Bonne Année",
   "curators": [
-    "Iris",
-    "Marie",
-    "Raffi",
-    "Flav"
+    {
+      "curator": {
+        "name": "Iris"
+      }
+    },
+    {
+      "curator": {
+        "name": "Marie"
+      }
+    },
+    {
+      "curator": {
+        "name": "Raffi"
+      }
+    },
+    {
+      "curator": {
+        "name": "Flav"
+      }
+    }
   ],
   "cover": "source.jpg",
   "tracks": [

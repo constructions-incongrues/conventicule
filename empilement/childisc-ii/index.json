@@ -2,7 +2,11 @@
   "date": "2013-02-08",
   "title": "Childisc II",
   "curators": [
-    "Yvan&Lendl"
+    {
+      "curator": {
+        "name": "Yvan&Lendl"
+      }
+    }
   ],
   "cover": "source.jpg",
   "tracks": [

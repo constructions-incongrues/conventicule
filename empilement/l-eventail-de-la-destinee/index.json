@@ -2,10 +2,26 @@
   "date": "2011-01-01",
   "title": "L'Éventail de la Destinée",
   "curators": [
-    "Michel Bertier",
-    "Iris",
-    "Béni",
-    "Satanik Mike"
+    {
+      "curator": {
+        "name": "Michel Bertier"
+      }
+    },
+    {
+      "curator": {
+        "name": "Iris"
+      }
+    },
+    {
+      "curator": {
+        "name": "Béni"
+      }
+    },
+    {
+      "curator": {
+        "name": "Satanik Mike"
+      }
+    }
   ],
   "cover": "source.jpg",
   "tracks": [

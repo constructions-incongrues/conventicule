@@ -2,7 +2,11 @@
   "date": "2011-11-29",
   "title": "The Land Pavilion",
   "curators": [
-    "Kim Kitanas"
+    {
+      "curator": {
+        "name": "Kim Kitanas"
+      }
+    }
   ],
   "cover": "source.jpg",
   "tracks": [

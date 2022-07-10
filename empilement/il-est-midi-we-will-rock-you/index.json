@@ -2,7 +2,11 @@
   "date": "2011-10-18",
   "title": "Il est midi, we will rock you",
   "curators": [
-    "Le mystérieux papy Makinananas"
+    {
+      "curator": {
+        "name": "Le mystérieux papy Makinananas"
+      }
+    }
   ],
   "cover": "source.jpg",
   "tracks": [

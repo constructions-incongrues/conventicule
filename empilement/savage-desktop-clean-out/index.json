@@ -2,7 +2,11 @@
   "date": "2011-10-13",
   "title": "SAVAGE DESKTOP CLEAN OUT",
   "curators": [
-    "Goupil Acnéique"
+    {
+      "curator": {
+        "name": "Goupil Acnéique"
+      }
+    }
   ],
   "cover": "source.jpg",
   "tracks": [

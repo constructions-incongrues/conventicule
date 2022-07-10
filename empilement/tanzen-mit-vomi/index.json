@@ -2,7 +2,11 @@
   "date": "2011-11-18",
   "title": "Tanzen Mit Vomi",
   "curators": [
-    "Klaus Vomi"
+    {
+      "curator": {
+        "name": "Klaus Vomi"
+      }
+    }
   ],
   "cover": "source.jpg",
   "tracks": [

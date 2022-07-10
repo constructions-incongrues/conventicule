@@ -2,10 +2,26 @@
   "date": "2012-02-16",
   "title": "Best Party Ever",
   "curators": [
-    "Valérie Blindée",
-    "Puyo Puyo",
-    "Firedrill",
-    "Ponce Pilate Jackson"
+    {
+      "curator": {
+        "name": "Valérie Blindée"
+      }
+    },
+    {
+      "curator": {
+        "name": "Puyo Puyo"
+      }
+    },
+    {
+      "curator": {
+        "name": "Firedrill"
+      }
+    },
+    {
+      "curator": {
+        "name": "Ponce Pilate Jackson"
+      }
+    }
   ],
   "cover": "source.jpg",
   "tracks": [

@@ -2,7 +2,11 @@
   "date": "2013-02-01",
   "title": "Mes Minty 15 - Lado B",
   "curators": [
-    "Minty"
+    {
+      "curator": {
+        "name": "Minty"
+      }
+    }
   ],
   "cover": "source.jpg",
   "tracks": [

@@ -2,11 +2,31 @@
   "date": "2011-12-23",
   "title": "Scouts Sordides",
   "curators": [
-    "Michel Bertier",
-    "Iris",
-    "Magda Behr",
-    "Flavien",
-    "Goupil Acnéique"
+    {
+      "curator": {
+        "name": "Michel Bertier"
+      }
+    },
+    {
+      "curator": {
+        "name": "Iris"
+      }
+    },
+    {
+      "curator": {
+        "name": "Magda Behr"
+      }
+    },
+    {
+      "curator": {
+        "name": "Flavien"
+      }
+    },
+    {
+      "curator": {
+        "name": "Goupil Acnéique"
+      }
+    }
   ],
   "cover": "source.jpg",
   "tracks": [

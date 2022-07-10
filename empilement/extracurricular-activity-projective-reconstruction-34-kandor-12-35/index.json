@@ -2,7 +2,11 @@
   "date": "2012-02-27",
   "title": "Extracurricular Activity Projective Reconstruction #34 Kandor 12 / #35",
   "curators": [
-    "Satanik Mike"
+    {
+      "curator": {
+        "name": "Satanik Mike"
+      }
+    }
   ],
   "cover": "source.jpg",
   "tracks": [
