@@ -17,8 +17,6 @@ site_url: https://empilements.constructions-incongrues.net
 show_preview_links: true
 # publish_mode: editorial_workflow
 
-
-
 collections:
   - label: Empilement
     name: empilement
@@ -26,8 +24,8 @@ collections:
     create: true
     slug: '{{title}}'
     preview_path: empilement/{{slug}}
-    format: json-frontmatter
-    path: '{{slug}}/index'
+    path: '{{slug}}/_index'
+    extension: json
     summary: '{{title}}'
     sortable_fields: [date, title]
     view_groups:
@@ -83,15 +81,16 @@ collections:
                 choose_url: false
 
   - label: Compilations
-    name: compilations
-    folder: content/compilations
     create: true
-    slug: '{{title}}'
-    preview_path: compilations/{{slug}}
-    format: json-frontmatter
+    extension: json
+    folder: content/compilations
+    format: json
+    name: compilations
     path: '{{slug}}/index'
-    summary: '{{title}}'
+    preview_path: compilations/{{slug}}
+    slug: '{{title}}'
     sortable_fields: [date, title]
+    summary: '{{title}}'
     view_groups:
       - label: Year
         field: date
