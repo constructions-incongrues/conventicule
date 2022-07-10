@@ -6,7 +6,7 @@
 
   <body>
     <h1>{{ .Title }}</h1>
-    <p>par {{ range .Params.curators}}{{ .name }}, {{ end }}</p>
+    <p>par {{ range .Params.curators }}{{ .name }}, {{ end }}</p>
     <p>{{ .Description | markdownify}}</p>
 
     <img src="{{ .Params.cover }}" />

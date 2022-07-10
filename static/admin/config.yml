@@ -1,20 +1,23 @@
+backend_local: true
+
 backend:
   name: github
   repo: constructions-incongrues/empilements
   branch: main
   site_domain: 1a522206-9642-4c26-bac4-280770cfbff4
   auth_scope: repo
-  open_authoring: true
+  # open_authoring: true
   use_graphql: true
 
-backend_local: true
 
 media_folder: static/files
 public_folder: /files
 
-display_url: https://empilements.constructions-incongrues.net
-publish_mode: editorial_workflow
+site_url: https://empilements.constructions-incongrues.net
 show_preview_links: true
+# publish_mode: editorial_workflow
+
+
 
 collections:
   - label: Empilement
@@ -23,11 +26,10 @@ collections:
     create: true
     slug: '{{title}}'
     preview_path: empilement/{{slug}}
-    identifier_field: title
+    format: json-frontmatter
+    # path: '{{slug}}/index'
+    summary: '{{title}}'
     sortable_fields: [date, title]
-    extension: json
-    path: '{{slug}}/index'
-    
     view_groups:
       - label: Year
         field: date
@@ -58,7 +60,7 @@ collections:
         name: cover
         widget: image
         choose_url: false
-        hint: Une image pour illustrer
+        required: false
 
       - label: Tracks
         name: tracks
@@ -79,3 +81,16 @@ collections:
                 widget: file
                 required: false
                 choose_url: false
+
+  - name: 'settings'
+    label: 'Settings'
+    delete: false 
+    editor:
+      preview: false
+    files:
+      - name: 'general'
+        label: 'Site Settings'
+        file: 'data/settings.json'
+        description: 'General Site Settings'
+        fields:
+          - { label: 'Global title', name: 'site_title', widget: 'string' }

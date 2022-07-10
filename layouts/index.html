@@ -1,42 +1,13 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>{{ .Title }}</title>
-  </head>
-
-  <body>
-    <h1>{{ .Title }}</h1>
-    <p>par {{ range .Params.curators}}{{ .name }}, {{ end }}</p>
-    <p>{{ .Description | markdownify}}</p>
-
-    <img src="{{ .Params.cover }}" />
-
-    <div>
-      <span class="amplitude-play-pause">GO</span>
-    </div>
-
-    {{ range $index, $track := .Params.tracks }}
-    <div class="amplitude-song-container" data-amplitude-song-index="{{ $index }}">
-      <span data-amplitude-song-info="name" data-amplitude-song-index="{{ $index }}"></span> - 
-      <span data-amplitude-song-info="artist" data-amplitude-song-index="{{ $index }}"></span>
-    </div>
+<body>
+  <h1>Nice. It's looking good already.</h1>
+  {{ .GetPage "/empilement" }}
+  <ul>
+    {{ range (where .Pages "Section" "empilement") }}
+    <li>
+      <a href="{{ .RelPermalink }}">
+        {{ .Title }}
+      </a>
+    </li>
     {{ end }}
-
-    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/amplitudejs@v5.3.2/dist/amplitude.js"></script>
-    <script>
-var tracks = JSON.parse({{ .Params.tracks | jsonify }});
-var songs = [];
-tracks.forEach(track => {
-  songs.push({
-    name: track.title,
-    artist: track.artist,
-    url: track.file,
-    cover: track.cover
-  })
-});
-Amplitude.init({
-  "songs": songs
-});
-    </script>
-  </body>
-</html>
+  </ul>
+</body>
