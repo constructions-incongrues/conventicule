@@ -2,7 +2,6 @@ backend:
   name: github
   repo: constructions-incongrues/empilements
   branch: main
-  base_url: empilements.constructions-incongrues.net
   
 media_folder: static/files
 public_folder: files
