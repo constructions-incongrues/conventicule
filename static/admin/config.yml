@@ -25,7 +25,7 @@ collections:
     preview_path: empilement/{{slug}}
     identifier_field: title
     extension: json
-    path: '{{slug}}/manifest'
+    path: '{{slug}}/index'
     
     view_groups:
       - label: Year
