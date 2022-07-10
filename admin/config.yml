@@ -24,6 +24,7 @@ collections:
     slug: '{{title}}'
     preview_path: empilement/{{slug}}
     identifier_field: title
+    sortable_fields: [date, title]
     extension: json
     path: '{{slug}}/index'
     
