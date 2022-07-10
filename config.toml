@@ -15,4 +15,5 @@ title = 'Empilements'
 
 [outputs]
   home = ['HTML']
-  empilement = ['HTML', 'RSS', 'JSON', 'YAML']
+  empilement = ['RSS']
+  page = ['HTML', 'JSON']

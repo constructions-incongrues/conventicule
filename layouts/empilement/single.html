@@ -5,6 +5,19 @@
   </head>
 
   <body>
+
+    <div class="next-post">
+      {{ if .NextPage }}
+      <a class="link-reverse" href="{{ .NextPage.Permalink }}">« {{ .NextPage.Title | truncate 50 "..." }}</a>
+      {{ end }}
+    </div>
+    <br>
+    <div class="previous-post">
+      {{ if .PrevPage }}
+      <a class="link-reverse" href="{{ .PrevPage.Permalink }}">{{ .PrevPage.Title | truncate 50 "..."}} »</a>
+      {{ end }}
+    </div>
+
     <h1>{{ .Title }}</h1>
     <p>par {{ delimit .Params.curators ", " ", and " }}</p>
     <p>{{ .Params.description | markdownify }}</p>

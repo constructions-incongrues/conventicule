@@ -8,6 +8,7 @@ backend:
   auth_scope: repo
   open_authoring: true
   use_graphql: true
+  squash_merges: true
 
 
 media_folder: static/files
@@ -23,11 +24,11 @@ collections:
     folder: content/empilement
     create: true
     slug: '{{title}}'
-    preview_path: empilement/{{slug}}
+    preview_path: '{{slug}}'
     path: '{{slug}}/_index'
     extension: md
     format: json-frontmatter
-    summary: '{{title}}'
+    summary: "{{title}}"
     sortable_fields: [date, title]
     view_groups:
       - label: Year
