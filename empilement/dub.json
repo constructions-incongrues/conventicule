@@ -1,54 +1,61 @@
-[
-  {
-    "artist": "Count Ossie and the mystic revelation of rastafari",
-    "title": "Tales Of Mozambique"
-  },
-  {
-    "artist": "General Strike",
-    "title": " Interplanetary Music"
-  },
-  {
-    "artist": "Lee Scratch Perry",
-    "title": "rise & shine dub"
-  },
-  {
-    "artist": "Jah Wobble, Holger  Czukay, Jaki Liebezeit",
-    "title": "How Much Are They "
-  },
-  {
-    "artist": "King Tubby & Augustus Pablo",
-    "title": "555 Dub St."
-  },
-  {
-    "artist": "Rhythm and Sound",
-    "title": "Distance tr"
-  },
-  {
-    "artist": "Alpha & Omega",
-    "title": "Merciful Jah"
-  },
-  {
-    "artist": "Pole",
-    "title": "fremd"
-  },
-  {
-    "artist": "Jah Shaka",
-    "title": "Hunter"
-  },
-  {
-    "artist": "Snares",
-    "title": "Electric Funeral"
-  },
-  {
-    "artist": "Dj Scud",
-    "title": "Stormtrooper"
-  },
-  {
-    "artist": "King Earthquake",
-    "title": "Dub Power"
-  },
-  {
-    "artist": "Martyn",
-    "title": "krdl-t-grv"
-  }
-]
+{
+  "date": "2011-11-25",
+  "title": "Dub",
+  "curators": [
+    "Carl Cock"
+  ],
+  "tracks": [
+    {
+      "artist": "Count Ossie and the mystic revelation of rastafari",
+      "title": "Tales Of Mozambique"
+    },
+    {
+      "artist": "General Strike",
+      "title": " Interplanetary Music"
+    },
+    {
+      "artist": "Lee Scratch Perry",
+      "title": "rise & shine dub"
+    },
+    {
+      "artist": "Jah Wobble, Holger  Czukay, Jaki Liebezeit",
+      "title": "How Much Are They "
+    },
+    {
+      "artist": "King Tubby & Augustus Pablo",
+      "title": "555 Dub St."
+    },
+    {
+      "artist": "Rhythm and Sound",
+      "title": "Distance tr"
+    },
+    {
+      "artist": "Alpha & Omega",
+      "title": "Merciful Jah"
+    },
+    {
+      "artist": "Pole",
+      "title": "fremd"
+    },
+    {
+      "artist": "Jah Shaka",
+      "title": "Hunter"
+    },
+    {
+      "artist": "Snares",
+      "title": "Electric Funeral"
+    },
+    {
+      "artist": "Dj Scud",
+      "title": "Stormtrooper"
+    },
+    {
+      "artist": "King Earthquake",
+      "title": "Dub Power"
+    },
+    {
+      "artist": "Martyn",
+      "title": "krdl-t-grv"
+    }
+  ]
+}

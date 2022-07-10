@@ -1,102 +1,109 @@
-[
-  {
-    "artist": "Skream",
-    "title": "Tortured Soul"
-  },
-  {
-    "artist": "Goth Trad",
-    "title": "Cut End"
-  },
-  {
-    "artist": "Kode 9",
-    "title": "Nine Samurai"
-  },
-  {
-    "artist": "Twist",
-    "title": "Maniac"
-  },
-  {
-    "artist": "Ikonika",
-    "title": "Please"
-  },
-  {
-    "artist": "Torqux",
-    "title": "Relentless"
-  },
-  {
-    "artist": "The Bug Ft. Warrior Queen",
-    "title": "Skeng (Kode 9 Remix)"
-  },
-  {
-    "artist": "DZ",
-    "title": "End dub"
-  },
-  {
-    "artist": "Dizzee Rascal & Armand Van Helden",
-    "title": "Bonkers (Doorly Remix)"
-  },
-  {
-    "artist": "Reso",
-    "title": "If you can"
-  },
-  {
-    "artist": "M2J",
-    "title": "Odd Sockz"
-  },
-  {
-    "artist": "Datsik Excision",
-    "title": "Swagga"
-  },
-  {
-    "artist": "Skizm",
-    "title": "The Blank"
-  },
-  {
-    "artist": "Nero",
-    "title": "Shaollin"
-  },
-  {
-    "artist": "The Bug",
-    "title": "Poison Dart (Skream remix)"
-  },
-  {
-    "artist": "George Lenton",
-    "title": "Sorry"
-  },
-  {
-    "artist": "16bit",
-    "title": "Jump"
-  },
-  {
-    "artist": "rusko",
-    "title": "2 n a q"
-  },
-  {
-    "artist": "Goth-Trad",
-    "title": "Smokin' Water"
-  },
-  {
-    "artist": "Wartech",
-    "title": "The Rattlesnake"
-  },
-  {
-    "artist": "Bionics",
-    "title": "Dubcore"
-  },
-  {
-    "artist": "DZ",
-    "title": "How We Do"
-  },
-  {
-    "artist": "Bassnectar",
-    "title": "Basshead"
-  },
-  {
-    "artist": "Propa tingz",
-    "title": "Babylons scared"
-  },
-  {
-    "artist": "Borgore",
-    "title": "Guided Relaxation Dub"
-  }
-]
+{
+  "date": "2012-02-24",
+  "title": "Does Dubstep Is Really Shit ?",
+  "curators": [
+    "Raffi"
+  ],
+  "tracks": [
+    {
+      "artist": "Skream",
+      "title": "Tortured Soul"
+    },
+    {
+      "artist": "Goth Trad",
+      "title": "Cut End"
+    },
+    {
+      "artist": "Kode 9",
+      "title": "Nine Samurai"
+    },
+    {
+      "artist": "Twist",
+      "title": "Maniac"
+    },
+    {
+      "artist": "Ikonika",
+      "title": "Please"
+    },
+    {
+      "artist": "Torqux",
+      "title": "Relentless"
+    },
+    {
+      "artist": "The Bug Ft. Warrior Queen",
+      "title": "Skeng (Kode 9 Remix)"
+    },
+    {
+      "artist": "DZ",
+      "title": "End dub"
+    },
+    {
+      "artist": "Dizzee Rascal & Armand Van Helden",
+      "title": "Bonkers (Doorly Remix)"
+    },
+    {
+      "artist": "Reso",
+      "title": "If you can"
+    },
+    {
+      "artist": "M2J",
+      "title": "Odd Sockz"
+    },
+    {
+      "artist": "Datsik Excision",
+      "title": "Swagga"
+    },
+    {
+      "artist": "Skizm",
+      "title": "The Blank"
+    },
+    {
+      "artist": "Nero",
+      "title": "Shaollin"
+    },
+    {
+      "artist": "The Bug",
+      "title": "Poison Dart (Skream remix)"
+    },
+    {
+      "artist": "George Lenton",
+      "title": "Sorry"
+    },
+    {
+      "artist": "16bit",
+      "title": "Jump"
+    },
+    {
+      "artist": "rusko",
+      "title": "2 n a q"
+    },
+    {
+      "artist": "Goth-Trad",
+      "title": "Smokin' Water"
+    },
+    {
+      "artist": "Wartech",
+      "title": "The Rattlesnake"
+    },
+    {
+      "artist": "Bionics",
+      "title": "Dubcore"
+    },
+    {
+      "artist": "DZ",
+      "title": "How We Do"
+    },
+    {
+      "artist": "Bassnectar",
+      "title": "Basshead"
+    },
+    {
+      "artist": "Propa tingz",
+      "title": "Babylons scared"
+    },
+    {
+      "artist": "Borgore",
+      "title": "Guided Relaxation Dub"
+    }
+  ]
+}

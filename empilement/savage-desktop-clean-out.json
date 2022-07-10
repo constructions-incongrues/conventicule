@@ -1,62 +1,69 @@
-[
-  {
-    "artist": "The Coasters",
-    "title": "Get An Ugly Girl To Marry You"
-  },
-  {
-    "artist": "The Human League",
-    "title": " the path of least resistance"
-  },
-  {
-    "artist": "Fuckemos",
-    "title": "The Screams of Wild Women"
-  },
-  {
-    "artist": "Architect",
-    "title": "The shadow of eve"
-  },
-  {
-    "artist": "White Zombie",
-    "title": "Blur the technicolor [Poker from Stud to Strip Mix] "
-  },
-  {
-    "artist": "And One",
-    "title": "Panzermensch"
-  },
-  {
-    "artist": "Chris Craft",
-    "title": "Discosmic Dance"
-  },
-  {
-    "artist": "Le voyage dans la lune",
-    "title": "Comptine 1"
-  },
-  {
-    "artist": "Les modules etranges",
-    "title": "End (who are you to decide whether i should live or die)"
-  },
-  {
-    "artist": "Gary Numan",
-    "title": "Down in the park"
-  },
-  {
-    "artist": "Seth Nemec",
-    "title": "Count Zero"
-  },
-  {
-    "artist": "Dead Can Dance",
-    "title": "The ubiquitous mr. lovegrove"
-  },
-  {
-    "artist": "The Black Angels",
-    "title": "You On the Run"
-  },
-  {
-    "artist": "Frustration",
-    "title": "Faster"
-  },
-  {
-    "artist": "Barry Adamson",
-    "title": "Something wicked thi way comes"
-  }
-]
+{
+  "date": "2011-10-13",
+  "title": "SAVAGE DESKTOP CLEAN OUT",
+  "curators": [
+    "Goupil Acnéique"
+  ],
+  "tracks": [
+    {
+      "artist": "The Coasters",
+      "title": "Get An Ugly Girl To Marry You"
+    },
+    {
+      "artist": "The Human League",
+      "title": " the path of least resistance"
+    },
+    {
+      "artist": "Fuckemos",
+      "title": "The Screams of Wild Women"
+    },
+    {
+      "artist": "Architect",
+      "title": "The shadow of eve"
+    },
+    {
+      "artist": "White Zombie",
+      "title": "Blur the technicolor [Poker from Stud to Strip Mix] "
+    },
+    {
+      "artist": "And One",
+      "title": "Panzermensch"
+    },
+    {
+      "artist": "Chris Craft",
+      "title": "Discosmic Dance"
+    },
+    {
+      "artist": "Le voyage dans la lune",
+      "title": "Comptine 1"
+    },
+    {
+      "artist": "Les modules etranges",
+      "title": "End (who are you to decide whether i should live or die)"
+    },
+    {
+      "artist": "Gary Numan",
+      "title": "Down in the park"
+    },
+    {
+      "artist": "Seth Nemec",
+      "title": "Count Zero"
+    },
+    {
+      "artist": "Dead Can Dance",
+      "title": "The ubiquitous mr. lovegrove"
+    },
+    {
+      "artist": "The Black Angels",
+      "title": "You On the Run"
+    },
+    {
+      "artist": "Frustration",
+      "title": "Faster"
+    },
+    {
+      "artist": "Barry Adamson",
+      "title": "Something wicked thi way comes"
+    }
+  ]
+}

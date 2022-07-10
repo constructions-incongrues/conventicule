@@ -1,74 +1,81 @@
-[
-  {
-    "artist": "Michael Kamen",
-    "title": "Opening Titles"
-  },
-  {
-    "artist": "Elliot Goldenthal",
-    "title": "The Pet Sematary"
-  },
-  {
-    "artist": "Michael Small",
-    "title": "On The Roof"
-  },
-  {
-    "artist": "Jerry Fielding",
-    "title": "Suicide"
-  },
-  {
-    "artist": "Jerry Goldsmith",
-    "title": "Mother's Room"
-  },
-  {
-    "artist": "Jay Chattaway",
-    "title": "Maniac's Theme (Main Title)"
-  },
-  {
-    "artist": "Goblin",
-    "title": "Strive After Dark"
-  },
-  {
-    "artist": "Wendy Carlos",
-    "title": "The Rocky Mountains"
-  },
-  {
-    "artist": "John Carpenter",
-    "title": "Tommy Tells Of Ghost Ships"
-  },
-  {
-    "artist": "Bernard Herrman",
-    "title": "The Toys"
-  },
-  {
-    "artist": "Pino Danaggio",
-    "title": "Sleaze_Karen's Nightmare"
-  },
-  {
-    "artist": "John Harrison",
-    "title": "Something To Tide You Over"
-  },
-  {
-    "artist": "Joseph LoDuca",
-    "title": "Love Never Dies"
-  },
-  {
-    "artist": "Giorgio Moroder",
-    "title": "The Wheel"
-  },
-  {
-    "artist": "Richard Band",
-    "title": "Prologue_Main Title"
-  },
-  {
-    "artist": "Jay Chattaway",
-    "title": "Flashback Montage"
-  },
-  {
-    "artist": "Howard Shore",
-    "title": "Finale"
-  },
-  {
-    "artist": "Jerry Goldsmith",
-    "title": "End Title (All The Power)"
-  }
-]
+{
+  "date": "2011-12-21",
+  "title": "Assemblage à Vocation Épouvantable",
+  "curators": [
+    "Paul Kersey"
+  ],
+  "tracks": [
+    {
+      "artist": "Michael Kamen",
+      "title": "Opening Titles"
+    },
+    {
+      "artist": "Elliot Goldenthal",
+      "title": "The Pet Sematary"
+    },
+    {
+      "artist": "Michael Small",
+      "title": "On The Roof"
+    },
+    {
+      "artist": "Jerry Fielding",
+      "title": "Suicide"
+    },
+    {
+      "artist": "Jerry Goldsmith",
+      "title": "Mother's Room"
+    },
+    {
+      "artist": "Jay Chattaway",
+      "title": "Maniac's Theme (Main Title)"
+    },
+    {
+      "artist": "Goblin",
+      "title": "Strive After Dark"
+    },
+    {
+      "artist": "Wendy Carlos",
+      "title": "The Rocky Mountains"
+    },
+    {
+      "artist": "John Carpenter",
+      "title": "Tommy Tells Of Ghost Ships"
+    },
+    {
+      "artist": "Bernard Herrman",
+      "title": "The Toys"
+    },
+    {
+      "artist": "Pino Danaggio",
+      "title": "Sleaze_Karen's Nightmare"
+    },
+    {
+      "artist": "John Harrison",
+      "title": "Something To Tide You Over"
+    },
+    {
+      "artist": "Joseph LoDuca",
+      "title": "Love Never Dies"
+    },
+    {
+      "artist": "Giorgio Moroder",
+      "title": "The Wheel"
+    },
+    {
+      "artist": "Richard Band",
+      "title": "Prologue_Main Title"
+    },
+    {
+      "artist": "Jay Chattaway",
+      "title": "Flashback Montage"
+    },
+    {
+      "artist": "Howard Shore",
+      "title": "Finale"
+    },
+    {
+      "artist": "Jerry Goldsmith",
+      "title": "End Title (All The Power)"
+    }
+  ]
+}

@@ -1,50 +1,57 @@
-[
-  {
-    "artist": "Rete 105",
-    "title": "Vacanze"
-  },
-  {
-    "artist": "Pino D'angio",
-    "title": "Donna In Costruzione"
-  },
-  {
-    "artist": "Aldo Maccione",
-    "title": "Le Dragueur Classe"
-  },
-  {
-    "artist": "Gino Palatino",
-    "title": "Vendetta A Parrigi"
-  },
-  {
-    "artist": "Johnny Junior",
-    "title": "Bank Robbery Rap"
-  },
-  {
-    "artist": "Band Of Jocks",
-    "title": " Let's All Dance"
-  },
-  {
-    "artist": "Boomerang Club Band",
-    "title": "Deejay Superstar (Extended)"
-  },
-  {
-    "artist": "Fassari",
-    "title": "Romadinotte"
-  },
-  {
-    "artist": "Gee Gee & Gym Band",
-    "title": "Majic Kaboolal"
-  },
-  {
-    "artist": "Dj Look ",
-    "title": " Capita"
-  },
-  {
-    "artist": "Marzio Dance DJ",
-    "title": "Rap-O-Hush _Another Version"
-  },
-  {
-    "artist": "Radio Band",
-    "title": "Radio Rap "
-  }
-]
+{
+  "date": "2012-02-22",
+  "title": "Rap Rital",
+  "curators": [
+    "Le Professeur M."
+  ],
+  "tracks": [
+    {
+      "artist": "Rete 105",
+      "title": "Vacanze"
+    },
+    {
+      "artist": "Pino D'angio",
+      "title": "Donna In Costruzione"
+    },
+    {
+      "artist": "Aldo Maccione",
+      "title": "Le Dragueur Classe"
+    },
+    {
+      "artist": "Gino Palatino",
+      "title": "Vendetta A Parrigi"
+    },
+    {
+      "artist": "Johnny Junior",
+      "title": "Bank Robbery Rap"
+    },
+    {
+      "artist": "Band Of Jocks",
+      "title": " Let's All Dance"
+    },
+    {
+      "artist": "Boomerang Club Band",
+      "title": "Deejay Superstar (Extended)"
+    },
+    {
+      "artist": "Fassari",
+      "title": "Romadinotte"
+    },
+    {
+      "artist": "Gee Gee & Gym Band",
+      "title": "Majic Kaboolal"
+    },
+    {
+      "artist": "Dj Look ",
+      "title": " Capita"
+    },
+    {
+      "artist": "Marzio Dance DJ",
+      "title": "Rap-O-Hush _Another Version"
+    },
+    {
+      "artist": "Radio Band",
+      "title": "Radio Rap "
+    }
+  ]
+}

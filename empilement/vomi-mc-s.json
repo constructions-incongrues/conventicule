@@ -1,26 +1,33 @@
-[
-  {
-    "artist": "Nouveau riche",
-    "title": "Elektronische Dierentuin"
-  },
-  {
-    "artist": "Gangpol und mit",
-    "title": "machine à remonter le temps"
-  },
-  {
-    "artist": "Taktloss feat busdriver",
-    "title": "wunder bars"
-  },
-  {
-    "artist": "Nouveau riche",
-    "title": "Pomp Les Volumes"
-  },
-  {
-    "artist": "Gangpol und mit",
-    "title": "ghetto galaxy"
-  },
-  {
-    "artist": "Taktloss feat Mc Basstard",
-    "title": "Dogma"
-  }
-]
+{
+  "date": "2012-02-28",
+  "title": "Vomi MC's",
+  "curators": [
+    "Klaus Vomi"
+  ],
+  "tracks": [
+    {
+      "artist": "Nouveau riche",
+      "title": "Elektronische Dierentuin"
+    },
+    {
+      "artist": "Gangpol und mit",
+      "title": "machine à remonter le temps"
+    },
+    {
+      "artist": "Taktloss feat busdriver",
+      "title": "wunder bars"
+    },
+    {
+      "artist": "Nouveau riche",
+      "title": "Pomp Les Volumes"
+    },
+    {
+      "artist": "Gangpol und mit",
+      "title": "ghetto galaxy"
+    },
+    {
+      "artist": "Taktloss feat Mc Basstard",
+      "title": "Dogma"
+    }
+  ]
+}

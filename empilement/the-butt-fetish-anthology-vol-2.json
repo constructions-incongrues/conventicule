@@ -1,78 +1,85 @@
-[
-  {
-    "artist": "Lamborghini",
-    "title": "On The Beach"
-  },
-  {
-    "artist": "Bassline Boys",
-    "title": "On Se Calme (scandale mix)"
-  },
-  {
-    "artist": "Pino D'angio",
-    "title": "Ma Quale Idea"
-  },
-  {
-    "artist": "Shitmat",
-    "title": "Invibible Hardcore"
-  },
-  {
-    "artist": "740 Boyz",
-    "title": "Shimmy Shake (Extended Version)"
-  },
-  {
-    "artist": "computor rockers",
-    "title": "green screen (dmx krew remix)"
-  },
-  {
-    "artist": "A.D.A.C. 8286",
-    "title": "Full tilt"
-  },
-  {
-    "artist": "Gazormass",
-    "title": "defenestration old friends"
-  },
-  {
-    "artist": "Datashat",
-    "title": "Stop The Message"
-  },
-  {
-    "artist": "Foxdye",
-    "title": "Tacompton mdma booty bang"
-  },
-  {
-    "artist": "Insane clown posse Feat Ol dirty bastard",
-    "title": "Bitch"
-  },
-  {
-    "artist": "Maggotron Crushing Crew",
-    "title": "Miami Bass Express"
-  },
-  {
-    "artist": "Mediengruppe Telekommander",
-    "title": "Kommanda (Lfo Demon Remix)"
-  },
-  {
-    "artist": "Modselector feat. Otto von Schirach",
-    "title": "Hyper Hyper"
-  },
-  {
-    "artist": "Passenger of shit",
-    "title": "Stapletapewurmsonmypenis"
-  },
-  {
-    "artist": "Leo",
-    "title": "Pomp Les Volumes"
-  },
-  {
-    "artist": "The Egyptian Lover",
-    "title": "Freak a holic"
-  },
-  {
-    "artist": "U.S.A. KING$",
-    "title": "USA KINGS MAGIC STARS"
-  },
-  {
-    "artist": "Very Impossible Person",
-    "title": "Erotic Conflict "
-  }
-]
+{
+  "date": "2011-10-07",
+  "title": "The Butt Fetish Anthology, vol. 2",
+  "curators": [
+    "Bozoo et Bertier"
+  ],
+  "tracks": [
+    {
+      "artist": "Lamborghini",
+      "title": "On The Beach"
+    },
+    {
+      "artist": "Bassline Boys",
+      "title": "On Se Calme (scandale mix)"
+    },
+    {
+      "artist": "Pino D'angio",
+      "title": "Ma Quale Idea"
+    },
+    {
+      "artist": "Shitmat",
+      "title": "Invibible Hardcore"
+    },
+    {
+      "artist": "740 Boyz",
+      "title": "Shimmy Shake (Extended Version)"
+    },
+    {
+      "artist": "computor rockers",
+      "title": "green screen (dmx krew remix)"
+    },
+    {
+      "artist": "A.D.A.C. 8286",
+      "title": "Full tilt"
+    },
+    {
+      "artist": "Gazormass",
+      "title": "defenestration old friends"
+    },
+    {
+      "artist": "Datashat",
+      "title": "Stop The Message"
+    },
+    {
+      "artist": "Foxdye",
+      "title": "Tacompton mdma booty bang"
+    },
+    {
+      "artist": "Insane clown posse Feat Ol dirty bastard",
+      "title": "Bitch"
+    },
+    {
+      "artist": "Maggotron Crushing Crew",
+      "title": "Miami Bass Express"
+    },
+    {
+      "artist": "Mediengruppe Telekommander",
+      "title": "Kommanda (Lfo Demon Remix)"
+    },
+    {
+      "artist": "Modselector feat. Otto von Schirach",
+      "title": "Hyper Hyper"
+    },
+    {
+      "artist": "Passenger of shit",
+      "title": "Stapletapewurmsonmypenis"
+    },
+    {
+      "artist": "Leo",
+      "title": "Pomp Les Volumes"
+    },
+    {
+      "artist": "The Egyptian Lover",
+      "title": "Freak a holic"
+    },
+    {
+      "artist": "U.S.A. KING$",
+      "title": "USA KINGS MAGIC STARS"
+    },
+    {
+      "artist": "Very Impossible Person",
+      "title": "Erotic Conflict "
+    }
+  ]
+}

@@ -1,38 +1,45 @@
-[
-  {
-    "artist": "Bangkok Impact",
-    "title": "Face to Interface"
-  },
-  {
-    "artist": "Rude 66",
-    "title": "my 909"
-  },
-  {
-    "artist": "Beta Evers",
-    "title": "im porsche 928 uber die autobahn"
-  },
-  {
-    "artist": "Model500",
-    "title": "OFI"
-  },
-  {
-    "artist": "Goudron",
-    "title": "Scalliwagz"
-  },
-  {
-    "artist": "Adult",
-    "title": "Nite Life"
-  },
-  {
-    "artist": "Binarpilot",
-    "title": "Smile"
-  },
-  {
-    "artist": "Suibom Serum",
-    "title": "Because I am"
-  },
-  {
-    "artist": "Debmaster",
-    "title": "Superman"
-  }
-]
+{
+  "date": "2011-11-23",
+  "title": "Super Futur",
+  "curators": [
+    "Nate"
+  ],
+  "tracks": [
+    {
+      "artist": "Bangkok Impact",
+      "title": "Face to Interface"
+    },
+    {
+      "artist": "Rude 66",
+      "title": "my 909"
+    },
+    {
+      "artist": "Beta Evers",
+      "title": "im porsche 928 uber die autobahn"
+    },
+    {
+      "artist": "Model500",
+      "title": "OFI"
+    },
+    {
+      "artist": "Goudron",
+      "title": "Scalliwagz"
+    },
+    {
+      "artist": "Adult",
+      "title": "Nite Life"
+    },
+    {
+      "artist": "Binarpilot",
+      "title": "Smile"
+    },
+    {
+      "artist": "Suibom Serum",
+      "title": "Because I am"
+    },
+    {
+      "artist": "Debmaster",
+      "title": "Superman"
+    }
+  ]
+}

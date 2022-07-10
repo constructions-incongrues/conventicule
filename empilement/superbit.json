@@ -1,66 +1,73 @@
-[
-  {
-    "artist": "Kommando Liebe",
-    "title": "I N F E C T E D"
-  },
-  {
-    "artist": "Bad Land Farmers",
-    "title": "Fastest train on the railroad"
-  },
-  {
-    "artist": "The J. Arthur Keenes Band",
-    "title": "You Sunk My Spaceship!"
-  },
-  {
-    "artist": "Lektrogirl featuring MC Tighty Whitey",
-    "title": "Poupée Flash"
-  },
-  {
-    "artist": "The Hardliner",
-    "title": "Zolöft Blues"
-  },
-  {
-    "artist": "Psilodump",
-    "title": "Kom tillbakaaa"
-  },
-  {
-    "artist": "Pontonius",
-    "title": "7000 Angstrom"
-  },
-  {
-    "artist": "Stranglecop",
-    "title": "Emergency Car!"
-  },
-  {
-    "artist": "La Bite à Bertier",
-    "title": "Oh no!"
-  },
-  {
-    "artist": "Egotronic",
-    "title": "Ich Weiss Bescheid"
-  },
-  {
-    "artist": "Don Augusto",
-    "title": "Alto"
-  },
-  {
-    "artist": "Rauberhole",
-    "title": "Micromusic rap"
-  },
-  {
-    "artist": "386 DX",
-    "title": "Группа крови"
-  },
-  {
-    "artist": "Cowp",
-    "title": "Solomonshort"
-  },
-  {
-    "artist": "Logicbomb",
-    "title": "Vol de nuit"
-  },
-  {
-    "artist": "x|k",
-    "title": "Lazerlit"
-  }
-]
+{
+  "date": "2011-11-17",
+  "title": "Superbit",
+  "curators": [
+    "Eat Rabbit"
+  ],
+  "tracks": [
+    {
+      "artist": "Kommando Liebe",
+      "title": "I N F E C T E D"
+    },
+    {
+      "artist": "Bad Land Farmers",
+      "title": "Fastest train on the railroad"
+    },
+    {
+      "artist": "The J. Arthur Keenes Band",
+      "title": "You Sunk My Spaceship!"
+    },
+    {
+      "artist": "Lektrogirl featuring MC Tighty Whitey",
+      "title": "Poupée Flash"
+    },
+    {
+      "artist": "The Hardliner",
+      "title": "Zolöft Blues"
+    },
+    {
+      "artist": "Psilodump",
+      "title": "Kom tillbakaaa"
+    },
+    {
+      "artist": "Pontonius",
+      "title": "7000 Angstrom"
+    },
+    {
+      "artist": "Stranglecop",
+      "title": "Emergency Car!"
+    },
+    {
+      "artist": "La Bite à Bertier",
+      "title": "Oh no!"
+    },
+    {
+      "artist": "Egotronic",
+      "title": "Ich Weiss Bescheid"
+    },
+    {
+      "artist": "Don Augusto",
+      "title": "Alto"
+    },
+    {
+      "artist": "Rauberhole",
+      "title": "Micromusic rap"
+    },
+    {
+      "artist": "386 DX",
+      "title": "Группа крови"
+    },
+    {
+      "artist": "Cowp",
+      "title": "Solomonshort"
+    },
+    {
+      "artist": "Logicbomb",
+      "title": "Vol de nuit"
+    },
+    {
+      "artist": "x|k",
+      "title": "Lazerlit"
+    }
+  ]
+}

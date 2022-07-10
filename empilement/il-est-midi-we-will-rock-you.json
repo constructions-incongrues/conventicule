@@ -1,62 +1,69 @@
-[
-  {
-    "artist": "Queen midi",
-    "title": "We will rock you"
-  },
-  {
-    "artist": "Francisco Andres",
-    "title": "Pop Muzik"
-  },
-  {
-    "artist": "Din stalker",
-    "title": "Lidilidi"
-  },
-  {
-    "artist": "Scott bradlee",
-    "title": "Regulate (Toy Instrument remix)"
-  },
-  {
-    "artist": "Ed cox",
-    "title": "Arabian raves organ mix"
-  },
-  {
-    "artist": "Hudson Mohawke",
-    "title": "Thunder Bay "
-  },
-  {
-    "artist": "EI-P",
-    "title": "Drones Over BKLYN"
-  },
-  {
-    "artist": "The Source",
-    "title": "Yeah Yeah Yeah"
-  },
-  {
-    "artist": "Wali band",
-    "title": "Baik baik sayang (disco  mix)"
-  },
-  {
-    "artist": "Fellow",
-    "title": "Hands Dem Up"
-  },
-  {
-    "artist": "Fast Radio",
-    "title": "Under My Thumb"
-  },
-  {
-    "artist": "Hadise",
-    "title": "Düm Tek Tek"
-  },
-  {
-    "artist": "Hercelot",
-    "title": "Owing to difference in music char"
-  },
-  {
-    "artist": "Mayhem",
-    "title": "Nintendon't"
-  },
-  {
-    "artist": "Dada Life",
-    "title": "Happy Violence"
-  }
-]
+{
+  "date": "2011-10-18",
+  "title": "Il est midi, we will rock you",
+  "curators": [
+    "Le mystérieux papy Makinananas"
+  ],
+  "tracks": [
+    {
+      "artist": "Queen midi",
+      "title": "We will rock you"
+    },
+    {
+      "artist": "Francisco Andres",
+      "title": "Pop Muzik"
+    },
+    {
+      "artist": "Din stalker",
+      "title": "Lidilidi"
+    },
+    {
+      "artist": "Scott bradlee",
+      "title": "Regulate (Toy Instrument remix)"
+    },
+    {
+      "artist": "Ed cox",
+      "title": "Arabian raves organ mix"
+    },
+    {
+      "artist": "Hudson Mohawke",
+      "title": "Thunder Bay "
+    },
+    {
+      "artist": "EI-P",
+      "title": "Drones Over BKLYN"
+    },
+    {
+      "artist": "The Source",
+      "title": "Yeah Yeah Yeah"
+    },
+    {
+      "artist": "Wali band",
+      "title": "Baik baik sayang (disco  mix)"
+    },
+    {
+      "artist": "Fellow",
+      "title": "Hands Dem Up"
+    },
+    {
+      "artist": "Fast Radio",
+      "title": "Under My Thumb"
+    },
+    {
+      "artist": "Hadise",
+      "title": "Düm Tek Tek"
+    },
+    {
+      "artist": "Hercelot",
+      "title": "Owing to difference in music char"
+    },
+    {
+      "artist": "Mayhem",
+      "title": "Nintendon't"
+    },
+    {
+      "artist": "Dada Life",
+      "title": "Happy Violence"
+    }
+  ]
+}
