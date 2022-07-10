@@ -14,49 +14,36 @@ publish_mode: editorial_workflow
 show_preview_links: true
 
 collections:
-  - label: "Contents"
-    name: "contents"
-    files:
-      - label: "Empilement"
-        name: "empilement"
-        preview_path: empilement
-        file: "content/_index.md"
+  - label: "Empilements"
+    name: "empilements"
+    folder: "content/empilement"
+    create: true
+    slug: {{ title }}
+    preview_path: empilement/{{slug}}
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Description', name: 'description', widget: 'markdown', required: false }
+      - label: "Cover"
+        name: "cover"
+        widget: "file"
+        media_library:
+          choose_url: false
+      - label: Curators
+        name: curators
+        widget: list
+        summary: "{{name}}"
         fields:
-          - { label: 'Title', name: 'title', widget: 'string' }
-          - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-          - { label: 'Description', name: 'description', widget: 'markdown', required: false }
-          - label: "Cover"
-            name: "cover"
-            widget: "file"
+          - {label: Name, name: name, widget: string}
+      - label: Tracks
+        name: tracks
+        widget: list
+        summary: "{{artist}} - {{title}}"
+        fields:
+          - {label: Artist, name: artist, widget: string}
+          - {label: Title, name: title, widget: string}
+          - label: File
+            name: file
+            widget: file
             media_library:
               choose_url: false
-          - label: Curators
-            name: curators
-            widget: list
-            summary: "{{name}}"
-            fields:
-              - {label: Name, name: name, widget: string}
-          - label: Tracks
-            name: tracks
-            widget: list
-            summary: "{{artist}} - {{title}}"
-            fields:
-              - {label: Artist, name: artist, widget: string}
-              - {label: Title, name: title, widget: string}
-              - label: File
-                name: file
-                widget: file
-                media_library:
-                  choose_url: false
-
-  - label: "Blog"
-    name: "blog"
-    folder: "_posts/blog"
-    preview_path: blog/{{slug}}
-    slug: {{year}}-{{month}}-{{slug}}
-    create: true
-    fields:
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Featured Image", name: "thumbnail", widget: "image"}
-      - {label: "Body", name: "body", widget: "markdown"}
