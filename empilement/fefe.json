@@ -2,5 +2,12 @@
   "date": "2022-07-10T03:04:46.846Z",
   "title": "fefe",
   "description": "fefefe",
-  "cover": "/files/téléchargement-4-.png"
+  "cover": "/files/téléchargement-4-.png",
+  "tracks": [
+    {
+      "artist": "fefefe",
+      "title": "fefee",
+      "file": "/files/02-20-20uske-cc-81-20orchestra-20-20einer-20blume-20.mp3"
+    }
+  ]
 }
