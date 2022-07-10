@@ -18,21 +18,21 @@ collections:
     name: "empilements"
     folder: "content/empilement"
     create: true
-    slug: "{{ title }}"
+    slug: {{title}}
     preview_path: empilement/{{slug}}
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'markdown', required: false }
-      - label: "Cover"
-        name: "cover"
-        widget: "file"
+      - label: Cover
+        name: cover
+        widget: image
         media_library:
           choose_url: false
       - label: Curators
         name: curators
         widget: list
-        summary: "{{name}}"
+        summary: {{name}}
         fields:
           - {label: Name, name: name, widget: string}
       - label: Tracks
