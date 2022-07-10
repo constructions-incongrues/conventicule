@@ -1,1 +1,5 @@
 baseURL = "https://empilement.constructions-incongrues.net"
+
+[outputs]
+  home = ['HTML', 'AMP', 'RSS']
+  page = ['HTML']
