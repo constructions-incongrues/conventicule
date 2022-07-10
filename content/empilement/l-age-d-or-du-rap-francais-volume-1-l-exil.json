@@ -1,30 +1,38 @@
-[
-  {
-    "artist": "Bernard Lavilliers",
-    "title": "San Salvador"
-  },
-  {
-    "artist": "Joe Dassin",
-    "title": "L'été indien"
-  },
-  {
-    "artist": "Johnny Hallyday",
-    "title": "Poème Sur La 7ème"
-  },
-  {
-    "artist": "Pierre Vassiliu",
-    "title": "En vadrouille a montpellier"
-  },
-  {
-    "artist": "Sacha Distel",
-    "title": "Le bateau blanc"
-  },
-  {
-    "artist": "Visage",
-    "title": "Fade To Grey"
-  },
-  {
-    "artist": "Yves Simon",
-    "title": "J'ai rêvé New York"
-  }
-]
+{
+  "date": "2013-03-01",
+  "title": "L'Âge d'Or Du Rap Français, Volume 1 - L'Exil",
+  "curators": [
+    "Fchaff",
+    "Morusque"
+  ],
+  "tracks": [
+    {
+      "artist": "Bernard Lavilliers",
+      "title": "San Salvador"
+    },
+    {
+      "artist": "Joe Dassin",
+      "title": "L'été indien"
+    },
+    {
+      "artist": "Johnny Hallyday",
+      "title": "Poème Sur La 7ème"
+    },
+    {
+      "artist": "Pierre Vassiliu",
+      "title": "En vadrouille a montpellier"
+    },
+    {
+      "artist": "Sacha Distel",
+      "title": "Le bateau blanc"
+    },
+    {
+      "artist": "Visage",
+      "title": "Fade To Grey"
+    },
+    {
+      "artist": "Yves Simon",
+      "title": "J'ai rêvé New York"
+    }
+  ]
+}

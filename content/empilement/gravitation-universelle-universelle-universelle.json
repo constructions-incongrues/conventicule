@@ -1,70 +1,79 @@
-[
-  {
-    "artist": "Steve Waring",
-    "title": "Les Grenouilles"
-  },
-  {
-    "artist": "Roberto Pregadio",
-    "title": "bi-di-bi-da"
-  },
-  {
-    "artist": "Les Quatre Barbus",
-    "title": "La Pince à Linge"
-  },
-  {
-    "artist": "Mio Mao",
-    "title": "The Spider"
-  },
-  {
-    "artist": "Disco Zombies",
-    "title": "Drums Over London"
-  },
-  {
-    "artist": "Jean Leccia",
-    "title": "Les Saintes Chéries"
-  },
-  {
-    "artist": "The Chordettes",
-    "title": "Mr. Sandman"
-  },
-  {
-    "artist": "Aphex Twin",
-    "title": "Didgeridoo"
-  },
-  {
-    "artist": "Ennio Morricone",
-    "title": "Il Était Une Fois La Révolution"
-  },
-  {
-    "artist": "Akira OST",
-    "title": "Doll's Polyphony"
-  },
-  {
-    "artist": "Piero Umiliani",
-    "title": "Luna di Miele"
-  },
-  {
-    "artist": "Queen",
-    "title": "Under Pressure"
-  },
-  {
-    "artist": "Dim",
-    "title": "Publicité"
-  },
-  {
-    "artist": "Goblin",
-    "title": "Tenebre"
-  },
-  {
-    "artist": "Francis Blanche et Pierre Dac",
-    "title": "Le Parti d'En Rire"
-  },
-  {
-    "artist": "François de Roubaix",
-    "title": "Piti Piti Pas"
-  },
-  {
-    "artist": "Kermit",
-    "title": "The Rainbow Connection"
-  }
-]
+{
+  "date": "2011-10-14",
+  "title": "Gravitation Universelle Universelle Universelle",
+  "curators": [
+    "Michel Bertier",
+    "Iris",
+    "Satanik Mike"
+  ],
+  "tracks": [
+    {
+      "artist": "Steve Waring",
+      "title": "Les Grenouilles"
+    },
+    {
+      "artist": "Roberto Pregadio",
+      "title": "bi-di-bi-da"
+    },
+    {
+      "artist": "Les Quatre Barbus",
+      "title": "La Pince à Linge"
+    },
+    {
+      "artist": "Mio Mao",
+      "title": "The Spider"
+    },
+    {
+      "artist": "Disco Zombies",
+      "title": "Drums Over London"
+    },
+    {
+      "artist": "Jean Leccia",
+      "title": "Les Saintes Chéries"
+    },
+    {
+      "artist": "The Chordettes",
+      "title": "Mr. Sandman"
+    },
+    {
+      "artist": "Aphex Twin",
+      "title": "Didgeridoo"
+    },
+    {
+      "artist": "Ennio Morricone",
+      "title": "Il Était Une Fois La Révolution"
+    },
+    {
+      "artist": "Akira OST",
+      "title": "Doll's Polyphony"
+    },
+    {
+      "artist": "Piero Umiliani",
+      "title": "Luna di Miele"
+    },
+    {
+      "artist": "Queen",
+      "title": "Under Pressure"
+    },
+    {
+      "artist": "Dim",
+      "title": "Publicité"
+    },
+    {
+      "artist": "Goblin",
+      "title": "Tenebre"
+    },
+    {
+      "artist": "Francis Blanche et Pierre Dac",
+      "title": "Le Parti d'En Rire"
+    },
+    {
+      "artist": "François de Roubaix",
+      "title": "Piti Piti Pas"
+    },
+    {
+      "artist": "Kermit",
+      "title": "The Rainbow Connection"
+    }
+  ]
+}

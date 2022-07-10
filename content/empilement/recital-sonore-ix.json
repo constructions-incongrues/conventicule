@@ -1,82 +1,90 @@
-[
-  {
-    "artist": "Unknown Artist",
-    "title": "I Would Like"
-  },
-  {
-    "artist": "Ennio Morricone",
-    "title": "La Banola"
-  },
-  {
-    "artist": "Stumbleine",
-    "title": "Light sleeper"
-  },
-  {
-    "artist": "36",
-    "title": "Fionas room"
-  },
-  {
-    "artist": "Volor Flex",
-    "title": "Stolen Child"
-  },
-  {
-    "artist": "Yagya",
-    "title": "Rigning Átta"
-  },
-  {
-    "artist": "Tomas Dvorak",
-    "title": "Mr Handagote"
-  },
-  {
-    "artist": "Miles Tilmann",
-    "title": "The Big Swim"
-  },
-  {
-    "artist": "Brock Van Wey",
-    "title": "Too little too late"
-  },
-  {
-    "artist": "Goldmund",
-    "title": "25 Thousand Miles"
-  },
-  {
-    "artist": "Transient",
-    "title": "Interlude"
-  },
-  {
-    "artist": "Workbench",
-    "title": "Zoo (dawn)"
-  },
-  {
-    "artist": "Brothomstates",
-    "title": "Viimo"
-  },
-  {
-    "artist": "Galerie Stratique",
-    "title": "Luna"
-  },
-  {
-    "artist": "Sunken Foal",
-    "title": "Can't Fuck the Moonlight"
-  },
-  {
-    "artist": "Esoteric Sob",
-    "title": "PeopleWithoutFace"
-  },
-  {
-    "artist": "Lackluster",
-    "title": "Rumk8"
-  },
-  {
-    "artist": "Bola",
-    "title": "Pae Paoe"
-  },
-  {
-    "artist": "Kettel",
-    "title": "No comfort at all"
-  },
-  {
-    "artist": "Mosaik",
-    "title": "Plateau"
-  }
-]
+{
+  "date": "2011-12-15",
+  "title": "Récital Sonore IX",
+  "curators": [
+    "Gumbi",
+    "Naono"
+  ],
+  "tracks": [
+    {
+      "artist": "Unknown Artist",
+      "title": "I Would Like"
+    },
+    {
+      "artist": "Ennio Morricone",
+      "title": "La Banola"
+    },
+    {
+      "artist": "Stumbleine",
+      "title": "Light sleeper"
+    },
+    {
+      "artist": "36",
+      "title": "Fionas room"
+    },
+    {
+      "artist": "Volor Flex",
+      "title": "Stolen Child"
+    },
+    {
+      "artist": "Yagya",
+      "title": "Rigning Átta"
+    },
+    {
+      "artist": "Tomas Dvorak",
+      "title": "Mr Handagote"
+    },
+    {
+      "artist": "Miles Tilmann",
+      "title": "The Big Swim"
+    },
+    {
+      "artist": "Brock Van Wey",
+      "title": "Too little too late"
+    },
+    {
+      "artist": "Goldmund",
+      "title": "25 Thousand Miles"
+    },
+    {
+      "artist": "Transient",
+      "title": "Interlude"
+    },
+    {
+      "artist": "Workbench",
+      "title": "Zoo (dawn)"
+    },
+    {
+      "artist": "Brothomstates",
+      "title": "Viimo"
+    },
+    {
+      "artist": "Galerie Stratique",
+      "title": "Luna"
+    },
+    {
+      "artist": "Sunken Foal",
+      "title": "Can't Fuck the Moonlight"
+    },
+    {
+      "artist": "Esoteric Sob",
+      "title": "PeopleWithoutFace"
+    },
+    {
+      "artist": "Lackluster",
+      "title": "Rumk8"
+    },
+    {
+      "artist": "Bola",
+      "title": "Pae Paoe"
+    },
+    {
+      "artist": "Kettel",
+      "title": "No comfort at all"
+    },
+    {
+      "artist": "Mosaik",
+      "title": "Plateau"
+    }
+  ]
+}

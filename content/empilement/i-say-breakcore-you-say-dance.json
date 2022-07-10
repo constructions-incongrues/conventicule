@@ -1,90 +1,97 @@
-[
-  {
-    "artist": "Servants Of The Apocalyptic Goat Rave",
-    "title": "Blood Of Three Virgins"
-  },
-  {
-    "artist": "Blaerg",
-    "title": "Shower scene"
-  },
-  {
-    "artist": "Cardopusher",
-    "title": "I'm Going to Rave Your Ass Up Like an Accident"
-  },
-  {
-    "artist": "Dev-Null",
-    "title": "Rave5"
-  },
-  {
-    "artist": "Dj 10000000",
-    "title": "Baruserona555"
-  },
-  {
-    "artist": "Les Sécrétions Romantiques",
-    "title": "Shame"
-  },
-  {
-    "artist": "Dr Bastardo",
-    "title": "Murder Rave"
-  },
-  {
-    "artist": "Venetian snares",
-    "title": "Doormouse megamix"
-  },
-  {
-    "artist": "Ebola",
-    "title": "Dutch Gabba"
-  },
-  {
-    "artist": "Synthamesk",
-    "title": "The Assaul"
-  },
-  {
-    "artist": "Simon diaz vs cardopusher",
-    "title": "Mi querencia"
-  },
-  {
-    "artist": "Sickboy",
-    "title": "Viva El Party"
-  },
-  {
-    "artist": "Duran Duran Duran",
-    "title": "Psycho Killer"
-  },
-  {
-    "artist": "Shitmat",
-    "title": "Theres no business like propa rungleclotted mashup bizznizz"
-  },
-  {
-    "artist": "Aligator 2000",
-    "title": "Violence is funny"
-  },
-  {
-    "artist": "USA Kings",
-    "title": "Suprahits"
-  },
-  {
-    "artist": "Devnull",
-    "title": "Real ultimate power"
-  },
-  {
-    "artist": "Ladyscraper",
-    "title": "If its gonna be that kinda party ..."
-  },
-  {
-    "artist": "Toecutter",
-    "title": "Ode to brendan phelan"
-  },
-  {
-    "artist": "Maladroit",
-    "title": "Night Of The Brain Insectoid Rhythm Section (From Hell)"
-  },
-  {
-    "artist": "Eustachian",
-    "title": "Teleporting Salesman"
-  },
-  {
-    "artist": "Passenger of shit",
-    "title": "Slice my rectum"
-  }
-]
+{
+  "date": "2011-11-24",
+  "title": "I Say Breakcore, You Say Dance!!!",
+  "curators": [
+    "Le Grand Midget"
+  ],
+  "tracks": [
+    {
+      "artist": "Servants Of The Apocalyptic Goat Rave",
+      "title": "Blood Of Three Virgins"
+    },
+    {
+      "artist": "Blaerg",
+      "title": "Shower scene"
+    },
+    {
+      "artist": "Cardopusher",
+      "title": "I'm Going to Rave Your Ass Up Like an Accident"
+    },
+    {
+      "artist": "Dev-Null",
+      "title": "Rave5"
+    },
+    {
+      "artist": "Dj 10000000",
+      "title": "Baruserona555"
+    },
+    {
+      "artist": "Les Sécrétions Romantiques",
+      "title": "Shame"
+    },
+    {
+      "artist": "Dr Bastardo",
+      "title": "Murder Rave"
+    },
+    {
+      "artist": "Venetian snares",
+      "title": "Doormouse megamix"
+    },
+    {
+      "artist": "Ebola",
+      "title": "Dutch Gabba"
+    },
+    {
+      "artist": "Synthamesk",
+      "title": "The Assaul"
+    },
+    {
+      "artist": "Simon diaz vs cardopusher",
+      "title": "Mi querencia"
+    },
+    {
+      "artist": "Sickboy",
+      "title": "Viva El Party"
+    },
+    {
+      "artist": "Duran Duran Duran",
+      "title": "Psycho Killer"
+    },
+    {
+      "artist": "Shitmat",
+      "title": "Theres no business like propa rungleclotted mashup bizznizz"
+    },
+    {
+      "artist": "Aligator 2000",
+      "title": "Violence is funny"
+    },
+    {
+      "artist": "USA Kings",
+      "title": "Suprahits"
+    },
+    {
+      "artist": "Devnull",
+      "title": "Real ultimate power"
+    },
+    {
+      "artist": "Ladyscraper",
+      "title": "If its gonna be that kinda party ..."
+    },
+    {
+      "artist": "Toecutter",
+      "title": "Ode to brendan phelan"
+    },
+    {
+      "artist": "Maladroit",
+      "title": "Night Of The Brain Insectoid Rhythm Section (From Hell)"
+    },
+    {
+      "artist": "Eustachian",
+      "title": "Teleporting Salesman"
+    },
+    {
+      "artist": "Passenger of shit",
+      "title": "Slice my rectum"
+    }
+  ]
+}

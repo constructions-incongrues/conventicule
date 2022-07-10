@@ -1,70 +1,77 @@
-[
-  {
-    "artist": "White Noise",
-    "title": "Love Without Sound"
-  },
-  {
-    "artist": "13th floor elevators",
-    "title": "You're Gonna Miss Me"
-  },
-  {
-    "artist": "Pink Floyd",
-    "title": "Lucifer Sam"
-  },
-  {
-    "artist": "Can",
-    "title": "Paperhouse"
-  },
-  {
-    "artist": "Captain Beefheart",
-    "title": "My human gets me blues"
-  },
-  {
-    "artist": "Love",
-    "title": "A House Is Not A Motel"
-  },
-  {
-    "artist": "Amon Dull",
-    "title": "Eye-Shaking King"
-  },
-  {
-    "artist": "Soft Machine",
-    "title": "Save yourself"
-  },
-  {
-    "artist": "McDonald & Sherby",
-    "title": "Space Beam"
-  },
-  {
-    "artist": "The cheerful insanity of Giles, Giles & Fripp",
-    "title": "Erudite Eyes"
-  },
-  {
-    "artist": "The beach boys",
-    "title": "Fall Breaks And Back To Winter"
-  },
-  {
-    "artist": "King Crimson",
-    "title": "21st Century Schizoid Man"
-  },
-  {
-    "artist": "Gong",
-    "title": "Oily Way"
-  },
-  {
-    "artist": "Jefferson airplane",
-    "title": "the last wall of the castle"
-  },
-  {
-    "artist": "Robert Wyatt",
-    "title": "Alife"
-  },
-  {
-    "artist": "The velvet underground",
-    "title": "Venus In Furs"
-  },
-  {
-    "artist": "Tim Buckley",
-    "title": "Hallucinations"
-  }
-]
+{
+  "date": "2011-12-07",
+  "title": "Empilements Psychotropes",
+  "curators": [
+    "Klaten"
+  ],
+  "tracks": [
+    {
+      "artist": "White Noise",
+      "title": "Love Without Sound"
+    },
+    {
+      "artist": "13th floor elevators",
+      "title": "You're Gonna Miss Me"
+    },
+    {
+      "artist": "Pink Floyd",
+      "title": "Lucifer Sam"
+    },
+    {
+      "artist": "Can",
+      "title": "Paperhouse"
+    },
+    {
+      "artist": "Captain Beefheart",
+      "title": "My human gets me blues"
+    },
+    {
+      "artist": "Love",
+      "title": "A House Is Not A Motel"
+    },
+    {
+      "artist": "Amon Dull",
+      "title": "Eye-Shaking King"
+    },
+    {
+      "artist": "Soft Machine",
+      "title": "Save yourself"
+    },
+    {
+      "artist": "McDonald & Sherby",
+      "title": "Space Beam"
+    },
+    {
+      "artist": "The cheerful insanity of Giles, Giles & Fripp",
+      "title": "Erudite Eyes"
+    },
+    {
+      "artist": "The beach boys",
+      "title": "Fall Breaks And Back To Winter"
+    },
+    {
+      "artist": "King Crimson",
+      "title": "21st Century Schizoid Man"
+    },
+    {
+      "artist": "Gong",
+      "title": "Oily Way"
+    },
+    {
+      "artist": "Jefferson airplane",
+      "title": "the last wall of the castle"
+    },
+    {
+      "artist": "Robert Wyatt",
+      "title": "Alife"
+    },
+    {
+      "artist": "The velvet underground",
+      "title": "Venus In Furs"
+    },
+    {
+      "artist": "Tim Buckley",
+      "title": "Hallucinations"
+    }
+  ]
+}

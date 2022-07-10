@@ -1,62 +1,72 @@
-[
-  {
-    "artist": "Kant Kino",
-    "title": "What's Your Porn"
-  },
-  {
-    "artist": "Alain Gallet",
-    "title": "Un jour… anywhere"
-  },
-  {
-    "artist": "Cruise Family",
-    "title": "UP TO US"
-  },
-  {
-    "artist": "David Bowie",
-    "title": "Velvet Goldmine"
-  },
-  {
-    "artist": "Unknown Artist",
-    "title": "Deadly"
-  },
-  {
-    "artist": "Marino Marini",
-    "title": "Guaglione"
-  },
-  {
-    "artist": "J. M. Band",
-    "title": "Computer Monkey"
-  },
-  {
-    "artist": "Joe Lentini",
-    "title": "Arthur"
-  },
-  {
-    "artist": "Kate Bush",
-    "title": "Suspended in Gaffa"
-  },
-  {
-    "artist": "Mediengruppe Telekommander",
-    "title": "Kommanda"
-  },
-  {
-    "artist": "Michel Lorin et son ensemble",
-    "title": "Douceur tropicale"
-  },
-  {
-    "artist": "mtk121 st",
-    "title": "Emotions in a Box"
-  },
-  {
-    "artist": "Sir Edmund et l'Autre",
-    "title": "Poème sur la Septième"
-  },
-  {
-    "artist": "Scarlatti Goes Electro",
-    "title": "live in Poitiers 2010"
-  },
-  {
-    "artist": "Spice Girls",
-    "title": "Viva Forever"
-  }
-]
+{
+  "date": "2011-01-01",
+  "title": "L'Éventail de la Destinée",
+  "curators": [
+    "Michel Bertier",
+    "Iris",
+    "Béni",
+    "Satanik Mike"
+  ],
+  "tracks": [
+    {
+      "artist": "Kant Kino",
+      "title": "What's Your Porn"
+    },
+    {
+      "artist": "Alain Gallet",
+      "title": "Un jour… anywhere"
+    },
+    {
+      "artist": "Cruise Family",
+      "title": "UP TO US"
+    },
+    {
+      "artist": "David Bowie",
+      "title": "Velvet Goldmine"
+    },
+    {
+      "artist": "Unknown Artist",
+      "title": "Deadly"
+    },
+    {
+      "artist": "Marino Marini",
+      "title": "Guaglione"
+    },
+    {
+      "artist": "J. M. Band",
+      "title": "Computer Monkey"
+    },
+    {
+      "artist": "Joe Lentini",
+      "title": "Arthur"
+    },
+    {
+      "artist": "Kate Bush",
+      "title": "Suspended in Gaffa"
+    },
+    {
+      "artist": "Mediengruppe Telekommander",
+      "title": "Kommanda"
+    },
+    {
+      "artist": "Michel Lorin et son ensemble",
+      "title": "Douceur tropicale"
+    },
+    {
+      "artist": "mtk121 st",
+      "title": "Emotions in a Box"
+    },
+    {
+      "artist": "Sir Edmund et l'Autre",
+      "title": "Poème sur la Septième"
+    },
+    {
+      "artist": "Scarlatti Goes Electro",
+      "title": "live in Poitiers 2010"
+    },
+    {
+      "artist": "Spice Girls",
+      "title": "Viva Forever"
+    }
+  ]
+}

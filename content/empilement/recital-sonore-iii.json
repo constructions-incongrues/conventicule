@@ -1,74 +1,82 @@
-[
-  {
-    "artist": "Our Broken Garden",
-    "title": "Anchoring Interlude"
-  },
-  {
-    "artist": "Maps and Diagrams",
-    "title": "Unordinary People"
-  },
-  {
-    "artist": "Northcape",
-    "title": "Alluvial"
-  },
-  {
-    "artist": "36",
-    "title": "Untitled"
-  },
-  {
-    "artist": "Response",
-    "title": "Unify"
-  },
-  {
-    "artist": "Desolate",
-    "title": "Cathartic"
-  },
-  {
-    "artist": "Empyrean",
-    "title": "Empty Space"
-  },
-  {
-    "artist": "Sorrow",
-    "title": "Nostalgia"
-  },
-  {
-    "artist": "Stumbleine",
-    "title": "Aliceband"
-  },
-  {
-    "artist": "NCThompson",
-    "title": "This Can Kill"
-  },
-  {
-    "artist": "Bartel",
-    "title": "The Quiet Years"
-  },
-  {
-    "artist": "Tycho",
-    "title": "Dictaphone's Lament"
-  },
-  {
-    "artist": "Plaid",
-    "title": "The Launching of Big Face"
-  },
-  {
-    "artist": "Araya",
-    "title": "The Mast"
-  },
-  {
-    "artist": "Sleepytown Manufacture",
-    "title": "Latatoo (Laa Laa Lacklustermx)"
-  },
-  {
-    "artist": "Ciaran Byrne",
-    "title": "Let Down"
-  },
-  {
-    "artist": "Squarepusher",
-    "title": "Rebus"
-  },
-  {
-    "artist": "Bola",
-    "title": "Sirasancerre"
-  }
-]
+{
+  "date": "2011-10-27",
+  "title": "Récital Sonore III",
+  "curators": [
+    "Gumbi",
+    "Melorman"
+  ],
+  "tracks": [
+    {
+      "artist": "Our Broken Garden",
+      "title": "Anchoring Interlude"
+    },
+    {
+      "artist": "Maps and Diagrams",
+      "title": "Unordinary People"
+    },
+    {
+      "artist": "Northcape",
+      "title": "Alluvial"
+    },
+    {
+      "artist": "36",
+      "title": "Untitled"
+    },
+    {
+      "artist": "Response",
+      "title": "Unify"
+    },
+    {
+      "artist": "Desolate",
+      "title": "Cathartic"
+    },
+    {
+      "artist": "Empyrean",
+      "title": "Empty Space"
+    },
+    {
+      "artist": "Sorrow",
+      "title": "Nostalgia"
+    },
+    {
+      "artist": "Stumbleine",
+      "title": "Aliceband"
+    },
+    {
+      "artist": "NCThompson",
+      "title": "This Can Kill"
+    },
+    {
+      "artist": "Bartel",
+      "title": "The Quiet Years"
+    },
+    {
+      "artist": "Tycho",
+      "title": "Dictaphone's Lament"
+    },
+    {
+      "artist": "Plaid",
+      "title": "The Launching of Big Face"
+    },
+    {
+      "artist": "Araya",
+      "title": "The Mast"
+    },
+    {
+      "artist": "Sleepytown Manufacture",
+      "title": "Latatoo (Laa Laa Lacklustermx)"
+    },
+    {
+      "artist": "Ciaran Byrne",
+      "title": "Let Down"
+    },
+    {
+      "artist": "Squarepusher",
+      "title": "Rebus"
+    },
+    {
+      "artist": "Bola",
+      "title": "Sirasancerre"
+    }
+  ]
+}

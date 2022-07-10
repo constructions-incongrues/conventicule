@@ -1,66 +1,74 @@
-[
-  {
-    "artist": "Primus",
-    "title": "Seas of cheese"
-  },
-  {
-    "artist": "Sleepy Town Manufacture",
-    "title": "Sea sickness"
-  },
-  {
-    "artist": "Decal",
-    "title": "Star of the Sea"
-  },
-  {
-    "artist": "Maps and Diagrams",
-    "title": "Below Sea level"
-  },
-  {
-    "artist": "Autechre",
-    "title": "Drowning in a Sea of independance"
-  },
-  {
-    "artist": "Freescha",
-    "title": "Whales wave goodbye"
-  },
-  {
-    "artist": "Jean-Jacques Perrey",
-    "title": "Caverns in deep Sea"
-  },
-  {
-    "artist": "Meta Program",
-    "title": "Underwater café"
-  },
-  {
-    "artist": "Mr Scruff",
-    "title": "Sea mammal"
-  },
-  {
-    "artist": "Frog Pocket",
-    "title": "Sea angel lament boss"
-  },
-  {
-    "artist": "Arovane",
-    "title": "Seaside"
-  },
-  {
-    "artist": "Aphex Twin",
-    "title": "Blue Calx"
-  },
-  {
-    "artist": "Funki Porcini",
-    "title": "The big Sea"
-  },
-  {
-    "artist": "The Merricks & Pollux",
-    "title": "Blue sand red Sea"
-  },
-  {
-    "artist": "Kettel",
-    "title": "Through friendly waters"
-  },
-  {
-    "artist": "Plaid",
-    "title": "Dead Sea"
-  }
-]
+{
+  "date": "2012-02-20",
+  "title": "Récital Sonore XII (sea)",
+  "curators": [
+    "Gumbi",
+    "Melorman"
+  ],
+  "tracks": [
+    {
+      "artist": "Primus",
+      "title": "Seas of cheese"
+    },
+    {
+      "artist": "Sleepy Town Manufacture",
+      "title": "Sea sickness"
+    },
+    {
+      "artist": "Decal",
+      "title": "Star of the Sea"
+    },
+    {
+      "artist": "Maps and Diagrams",
+      "title": "Below Sea level"
+    },
+    {
+      "artist": "Autechre",
+      "title": "Drowning in a Sea of independance"
+    },
+    {
+      "artist": "Freescha",
+      "title": "Whales wave goodbye"
+    },
+    {
+      "artist": "Jean-Jacques Perrey",
+      "title": "Caverns in deep Sea"
+    },
+    {
+      "artist": "Meta Program",
+      "title": "Underwater café"
+    },
+    {
+      "artist": "Mr Scruff",
+      "title": "Sea mammal"
+    },
+    {
+      "artist": "Frog Pocket",
+      "title": "Sea angel lament boss"
+    },
+    {
+      "artist": "Arovane",
+      "title": "Seaside"
+    },
+    {
+      "artist": "Aphex Twin",
+      "title": "Blue Calx"
+    },
+    {
+      "artist": "Funki Porcini",
+      "title": "The big Sea"
+    },
+    {
+      "artist": "The Merricks & Pollux",
+      "title": "Blue sand red Sea"
+    },
+    {
+      "artist": "Kettel",
+      "title": "Through friendly waters"
+    },
+    {
+      "artist": "Plaid",
+      "title": "Dead Sea"
+    }
+  ]
+}

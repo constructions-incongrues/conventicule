@@ -1,70 +1,77 @@
-[
-  {
-    "artist": "Violence Conjugale",
-    "title": "Mirador"
-  },
-  {
-    "artist": "Ben et Bene",
-    "title": "Few Day"
-  },
-  {
-    "artist": "Rod Droid",
-    "title": "Ma Jolie Trotinette"
-  },
-  {
-    "artist": "Adult",
-    "title": "Seal Me In"
-  },
-  {
-    "artist": "Puyo puyo",
-    "title": "Life Is Simple"
-  },
-  {
-    "artist": "Melodik Pinpon",
-    "title": "Reproduction"
-  },
-  {
-    "artist": "Mammoutt",
-    "title": "Skeu"
-  },
-  {
-    "artist": "Candie Hank",
-    "title": "Booty Bank (rob)"
-  },
-  {
-    "artist": "Gangpol und mit",
-    "title": "Chinese Slavery"
-  },
-  {
-    "artist": "Monster Zoku Onsomb",
-    "title": "Frankenstein"
-  },
-  {
-    "artist": "Mammoutt",
-    "title": "Taptap"
-  },
-  {
-    "artist": "Gangpol und mit",
-    "title": "Wooshwash"
-  },
-  {
-    "artist": "Nero's Day at Disneyland",
-    "title": "Here We Live One Baba at a Time"
-  },
-  {
-    "artist": "DJ Scotch Egg",
-    "title": "Scotch Circus"
-  },
-  {
-    "artist": "Nero's Day at Disneyland",
-    "title": "Women are not Things"
-  },
-  {
-    "artist": "DJ Scotch Egg",
-    "title": "Scotch Grind 2"
-  },
-  {
-    "artist": "Aux Raus",
-    "title": "Model or waffle"
-  }
-]
+{
+  "date": "2011-12-01",
+  "title": "Vomi Yatta Party",
+  "curators": [
+    "Klaus Vomi"
+  ],
+  "tracks": [
+    {
+      "artist": "Violence Conjugale",
+      "title": "Mirador"
+    },
+    {
+      "artist": "Ben et Bene",
+      "title": "Few Day"
+    },
+    {
+      "artist": "Rod Droid",
+      "title": "Ma Jolie Trotinette"
+    },
+    {
+      "artist": "Adult",
+      "title": "Seal Me In"
+    },
+    {
+      "artist": "Puyo puyo",
+      "title": "Life Is Simple"
+    },
+    {
+      "artist": "Melodik Pinpon",
+      "title": "Reproduction"
+    },
+    {
+      "artist": "Mammoutt",
+      "title": "Skeu"
+    },
+    {
+      "artist": "Candie Hank",
+      "title": "Booty Bank (rob)"
+    },
+    {
+      "artist": "Gangpol und mit",
+      "title": "Chinese Slavery"
+    },
+    {
+      "artist": "Monster Zoku Onsomb",
+      "title": "Frankenstein"
+    },
+    {
+      "artist": "Mammoutt",
+      "title": "Taptap"
+    },
+    {
+      "artist": "Gangpol und mit",
+      "title": "Wooshwash"
+    },
+    {
+      "artist": "Nero's Day at Disneyland",
+      "title": "Here We Live One Baba at a Time"
+    },
+    {
+      "artist": "DJ Scotch Egg",
+      "title": "Scotch Circus"
+    },
+    {
+      "artist": "Nero's Day at Disneyland",
+      "title": "Women are not Things"
+    },
+    {
+      "artist": "DJ Scotch Egg",
+      "title": "Scotch Grind 2"
+    },
+    {
+      "artist": "Aux Raus",
+      "title": "Model or waffle"
+    }
+  ]
+}

@@ -1,74 +1,81 @@
-[
-  {
-    "artist": "brunk",
-    "title": "violence on tv"
-  },
-  {
-    "artist": "The units",
-    "title": "high pressure days"
-  },
-  {
-    "artist": "Sans-Blanc",
-    "title": "Volvoluv"
-  },
-  {
-    "artist": " EeL",
-    "title": "Little Prince Loves You"
-  },
-  {
-    "artist": "Fat32",
-    "title": "Hard Drive"
-  },
-  {
-    "artist": "Gwilly Edmondez",
-    "title": "Opening Title"
-  },
-  {
-    "artist": " Enio Morricona",
-    "title": "robodog"
-  },
-  {
-    "artist": "V.D.B. Joel",
-    "title": "Video Funk"
-  },
-  {
-    "artist": "peter thomas - moonflowers & miniskirts",
-    "title": "happening in white main theme"
-  },
-  {
-    "artist": "Marx Roach",
-    "title": "freedom day"
-  },
-  {
-    "artist": " Jeri Rossi",
-    "title": "I Left My Heart But I Don't Know Where"
-  },
-  {
-    "artist": "Quattro Stagioni",
-    "title": "the brains other supplier"
-  },
-  {
-    "artist": "Ground Zero",
-    "title": "thema mao 2"
-  },
-  {
-    "artist": "Jared C Balogh",
-    "title": "TheSomewhat Unlucky"
-  },
-  {
-    "artist": "Sarah Weis",
-    "title": "Quentin TarantiNo"
-  },
-  {
-    "artist": "hella",
-    "title": "self checkout"
-  },
-  {
-    "artist": "spazz",
-    "title": "spudboy"
-  },
-  {
-    "artist": "The Coasters",
-    "title": "Get An Ugly Girl To Marry You"
-  }
-]
+{
+  "date": "2012-12-26",
+  "title": "Everything But The Pet Shop Boys",
+  "curators": [
+    "Big Pink Ping"
+  ],
+  "tracks": [
+    {
+      "artist": "brunk",
+      "title": "violence on tv"
+    },
+    {
+      "artist": "The units",
+      "title": "high pressure days"
+    },
+    {
+      "artist": "Sans-Blanc",
+      "title": "Volvoluv"
+    },
+    {
+      "artist": " EeL",
+      "title": "Little Prince Loves You"
+    },
+    {
+      "artist": "Fat32",
+      "title": "Hard Drive"
+    },
+    {
+      "artist": "Gwilly Edmondez",
+      "title": "Opening Title"
+    },
+    {
+      "artist": " Enio Morricona",
+      "title": "robodog"
+    },
+    {
+      "artist": "V.D.B. Joel",
+      "title": "Video Funk"
+    },
+    {
+      "artist": "peter thomas - moonflowers & miniskirts",
+      "title": "happening in white main theme"
+    },
+    {
+      "artist": "Marx Roach",
+      "title": "freedom day"
+    },
+    {
+      "artist": " Jeri Rossi",
+      "title": "I Left My Heart But I Don't Know Where"
+    },
+    {
+      "artist": "Quattro Stagioni",
+      "title": "the brains other supplier"
+    },
+    {
+      "artist": "Ground Zero",
+      "title": "thema mao 2"
+    },
+    {
+      "artist": "Jared C Balogh",
+      "title": "TheSomewhat Unlucky"
+    },
+    {
+      "artist": "Sarah Weis",
+      "title": "Quentin TarantiNo"
+    },
+    {
+      "artist": "hella",
+      "title": "self checkout"
+    },
+    {
+      "artist": "spazz",
+      "title": "spudboy"
+    },
+    {
+      "artist": "The Coasters",
+      "title": "Get An Ugly Girl To Marry You"
+    }
+  ]
+}

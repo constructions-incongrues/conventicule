@@ -1,82 +1,92 @@
-[
-  {
-    "artist": "B52s",
-    "title": "Party Out of Bounds"
-  },
-  {
-    "artist": "Beastie Boys",
-    "title": "Fight For Your Right To Party"
-  },
-  {
-    "artist": "Birthday Party, The",
-    "title": "Mr Clarinet"
-  },
-  {
-    "artist": "Bodenstandig 2000",
-    "title": "Party Ganze Nacht"
-  },
-  {
-    "artist": "boogaloo and his gallant crew",
-    "title": "talk about a party"
-  },
-  {
-    "artist": "Dave Stewart & Barbara Gaskin",
-    "title": "It's My Party"
-  },
-  {
-    "artist": "dj deeon",
-    "title": "party peeps"
-  },
-  {
-    "artist": "drvg cvltvre",
-    "title": "the party's over"
-  },
-  {
-    "artist": "Major Lazer",
-    "title": "Original Don Ft. The Partysquad"
-  },
-  {
-    "artist": "Noia",
-    "title": "Crayola Party"
-  },
-  {
-    "artist": "Artiste Inconnu",
-    "title": "PartySierra"
-  },
-  {
-    "artist": "Patrice & Friends",
-    "title": "Vocoder Party"
-  },
-  {
-    "artist": "Ponce Pilate Jackson",
-    "title": "Vertebrate Spy (You Will Recognize Our Party By The Sound Of Our Hooves) "
-  },
-  {
-    "artist": "Sabrepulse",
-    "title": "Party Bomb"
-  },
-  {
-    "artist": "Scott Sinclair Mariam Wallentin",
-    "title": "Get ready to party"
-  },
-  {
-    "artist": "The Time & Space Machine",
-    "title": "Pill Party In India (original mix)"
-  },
-  {
-    "artist": "Toby",
-    "title": "Tobias Macasu (Motor City Drum Ensemble Loft Party Remix)"
-  },
-  {
-    "artist": "Toecutter",
-    "title": "Best Party Ever"
-  },
-  {
-    "artist": "Artiste Inconnu",
-    "title": "FC_party_collage_JEN_Chien"
-  },
-  {
-    "artist": "Firedrill",
-    "title": "the spirit of the party"
-  }
-]
+{
+  "date": "2012-02-16",
+  "title": "Best Party Ever",
+  "curators": [
+    "Valérie Blindée",
+    "Puyo Puyo",
+    "Firedrill",
+    "Ponce Pilate Jackson"
+  ],
+  "tracks": [
+    {
+      "artist": "B52s",
+      "title": "Party Out of Bounds"
+    },
+    {
+      "artist": "Beastie Boys",
+      "title": "Fight For Your Right To Party"
+    },
+    {
+      "artist": "Birthday Party, The",
+      "title": "Mr Clarinet"
+    },
+    {
+      "artist": "Bodenstandig 2000",
+      "title": "Party Ganze Nacht"
+    },
+    {
+      "artist": "boogaloo and his gallant crew",
+      "title": "talk about a party"
+    },
+    {
+      "artist": "Dave Stewart & Barbara Gaskin",
+      "title": "It's My Party"
+    },
+    {
+      "artist": "dj deeon",
+      "title": "party peeps"
+    },
+    {
+      "artist": "drvg cvltvre",
+      "title": "the party's over"
+    },
+    {
+      "artist": "Major Lazer",
+      "title": "Original Don Ft. The Partysquad"
+    },
+    {
+      "artist": "Noia",
+      "title": "Crayola Party"
+    },
+    {
+      "artist": "Artiste Inconnu",
+      "title": "PartySierra"
+    },
+    {
+      "artist": "Patrice & Friends",
+      "title": "Vocoder Party"
+    },
+    {
+      "artist": "Ponce Pilate Jackson",
+      "title": "Vertebrate Spy (You Will Recognize Our Party By The Sound Of Our Hooves) "
+    },
+    {
+      "artist": "Sabrepulse",
+      "title": "Party Bomb"
+    },
+    {
+      "artist": "Scott Sinclair Mariam Wallentin",
+      "title": "Get ready to party"
+    },
+    {
+      "artist": "The Time & Space Machine",
+      "title": "Pill Party In India (original mix)"
+    },
+    {
+      "artist": "Toby",
+      "title": "Tobias Macasu (Motor City Drum Ensemble Loft Party Remix)"
+    },
+    {
+      "artist": "Toecutter",
+      "title": "Best Party Ever"
+    },
+    {
+      "artist": "Artiste Inconnu",
+      "title": "FC_party_collage_JEN_Chien"
+    },
+    {
+      "artist": "Firedrill",
+      "title": "the spirit of the party"
+    }
+  ]
+}

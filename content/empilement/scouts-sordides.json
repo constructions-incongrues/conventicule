@@ -1,86 +1,97 @@
-[
-  {
-    "artist": "Dominique Ney",
-    "title": "Mais ne nous delivrez pas du mal"
-  },
-  {
-    "artist": "Katamari Damacy Music",
-    "title": "Cherry Tree Times"
-  },
-  {
-    "artist": "Lubos Fiser",
-    "title": "The Sermon"
-  },
-  {
-    "artist": "Amanda",
-    "title": "Up Against The Wall Redneck Mama Edit"
-  },
-  {
-    "artist": "Annie",
-    "title": "It's the Hard-Knock Life"
-  },
-  {
-    "artist": "Jerry Goldsmith",
-    "title": "Ave Satani"
-  },
-  {
-    "artist": "Beequeen",
-    "title": "The Maypole Song"
-  },
-  {
-    "artist": "Celia et Nelia",
-    "title": "Le Serpent"
-  },
-  {
-    "artist": "Dead Man's Bones",
-    "title": "My Body's a Zombie For You"
-  },
-  {
-    "artist": "France Gall et Maurice Biraud",
-    "title": " La Petite"
-  },
-  {
-    "artist": "Jacques Higelin",
-    "title": "La Croisade"
-  },
-  {
-    "artist": "Ricky Wilde",
-    "title": "I Am an Astronaut"
-  },
-  {
-    "artist": "Les Rappeurs Sans Tete",
-    "title": "Les Rappeurs Sans Tete"
-  },
-  {
-    "artist": "Marilyn Manson",
-    "title": "Lunchbox"
-  },
-  {
-    "artist": "Philippe Renaux",
-    "title": "Concerto Pour Enfant et Moog"
-  },
-  {
-    "artist": "Portal",
-    "title": "Still Alive on a Music Box"
-  },
-  {
-    "artist": "Serge Gainsbourg",
-    "title": "Lemon Incest"
-  },
-  {
-    "artist": "The Langley School Music Project",
-    "title": "Space Oddity"
-  },
-  {
-    "artist": "The GBBG Sexx Toy Akestra",
-    "title": "La collection de Papa"
-  },
-  {
-    "artist": "Dimey Bluteau",
-    "title": "Trefle a Quatre Feuilles"
-  },
-  {
-    "artist": "Vaska Jankovaska",
-    "title": "Ederlezi"
-  }
-]
+{
+  "date": "2011-12-23",
+  "title": "Scouts Sordides",
+  "curators": [
+    "Michel Bertier",
+    "Iris",
+    "Magda Behr",
+    "Flavien",
+    "Goupil Acnéique"
+  ],
+  "tracks": [
+    {
+      "artist": "Dominique Ney",
+      "title": "Mais ne nous delivrez pas du mal"
+    },
+    {
+      "artist": "Katamari Damacy Music",
+      "title": "Cherry Tree Times"
+    },
+    {
+      "artist": "Lubos Fiser",
+      "title": "The Sermon"
+    },
+    {
+      "artist": "Amanda",
+      "title": "Up Against The Wall Redneck Mama Edit"
+    },
+    {
+      "artist": "Annie",
+      "title": "It's the Hard-Knock Life"
+    },
+    {
+      "artist": "Jerry Goldsmith",
+      "title": "Ave Satani"
+    },
+    {
+      "artist": "Beequeen",
+      "title": "The Maypole Song"
+    },
+    {
+      "artist": "Celia et Nelia",
+      "title": "Le Serpent"
+    },
+    {
+      "artist": "Dead Man's Bones",
+      "title": "My Body's a Zombie For You"
+    },
+    {
+      "artist": "France Gall et Maurice Biraud",
+      "title": " La Petite"
+    },
+    {
+      "artist": "Jacques Higelin",
+      "title": "La Croisade"
+    },
+    {
+      "artist": "Ricky Wilde",
+      "title": "I Am an Astronaut"
+    },
+    {
+      "artist": "Les Rappeurs Sans Tete",
+      "title": "Les Rappeurs Sans Tete"
+    },
+    {
+      "artist": "Marilyn Manson",
+      "title": "Lunchbox"
+    },
+    {
+      "artist": "Philippe Renaux",
+      "title": "Concerto Pour Enfant et Moog"
+    },
+    {
+      "artist": "Portal",
+      "title": "Still Alive on a Music Box"
+    },
+    {
+      "artist": "Serge Gainsbourg",
+      "title": "Lemon Incest"
+    },
+    {
+      "artist": "The Langley School Music Project",
+      "title": "Space Oddity"
+    },
+    {
+      "artist": "The GBBG Sexx Toy Akestra",
+      "title": "La collection de Papa"
+    },
+    {
+      "artist": "Dimey Bluteau",
+      "title": "Trefle a Quatre Feuilles"
+    },
+    {
+      "artist": "Vaska Jankovaska",
+      "title": "Ederlezi"
+    }
+  ]
+}

@@ -1,46 +1,53 @@
-[
-  {
-    "artist": "a guy called gerald",
-    "title": "blow your house down (paul mac mix)"
-  },
-  {
-    "artist": "Control",
-    "title": "Dance With Me (I'm Your Ecstasy) (Original Mix)"
-  },
-  {
-    "artist": "DeeJay Punk Roc",
-    "title": "My Beatbox"
-  },
-  {
-    "artist": "dj deeon",
-    "title": "gimme head"
-  },
-  {
-    "artist": "Dj Magic Mike",
-    "title": "Bim-Bust Em Down"
-  },
-  {
-    "artist": "Ghost Town Dj's",
-    "title": "My Boo"
-  },
-  {
-    "artist": "j.j. fad",
-    "title": "anotha ho (original)"
-  },
-  {
-    "artist": "Lil Rick ft Mr. Machel Montano",
-    "title": "Guh Down (Remix)"
-  },
-  {
-    "artist": "Sergio Mendes",
-    "title": "Magdalena"
-  },
-  {
-    "artist": "Shirley Bassey",
-    "title": "Goldfinger"
-  },
-  {
-    "artist": "Underground Resistance",
-    "title": "The Seawolf"
-  }
-]
+{
+  "date": "2012-02-11",
+  "title": "Fire up The Barbie! It's Big D Party Time!",
+  "curators": [
+    "Bobby Bass Ewing"
+  ],
+  "tracks": [
+    {
+      "artist": "a guy called gerald",
+      "title": "blow your house down (paul mac mix)"
+    },
+    {
+      "artist": "Control",
+      "title": "Dance With Me (I'm Your Ecstasy) (Original Mix)"
+    },
+    {
+      "artist": "DeeJay Punk Roc",
+      "title": "My Beatbox"
+    },
+    {
+      "artist": "dj deeon",
+      "title": "gimme head"
+    },
+    {
+      "artist": "Dj Magic Mike",
+      "title": "Bim-Bust Em Down"
+    },
+    {
+      "artist": "Ghost Town Dj's",
+      "title": "My Boo"
+    },
+    {
+      "artist": "j.j. fad",
+      "title": "anotha ho (original)"
+    },
+    {
+      "artist": "Lil Rick ft Mr. Machel Montano",
+      "title": "Guh Down (Remix)"
+    },
+    {
+      "artist": "Sergio Mendes",
+      "title": "Magdalena"
+    },
+    {
+      "artist": "Shirley Bassey",
+      "title": "Goldfinger"
+    },
+    {
+      "artist": "Underground Resistance",
+      "title": "The Seawolf"
+    }
+  ]
+}

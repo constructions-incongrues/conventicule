@@ -1,78 +1,85 @@
-[
-  {
-    "artist": "El Michels Affair",
-    "title": "C.R.E.A.M"
-  },
-  {
-    "artist": "Deceptikon",
-    "title": "Inaccessibility"
-  },
-  {
-    "artist": "Dj Krush",
-    "title": "Real"
-  },
-  {
-    "artist": "Neotropic",
-    "title": "Under violent objects"
-  },
-  {
-    "artist": "Delarosa & Asora",
-    "title": "Paper Rout"
-  },
-  {
-    "artist": "Malcolm Kipe",
-    "title": "Orange Country"
-  },
-  {
-    "artist": "Souls Of Mischief",
-    "title": "Never No More (76 Seville Remix)"
-  },
-  {
-    "artist": "The Black Dog",
-    "title": "Tahr"
-  },
-  {
-    "artist": "Puppetmastaz",
-    "title": "MIDI Mighty Moe"
-  },
-  {
-    "artist": "Boards of Canada",
-    "title": "Rue the Whirl"
-  },
-  {
-    "artist": "Swollen members",
-    "title": "Front Street"
-  },
-  {
-    "artist": "Mobb Deep feat. Method Man",
-    "title": "Extortion"
-  },
-  {
-    "artist": "House Of Pain",
-    "title": "Jump Around"
-  },
-  {
-    "artist": "µ-Ziq",
-    "title": "The Hwicci Song"
-  },
-  {
-    "artist": "Cex",
-    "title": "Good Morning, Universe"
-  },
-  {
-    "artist": "Jega",
-    "title": "Soulflute"
-  },
-  {
-    "artist": "Pest",
-    "title": "Downward Steps"
-  },
-  {
-    "artist": "Blockhead",
-    "title": "Carnivores Unite"
-  },
-  {
-    "artist": "Silent Poets feat. Ursula RUcker",
-    "title": "Get Ready"
-  }
-]
+{
+  "date": "2011-11-02",
+  "title": "Récital Sonore IV",
+  "curators": [
+    "Gumbi"
+  ],
+  "tracks": [
+    {
+      "artist": "El Michels Affair",
+      "title": "C.R.E.A.M"
+    },
+    {
+      "artist": "Deceptikon",
+      "title": "Inaccessibility"
+    },
+    {
+      "artist": "Dj Krush",
+      "title": "Real"
+    },
+    {
+      "artist": "Neotropic",
+      "title": "Under violent objects"
+    },
+    {
+      "artist": "Delarosa & Asora",
+      "title": "Paper Rout"
+    },
+    {
+      "artist": "Malcolm Kipe",
+      "title": "Orange Country"
+    },
+    {
+      "artist": "Souls Of Mischief",
+      "title": "Never No More (76 Seville Remix)"
+    },
+    {
+      "artist": "The Black Dog",
+      "title": "Tahr"
+    },
+    {
+      "artist": "Puppetmastaz",
+      "title": "MIDI Mighty Moe"
+    },
+    {
+      "artist": "Boards of Canada",
+      "title": "Rue the Whirl"
+    },
+    {
+      "artist": "Swollen members",
+      "title": "Front Street"
+    },
+    {
+      "artist": "Mobb Deep feat. Method Man",
+      "title": "Extortion"
+    },
+    {
+      "artist": "House Of Pain",
+      "title": "Jump Around"
+    },
+    {
+      "artist": "µ-Ziq",
+      "title": "The Hwicci Song"
+    },
+    {
+      "artist": "Cex",
+      "title": "Good Morning, Universe"
+    },
+    {
+      "artist": "Jega",
+      "title": "Soulflute"
+    },
+    {
+      "artist": "Pest",
+      "title": "Downward Steps"
+    },
+    {
+      "artist": "Blockhead",
+      "title": "Carnivores Unite"
+    },
+    {
+      "artist": "Silent Poets feat. Ursula RUcker",
+      "title": "Get Ready"
+    }
+  ]
+}

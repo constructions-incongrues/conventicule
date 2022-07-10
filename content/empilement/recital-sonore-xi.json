@@ -1,86 +1,94 @@
-[
-  {
-    "artist": "Felix Laband",
-    "title": "Hopeful"
-  },
-  {
-    "artist": "Min-Y-Lian",
-    "title": "My Hearts In Your Hands"
-  },
-  {
-    "artist": "Aus",
-    "title": "Von Rechts Nach Links"
-  },
-  {
-    "artist": "Benn Jordan",
-    "title": "Floating Vacuum"
-  },
-  {
-    "artist": "Cristian Gualpa",
-    "title": "Pensando"
-  },
-  {
-    "artist": "Volor Flex",
-    "title": "Stolen Child"
-  },
-  {
-    "artist": "Diaphane",
-    "title": "Insight"
-  },
-  {
-    "artist": "NCThompson",
-    "title": "This Can Kill"
-  },
-  {
-    "artist": "Matthew Barber",
-    "title": "You And Me"
-  },
-  {
-    "artist": "Memotone",
-    "title": "Sleeping In Circles"
-  },
-  {
-    "artist": "S.T.",
-    "title": "Csanca"
-  },
-  {
-    "artist": "Dusk +Blackdown",
-    "title": "Iqbal's Groove ft. Farrah"
-  },
-  {
-    "artist": "Clifford Gilberto",
-    "title": "Brasilia freestyle"
-  },
-  {
-    "artist": "Bovaflux",
-    "title": "Bridge"
-  },
-  {
-    "artist": "Human Action Network",
-    "title": "Hollywood Filter"
-  },
-  {
-    "artist": "µ-Ziq",
-    "title": "Phi-1700 (U-V)"
-  },
-  {
-    "artist": "Gel-Sol",
-    "title": "Numby Numbs"
-  },
-  {
-    "artist": "III",
-    "title": "Self Irreality"
-  },
-  {
-    "artist": "Marching Dynamics",
-    "title": "Bizango Datura"
-  },
-  {
-    "artist": "Bibio",
-    "title": "Saint Christopher"
-  },
-  {
-    "artist": "Araya",
-    "title": "Duty Paid"
-  }
-]
+{
+  "date": "2012-01-18",
+  "title": "Récital Sonore XI",
+  "curators": [
+    "Gumbi",
+    "Melorman"
+  ],
+  "tracks": [
+    {
+      "artist": "Felix Laband",
+      "title": "Hopeful"
+    },
+    {
+      "artist": "Min-Y-Lian",
+      "title": "My Hearts In Your Hands"
+    },
+    {
+      "artist": "Aus",
+      "title": "Von Rechts Nach Links"
+    },
+    {
+      "artist": "Benn Jordan",
+      "title": "Floating Vacuum"
+    },
+    {
+      "artist": "Cristian Gualpa",
+      "title": "Pensando"
+    },
+    {
+      "artist": "Volor Flex",
+      "title": "Stolen Child"
+    },
+    {
+      "artist": "Diaphane",
+      "title": "Insight"
+    },
+    {
+      "artist": "NCThompson",
+      "title": "This Can Kill"
+    },
+    {
+      "artist": "Matthew Barber",
+      "title": "You And Me"
+    },
+    {
+      "artist": "Memotone",
+      "title": "Sleeping In Circles"
+    },
+    {
+      "artist": "S.T.",
+      "title": "Csanca"
+    },
+    {
+      "artist": "Dusk +Blackdown",
+      "title": "Iqbal's Groove ft. Farrah"
+    },
+    {
+      "artist": "Clifford Gilberto",
+      "title": "Brasilia freestyle"
+    },
+    {
+      "artist": "Bovaflux",
+      "title": "Bridge"
+    },
+    {
+      "artist": "Human Action Network",
+      "title": "Hollywood Filter"
+    },
+    {
+      "artist": "µ-Ziq",
+      "title": "Phi-1700 (U-V)"
+    },
+    {
+      "artist": "Gel-Sol",
+      "title": "Numby Numbs"
+    },
+    {
+      "artist": "III",
+      "title": "Self Irreality"
+    },
+    {
+      "artist": "Marching Dynamics",
+      "title": "Bizango Datura"
+    },
+    {
+      "artist": "Bibio",
+      "title": "Saint Christopher"
+    },
+    {
+      "artist": "Araya",
+      "title": "Duty Paid"
+    }
+  ]
+}
