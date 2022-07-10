@@ -1,15 +1,12 @@
 baseURL = "https://empiler.incongru.org"
 enableGitInfo = true
 
-title = 'Empilements Incongrus'
-subtitle = 'La situation empile à chaque seconde'
+title = "L'Ampoule des Sens"
+subtitle = "La situation empile à chaque seconde"
 
 [params]
   AuthorName = 'Constructions Incongrues'
   GitHubUser = 'constructions-incongrues'
-
-[permalinks]
-  audio-selecta = '/audio-selecta/:slug/'
 
 [mediaTypes.'application/json']
   suffixes = ['json']

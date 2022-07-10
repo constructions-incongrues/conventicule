@@ -19,9 +19,9 @@ show_preview_links: true
 publish_mode: editorial_workflow
 
 collections:
-  - label: 'Audio Selecta'
-    name: audio-selecta
-    folder: content/audio-selecta
+  - label: 'Empilements Incongrus'
+    name: empilements-incongrus
+    folder: content/empilements-incongrus
     create: true
     slug: '{{title}}'
     preview_path: '{{slug}}'
@@ -33,7 +33,6 @@ collections:
     view_groups:
       - label: Year
         field: date
-        # groups items based on the value matched by the pattern
         pattern: \d{4}
       - label: Curators
         field: curators
