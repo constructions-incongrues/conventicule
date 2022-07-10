@@ -7,7 +7,9 @@ backend:
 media_folder: static/files
 public_folder: /files
 
+display_url: https://empilements.constructions-incongrues.org
 publish_mode: editorial_workflow
+show_preview_links: true
 
 collections:
   - label: "Contents"
@@ -15,6 +17,7 @@ collections:
     files:
       - label: "Empilement"
         name: "empilement"
+        preview_path: empilement
         file: "content/_index.md"
         fields:
           - { label: 'Title', name: 'title', widget: 'string' }
