@@ -2,8 +2,7 @@ backend:
   name: github
   repo: constructions-incongrues/empilements
   branch: main
-  site_domain: 1a522206-9642-4c26-bac4-280770cfbff4
-  
+    
 # local_backend: true
 
 media_folder: static/files
