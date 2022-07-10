@@ -14,12 +14,13 @@ publish_mode: editorial_workflow
 show_preview_links: true
 
 collections:
-  - label: "Empilements"
-    name: "empilements"
-    folder: "content/empilement"
+  - label: Empilements
+    name: empilements
+    folder: content/empilement
     create: true
     slug: {{title}}
     preview_path: empilement/{{slug}}
+    identifier_field: title
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
