@@ -13,91 +13,106 @@
     {
       "track": {
         "artist": "Shampoo",
-        "title": "Me Hostage"
+        "title": "Me Hostage",
+        "file": "https://empilements.incongru.org/compilations/manifest/01 - Shampoo - Me Hostage.mp3"
       }
     },
     {
       "track": {
         "artist": "Nirvana",
-        "title": "Sliver [Single Version]"
+        "title": "Sliver [Single Version]",
+        "file": "https://empilements.incongru.org/compilations/manifest/02 - Nirvana - Sliver [Single Version].mp3"
       }
     },
     {
       "track": {
         "artist": "The Flaming Lips",
-        "title": "Turn It On"
+        "title": "Turn It On",
+        "file": "https://empilements.incongru.org/compilations/manifest/03 - The Flaming Lips - Turn It On.mp3"
       }
     },
     {
       "track": {
         "artist": "Whale",
-        "title": "Kickin'"
+        "title": "Kickin'",
+        "file": "https://empilements.incongru.org/compilations/manifest/04 - Whale - Kickin'.mp3"
       }
     },
     {
       "track": {
         "artist": "Green Day",
-        "title": "Brat"
+        "title": "Brat",
+        "file": "https://empilements.incongru.org/compilations/manifest/05 - Green Day - Brat.mp3"
       }
     },
     {
       "track": {
         "artist": "Veruca Salt",
-        "title": "All Hail Me"
+        "title": "All Hail Me",
+        "file": "https://empilements.incongru.org/compilations/manifest/06 - Veruca Salt - All Hail Me.mp3"
       }
     },
     {
       "track": {
         "artist": "Café Tacuba",
-        "title": "Rarotonga"
+        "title": "Rarotonga",
+        "file": "https://empilements.incongru.org/compilations/manifest/07 - Café Tacuba - Rarotonga.mp3"
       }
     },
     {
       "track": {
         "artist": "Nine Inch Nails",
-        "title": "Down in It"
+        "title": "Down in It",
+        "file": "https://empilements.incongru.org/compilations/manifest/08 - Nine Inch Nails - Down in It.mp3"
       }
     },
     {
       "track": {
         "artist": "The Chemical Brothers",
-        "title": "Dig Your Own Hole"
+        "title": "Dig Your Own Hole",
+        "file": "https://empilements.incongru.org/compilations/manifest/09 - The Chemical Brothers - Dig Your Own Hole.mp3"
       }
     },
     {
       "track": {
         "artist": "Stone Temple Pilots",
-        "title": "Pop's Love Suicide"
+        "title": "Pop's Love Suicide",
+        "file": "https://empilements.incongru.org/compilations/manifest/10 - Stone Temple Pilots - Pop's Love Suicide.mp3"
       }
     },
     {
       "track": {
         "artist": "Garbage",
-        "title": "Queer"
+        "title": "Queer",
+        "file": "https://empilements.incongru.org/compilations/manifest/11 - Garbage - Queer.mp3"
       }
     },
     {
       "track": {
         "artist": "Hooverphonic",
-        "title": "Shake the Disease"
+        "title": "Shake the Disease",
+        "file": "https://empilements.incongru.org/compilations/manifest/12 - Hooverphonic - Shake the Disease.mp3"
       }
     },
     {
       "track": {
         "artist": "Underworld",
-        "title": "Born Slippy [Nuxx]"
+        "title": "Born Slippy [Nuxx]",
+        "file": "https://empilements.incongru.org/compilations/manifest/13 - Underworld - Born Slippy [Nuxx].mp3"
       }
     },
     {
       "track": {
         "artist": "The Prodigy",
-        "title": "Poison"
+        "title": "Poison",
+        "file": "https://empilements.incongru.org/compilations/manifest/14 - The Prodigy - Poison.mp3"
       }
     },
     {
       "track": {
         "artist": "The Minty",
-        "title": "Final, Battle"
+        "title": "Final, Battle",
+        "file": "https://empilements.incongru.org/compilations/manifest/15 - The Minty - Final, Battle.mp3"
       }
     }
   ]
