@@ -19,7 +19,7 @@ show_preview_links: true
 publish_mode: editorial_workflow
 
 collections:
-  - label: Audio Selecta
+  - label: 'Audio Selecta'
     name: audio-selecta
     folder: content/audio-selecta
     create: true
