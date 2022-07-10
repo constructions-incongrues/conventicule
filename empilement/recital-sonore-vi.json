@@ -5,71 +5,103 @@
     "Gumbi",
     "Esoteric Sob"
   ],
-  "cover": "files/recital-sonore-vi/source.jpg",
+  "cover": "source.jpg",
   "tracks": [
     {
-      "artist": "Crisopa",
-      "title": "Another Flying Cathedral"
+      "track": {
+        "artist": "Crisopa",
+        "title": "Another Flying Cathedral"
+      }
     },
     {
-      "artist": "Hior Chronik",
-      "title": "You Are A Bright Star"
+      "track": {
+        "artist": "Hior Chronik",
+        "title": "You Are A Bright Star"
+      }
     },
     {
-      "artist": "Sina",
-      "title": "Reasons to leave"
+      "track": {
+        "artist": "Sina",
+        "title": "Reasons to leave"
+      }
     },
     {
-      "artist": "Response",
-      "title": "Dusk version ii"
+      "track": {
+        "artist": "Response",
+        "title": "Dusk version ii"
+      }
     },
     {
-      "artist": "aAirial",
-      "title": "Smooth trips"
+      "track": {
+        "artist": "aAirial",
+        "title": "Smooth trips"
+      }
     },
     {
-      "artist": "Mnemonic",
-      "title": "Ein Hauch Von Poesie"
+      "track": {
+        "artist": "Mnemonic",
+        "title": "Ein Hauch Von Poesie"
+      }
     },
     {
-      "artist": "Amorph",
-      "title": "Hopes"
+      "track": {
+        "artist": "Amorph",
+        "title": "Hopes"
+      }
     },
     {
-      "artist": "Melorman",
-      "title": "Two and a nine"
+      "track": {
+        "artist": "Melorman",
+        "title": "Two and a nine"
+      }
     },
     {
-      "artist": "Preston",
-      "title": "Syllogistical"
+      "track": {
+        "artist": "Preston",
+        "title": "Syllogistical"
+      }
     },
     {
-      "artist": "Nautilis",
-      "title": "Rochesta"
+      "track": {
+        "artist": "Nautilis",
+        "title": "Rochesta"
+      }
     },
     {
-      "artist": "Badloop",
-      "title": "Lumme"
+      "track": {
+        "artist": "Badloop",
+        "title": "Lumme"
+      }
     },
     {
-      "artist": "Frost Jockey",
-      "title": "Morshex"
+      "track": {
+        "artist": "Frost Jockey",
+        "title": "Morshex"
+      }
     },
     {
-      "artist": "Lusine Icl",
-      "title": "Chao"
+      "track": {
+        "artist": "Lusine Icl",
+        "title": "Chao"
+      }
     },
     {
-      "artist": "Passarani",
-      "title": "Cnct Point"
+      "track": {
+        "artist": "Passarani",
+        "title": "Cnct Point"
+      }
     },
     {
-      "artist": "Plone",
-      "title": "Plock"
+      "track": {
+        "artist": "Plone",
+        "title": "Plock"
+      }
     },
     {
-      "artist": "Grandma",
-      "title": "Why the fuck did you eat my babies"
+      "track": {
+        "artist": "Grandma",
+        "title": "Why the fuck did you eat my babies"
+      }
     }
   ]
 }

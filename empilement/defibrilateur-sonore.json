@@ -6,75 +6,109 @@
     "Maryn",
     "Fita et Keke"
   ],
-  "cover": "files/defibrilateur-sonore/source.jpg",
+  "cover": "source.jpg",
   "tracks": [
     {
-      "artist": "Unknown Artist",
-      "title": "Intro"
+      "track": {
+        "artist": "Unknown Artist",
+        "title": "Intro"
+      }
     },
     {
-      "artist": "Kikifruit",
-      "title": "Rave On Black Kid !!!"
+      "track": {
+        "artist": "Kikifruit",
+        "title": "Rave On Black Kid !!!"
+      }
     },
     {
-      "artist": "Huoratron",
-      "title": "The New Shit"
+      "track": {
+        "artist": "Huoratron",
+        "title": "The New Shit"
+      }
     },
     {
-      "artist": "Unknown Artist",
-      "title": "Alert"
+      "track": {
+        "artist": "Unknown Artist",
+        "title": "Alert"
+      }
     },
     {
-      "artist": "Aterrmatta",
-      "title": "Seres humanos preparense para la dominacion intraterricola"
+      "track": {
+        "artist": "Aterrmatta",
+        "title": "Seres humanos preparense para la dominacion intraterricola"
+      }
     },
     {
-      "artist": "JayTresh",
-      "title": "cutvox"
+      "track": {
+        "artist": "JayTresh",
+        "title": "cutvox"
+      }
     },
     {
-      "artist": "DjMoule",
-      "title": "Jami-Hendrix"
+      "track": {
+        "artist": "DjMoule",
+        "title": "Jami-Hendrix"
+      }
     },
     {
-      "artist": "Emotional Joystick",
-      "title": "Untitled Gabber Song"
+      "track": {
+        "artist": "Emotional Joystick",
+        "title": "Untitled Gabber Song"
+      }
     },
     {
-      "artist": "Knifeandchop",
-      "title": "Thou shalt always kill remix"
+      "track": {
+        "artist": "Knifeandchop",
+        "title": "Thou shalt always kill remix"
+      }
     },
     {
-      "artist": "Bros before hoes",
-      "title": "California Love 35 District Rmx"
+      "track": {
+        "artist": "Bros before hoes",
+        "title": "California Love 35 District Rmx"
+      }
     },
     {
-      "artist": "Baby Bro",
-      "title": "nous sommes Baby'bro"
+      "track": {
+        "artist": "Baby Bro",
+        "title": "nous sommes Baby'bro"
+      }
     },
     {
-      "artist": "Linear Movement",
-      "title": "Night In June"
+      "track": {
+        "artist": "Linear Movement",
+        "title": "Night In June"
+      }
     },
     {
-      "artist": "Datassette",
-      "title": "Minus Fourteen"
+      "track": {
+        "artist": "Datassette",
+        "title": "Minus Fourteen"
+      }
     },
     {
-      "artist": "Unicorn Kid",
-      "title": "Nuts n Milk"
+      "track": {
+        "artist": "Unicorn Kid",
+        "title": "Nuts n Milk"
+      }
     },
     {
-      "artist": "Din Stalker",
-      "title": "Dumklang"
+      "track": {
+        "artist": "Din Stalker",
+        "title": "Dumklang"
+      }
     },
     {
-      "artist": "Fukkk Offf",
-      "title": "Rave Is King (Original Mix)"
+      "track": {
+        "artist": "Fukkk Offf",
+        "title": "Rave Is King (Original Mix)"
+      }
     },
     {
-      "artist": "Unknown Artist",
-      "title": "Respirateur"
+      "track": {
+        "artist": "Unknown Artist",
+        "title": "Respirateur"
+      }
     }
   ]
 }

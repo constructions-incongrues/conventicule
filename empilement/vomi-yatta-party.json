@@ -4,75 +4,109 @@
   "curators": [
     "Klaus Vomi"
   ],
-  "cover": "files/vomi-yatta-party/source.jpg",
+  "cover": "source.jpg",
   "tracks": [
     {
-      "artist": "Violence Conjugale",
-      "title": "Mirador"
+      "track": {
+        "artist": "Violence Conjugale",
+        "title": "Mirador"
+      }
     },
     {
-      "artist": "Ben et Bene",
-      "title": "Few Day"
+      "track": {
+        "artist": "Ben et Bene",
+        "title": "Few Day"
+      }
     },
     {
-      "artist": "Rod Droid",
-      "title": "Ma Jolie Trotinette"
+      "track": {
+        "artist": "Rod Droid",
+        "title": "Ma Jolie Trotinette"
+      }
     },
     {
-      "artist": "Adult",
-      "title": "Seal Me In"
+      "track": {
+        "artist": "Adult",
+        "title": "Seal Me In"
+      }
     },
     {
-      "artist": "Puyo puyo",
-      "title": "Life Is Simple"
+      "track": {
+        "artist": "Puyo puyo",
+        "title": "Life Is Simple"
+      }
     },
     {
-      "artist": "Melodik Pinpon",
-      "title": "Reproduction"
+      "track": {
+        "artist": "Melodik Pinpon",
+        "title": "Reproduction"
+      }
     },
     {
-      "artist": "Mammoutt",
-      "title": "Skeu"
+      "track": {
+        "artist": "Mammoutt",
+        "title": "Skeu"
+      }
     },
     {
-      "artist": "Candie Hank",
-      "title": "Booty Bank (rob)"
+      "track": {
+        "artist": "Candie Hank",
+        "title": "Booty Bank (rob)"
+      }
     },
     {
-      "artist": "Gangpol und mit",
-      "title": "Chinese Slavery"
+      "track": {
+        "artist": "Gangpol und mit",
+        "title": "Chinese Slavery"
+      }
     },
     {
-      "artist": "Monster Zoku Onsomb",
-      "title": "Frankenstein"
+      "track": {
+        "artist": "Monster Zoku Onsomb",
+        "title": "Frankenstein"
+      }
     },
     {
-      "artist": "Mammoutt",
-      "title": "Taptap"
+      "track": {
+        "artist": "Mammoutt",
+        "title": "Taptap"
+      }
     },
     {
-      "artist": "Gangpol und mit",
-      "title": "Wooshwash"
+      "track": {
+        "artist": "Gangpol und mit",
+        "title": "Wooshwash"
+      }
     },
     {
-      "artist": "Nero's Day at Disneyland",
-      "title": "Here We Live One Baba at a Time"
+      "track": {
+        "artist": "Nero's Day at Disneyland",
+        "title": "Here We Live One Baba at a Time"
+      }
     },
     {
-      "artist": "DJ Scotch Egg",
-      "title": "Scotch Circus"
+      "track": {
+        "artist": "DJ Scotch Egg",
+        "title": "Scotch Circus"
+      }
     },
     {
-      "artist": "Nero's Day at Disneyland",
-      "title": "Women are not Things"
+      "track": {
+        "artist": "Nero's Day at Disneyland",
+        "title": "Women are not Things"
+      }
     },
     {
-      "artist": "DJ Scotch Egg",
-      "title": "Scotch Grind 2"
+      "track": {
+        "artist": "DJ Scotch Egg",
+        "title": "Scotch Grind 2"
+      }
     },
     {
-      "artist": "Aux Raus",
-      "title": "Model or waffle"
+      "track": {
+        "artist": "Aux Raus",
+        "title": "Model or waffle"
+      }
     }
   ]
 }

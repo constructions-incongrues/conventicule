@@ -4,59 +4,85 @@
   "curators": [
     "Eat Rabbit"
   ],
-  "cover": "files/electron-echo/source.jpg",
+  "cover": "source.jpg",
   "tracks": [
     {
-      "artist": "Tuxedomoon",
-      "title": "What use (heinrich mueller technik mix)"
+      "track": {
+        "artist": "Tuxedomoon",
+        "title": "What use (heinrich mueller technik mix)"
+      }
     },
     {
-      "artist": "The Artificial Arm",
-      "title": "You Are Listening To An Elecronic Jam"
+      "track": {
+        "artist": "The Artificial Arm",
+        "title": "You Are Listening To An Elecronic Jam"
+      }
     },
     {
-      "artist": "Audio Riot",
-      "title": "Keystroke"
+      "track": {
+        "artist": "Audio Riot",
+        "title": "Keystroke"
+      }
     },
     {
-      "artist": "AS1",
-      "title": "Hydroglide"
+      "track": {
+        "artist": "AS1",
+        "title": "Hydroglide"
+      }
     },
     {
-      "artist": "=UHU=Universal Human Uderground",
-      "title": "Skaitlojamas Mashinas Muzika"
+      "track": {
+        "artist": "=UHU=Universal Human Uderground",
+        "title": "Skaitlojamas Mashinas Muzika"
+      }
     },
     {
-      "artist": "Poladroïd",
-      "title": "Deux"
+      "track": {
+        "artist": "Poladroïd",
+        "title": "Deux"
+      }
     },
     {
-      "artist": "Shifted Phases",
-      "title": "Implosive Regions"
+      "track": {
+        "artist": "Shifted Phases",
+        "title": "Implosive Regions"
+      }
     },
     {
-      "artist": "Kobol Electronics",
-      "title": "Intellicon"
+      "track": {
+        "artist": "Kobol Electronics",
+        "title": "Intellicon"
+      }
     },
     {
-      "artist": "Mr Velcro Fastener",
-      "title": "Coywm"
+      "track": {
+        "artist": "Mr Velcro Fastener",
+        "title": "Coywm"
+      }
     },
     {
-      "artist": "The Consumer",
-      "title": "Information"
+      "track": {
+        "artist": "The Consumer",
+        "title": "Information"
+      }
     },
     {
-      "artist": "Faceless Mind",
-      "title": "Faceless Programmer"
+      "track": {
+        "artist": "Faceless Mind",
+        "title": "Faceless Programmer"
+      }
     },
     {
-      "artist": "Luke Eargoggle",
-      "title": "This town stinks"
+      "track": {
+        "artist": "Luke Eargoggle",
+        "title": "This town stinks"
+      }
     },
     {
-      "artist": "Pametex",
-      "title": "Glas"
+      "track": {
+        "artist": "Pametex",
+        "title": "Glas"
+      }
     }
   ]
 }

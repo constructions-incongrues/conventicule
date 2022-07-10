@@ -7,47 +7,67 @@
     "Raffi",
     "Flav"
   ],
-  "cover": "files/bonne-annee/source.jpg",
+  "cover": "source.jpg",
   "tracks": [
     {
-      "artist": "Florence Foster Jenkins",
-      "title": "Queen of the Night by Mozart"
+      "track": {
+        "artist": "Florence Foster Jenkins",
+        "title": "Queen of the Night by Mozart"
+      }
     },
     {
-      "artist": "Marie Laforet ",
-      "title": "Viens, Viens"
+      "track": {
+        "artist": "Marie Laforet ",
+        "title": "Viens, Viens"
+      }
     },
     {
-      "artist": "State of House",
-      "title": "Pacific Dance"
+      "track": {
+        "artist": "State of House",
+        "title": "Pacific Dance"
+      }
     },
     {
-      "artist": "Daphniele",
-      "title": "Pour l'amour d'un dauphin"
+      "track": {
+        "artist": "Daphniele",
+        "title": "Pour l'amour d'un dauphin"
+      }
     },
     {
-      "artist": "Les Epis noirs",
-      "title": "Epiphanie"
+      "track": {
+        "artist": "Les Epis noirs",
+        "title": "Epiphanie"
+      }
     },
     {
-      "artist": "Jeanne Calment",
-      "title": "La Farandole!"
+      "track": {
+        "artist": "Jeanne Calment",
+        "title": "La Farandole!"
+      }
     },
     {
-      "artist": "Kyo",
-      "title": "Je saigne encore"
+      "track": {
+        "artist": "Kyo",
+        "title": "Je saigne encore"
+      }
     },
     {
-      "artist": "Guy Marchand",
-      "title": "La Passionata"
+      "track": {
+        "artist": "Guy Marchand",
+        "title": "La Passionata"
+      }
     },
     {
-      "artist": "Line Renaud",
-      "title": "J'en veux encore "
+      "track": {
+        "artist": "Line Renaud",
+        "title": "J'en veux encore "
+      }
     },
     {
-      "artist": "Céline Dion",
-      "title": "On ne change pas"
+      "track": {
+        "artist": "Céline Dion",
+        "title": "On ne change pas"
+      }
     }
   ]
 }

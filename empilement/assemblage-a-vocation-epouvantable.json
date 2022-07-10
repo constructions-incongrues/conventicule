@@ -4,79 +4,115 @@
   "curators": [
     "Paul Kersey"
   ],
-  "cover": "files/assemblage-a-vocation-epouvantable/source.jpg",
+  "cover": "source.jpg",
   "tracks": [
     {
-      "artist": "Michael Kamen",
-      "title": "Opening Titles"
+      "track": {
+        "artist": "Michael Kamen",
+        "title": "Opening Titles"
+      }
     },
     {
-      "artist": "Elliot Goldenthal",
-      "title": "The Pet Sematary"
+      "track": {
+        "artist": "Elliot Goldenthal",
+        "title": "The Pet Sematary"
+      }
     },
     {
-      "artist": "Michael Small",
-      "title": "On The Roof"
+      "track": {
+        "artist": "Michael Small",
+        "title": "On The Roof"
+      }
     },
     {
-      "artist": "Jerry Fielding",
-      "title": "Suicide"
+      "track": {
+        "artist": "Jerry Fielding",
+        "title": "Suicide"
+      }
     },
     {
-      "artist": "Jerry Goldsmith",
-      "title": "Mother's Room"
+      "track": {
+        "artist": "Jerry Goldsmith",
+        "title": "Mother's Room"
+      }
     },
     {
-      "artist": "Jay Chattaway",
-      "title": "Maniac's Theme (Main Title)"
+      "track": {
+        "artist": "Jay Chattaway",
+        "title": "Maniac's Theme (Main Title)"
+      }
     },
     {
-      "artist": "Goblin",
-      "title": "Strive After Dark"
+      "track": {
+        "artist": "Goblin",
+        "title": "Strive After Dark"
+      }
     },
     {
-      "artist": "Wendy Carlos",
-      "title": "The Rocky Mountains"
+      "track": {
+        "artist": "Wendy Carlos",
+        "title": "The Rocky Mountains"
+      }
     },
     {
-      "artist": "John Carpenter",
-      "title": "Tommy Tells Of Ghost Ships"
+      "track": {
+        "artist": "John Carpenter",
+        "title": "Tommy Tells Of Ghost Ships"
+      }
     },
     {
-      "artist": "Bernard Herrman",
-      "title": "The Toys"
+      "track": {
+        "artist": "Bernard Herrman",
+        "title": "The Toys"
+      }
     },
     {
-      "artist": "Pino Danaggio",
-      "title": "Sleaze_Karen's Nightmare"
+      "track": {
+        "artist": "Pino Danaggio",
+        "title": "Sleaze_Karen's Nightmare"
+      }
     },
     {
-      "artist": "John Harrison",
-      "title": "Something To Tide You Over"
+      "track": {
+        "artist": "John Harrison",
+        "title": "Something To Tide You Over"
+      }
     },
     {
-      "artist": "Joseph LoDuca",
-      "title": "Love Never Dies"
+      "track": {
+        "artist": "Joseph LoDuca",
+        "title": "Love Never Dies"
+      }
     },
     {
-      "artist": "Giorgio Moroder",
-      "title": "The Wheel"
+      "track": {
+        "artist": "Giorgio Moroder",
+        "title": "The Wheel"
+      }
     },
     {
-      "artist": "Richard Band",
-      "title": "Prologue_Main Title"
+      "track": {
+        "artist": "Richard Band",
+        "title": "Prologue_Main Title"
+      }
     },
     {
-      "artist": "Jay Chattaway",
-      "title": "Flashback Montage"
+      "track": {
+        "artist": "Jay Chattaway",
+        "title": "Flashback Montage"
+      }
     },
     {
-      "artist": "Howard Shore",
-      "title": "Finale"
+      "track": {
+        "artist": "Howard Shore",
+        "title": "Finale"
+      }
     },
     {
-      "artist": "Jerry Goldsmith",
-      "title": "End Title (All The Power)"
+      "track": {
+        "artist": "Jerry Goldsmith",
+        "title": "End Title (All The Power)"
+      }
     }
   ]
 }

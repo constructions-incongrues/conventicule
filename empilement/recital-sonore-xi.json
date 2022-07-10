@@ -5,91 +5,133 @@
     "Gumbi",
     "Melorman"
   ],
-  "cover": "files/recital-sonore-xi/source.jpg",
+  "cover": "source.jpg",
   "tracks": [
     {
-      "artist": "Felix Laband",
-      "title": "Hopeful"
+      "track": {
+        "artist": "Felix Laband",
+        "title": "Hopeful"
+      }
     },
     {
-      "artist": "Min-Y-Lian",
-      "title": "My Hearts In Your Hands"
+      "track": {
+        "artist": "Min-Y-Lian",
+        "title": "My Hearts In Your Hands"
+      }
     },
     {
-      "artist": "Aus",
-      "title": "Von Rechts Nach Links"
+      "track": {
+        "artist": "Aus",
+        "title": "Von Rechts Nach Links"
+      }
     },
     {
-      "artist": "Benn Jordan",
-      "title": "Floating Vacuum"
+      "track": {
+        "artist": "Benn Jordan",
+        "title": "Floating Vacuum"
+      }
     },
     {
-      "artist": "Cristian Gualpa",
-      "title": "Pensando"
+      "track": {
+        "artist": "Cristian Gualpa",
+        "title": "Pensando"
+      }
     },
     {
-      "artist": "Volor Flex",
-      "title": "Stolen Child"
+      "track": {
+        "artist": "Volor Flex",
+        "title": "Stolen Child"
+      }
     },
     {
-      "artist": "Diaphane",
-      "title": "Insight"
+      "track": {
+        "artist": "Diaphane",
+        "title": "Insight"
+      }
     },
     {
-      "artist": "NCThompson",
-      "title": "This Can Kill"
+      "track": {
+        "artist": "NCThompson",
+        "title": "This Can Kill"
+      }
     },
     {
-      "artist": "Matthew Barber",
-      "title": "You And Me"
+      "track": {
+        "artist": "Matthew Barber",
+        "title": "You And Me"
+      }
     },
     {
-      "artist": "Memotone",
-      "title": "Sleeping In Circles"
+      "track": {
+        "artist": "Memotone",
+        "title": "Sleeping In Circles"
+      }
     },
     {
-      "artist": "S.T.",
-      "title": "Csanca"
+      "track": {
+        "artist": "S.T.",
+        "title": "Csanca"
+      }
     },
     {
-      "artist": "Dusk +Blackdown",
-      "title": "Iqbal's Groove ft. Farrah"
+      "track": {
+        "artist": "Dusk +Blackdown",
+        "title": "Iqbal's Groove ft. Farrah"
+      }
     },
     {
-      "artist": "Clifford Gilberto",
-      "title": "Brasilia freestyle"
+      "track": {
+        "artist": "Clifford Gilberto",
+        "title": "Brasilia freestyle"
+      }
     },
     {
-      "artist": "Bovaflux",
-      "title": "Bridge"
+      "track": {
+        "artist": "Bovaflux",
+        "title": "Bridge"
+      }
     },
     {
-      "artist": "Human Action Network",
-      "title": "Hollywood Filter"
+      "track": {
+        "artist": "Human Action Network",
+        "title": "Hollywood Filter"
+      }
     },
     {
-      "artist": "µ-Ziq",
-      "title": "Phi-1700 (U-V)"
+      "track": {
+        "artist": "µ-Ziq",
+        "title": "Phi-1700 (U-V)"
+      }
     },
     {
-      "artist": "Gel-Sol",
-      "title": "Numby Numbs"
+      "track": {
+        "artist": "Gel-Sol",
+        "title": "Numby Numbs"
+      }
     },
     {
-      "artist": "III",
-      "title": "Self Irreality"
+      "track": {
+        "artist": "III",
+        "title": "Self Irreality"
+      }
     },
     {
-      "artist": "Marching Dynamics",
-      "title": "Bizango Datura"
+      "track": {
+        "artist": "Marching Dynamics",
+        "title": "Bizango Datura"
+      }
     },
     {
-      "artist": "Bibio",
-      "title": "Saint Christopher"
+      "track": {
+        "artist": "Bibio",
+        "title": "Saint Christopher"
+      }
     },
     {
-      "artist": "Araya",
-      "title": "Duty Paid"
+      "track": {
+        "artist": "Araya",
+        "title": "Duty Paid"
+      }
     }
   ]
 }

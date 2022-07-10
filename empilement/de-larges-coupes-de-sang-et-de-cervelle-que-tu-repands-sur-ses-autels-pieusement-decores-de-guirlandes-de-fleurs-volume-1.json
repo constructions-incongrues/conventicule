@@ -4,151 +4,223 @@
   "curators": [
     "Kabeljau Mechanische"
   ],
-  "cover": "files/de-larges-coupes-de-sang-et-de-cervelle-que-tu-repands-sur-ses-autels-pieusement-decores-de-guirlandes-de-fleurs-volume-1/source.jpg",
+  "cover": "source.jpg",
   "tracks": [
     {
-      "artist": "Earth",
-      "title": "Ripped On Facist Ideas"
+      "track": {
+        "artist": "Earth",
+        "title": "Ripped On Facist Ideas"
+      }
     },
     {
-      "artist": "Belbury Poly",
-      "title": "Wildspot"
+      "track": {
+        "artist": "Belbury Poly",
+        "title": "Wildspot"
+      }
     },
     {
-      "artist": "B.E.F (British Electric Foundation)",
-      "title": "Uptown Apocalypse"
+      "track": {
+        "artist": "B.E.F (British Electric Foundation)",
+        "title": "Uptown Apocalypse"
+      }
     },
     {
-      "artist": "Pataphonie",
-      "title": "Valse Noble"
+      "track": {
+        "artist": "Pataphonie",
+        "title": "Valse Noble"
+      }
     },
     {
-      "artist": "Horrific World",
-      "title": "L'étrange Mr Whinster"
+      "track": {
+        "artist": "Horrific World",
+        "title": "L'étrange Mr Whinster"
+      }
     },
     {
-      "artist": "Bernard Parmegiani",
-      "title": "Pulsion"
+      "track": {
+        "artist": "Bernard Parmegiani",
+        "title": "Pulsion"
+      }
     },
     {
-      "artist": "Camille Sauvage",
-      "title": "Terrifical Night"
+      "track": {
+        "artist": "Camille Sauvage",
+        "title": "Terrifical Night"
+      }
     },
     {
-      "artist": "Jazkamer",
-      "title": "The Worms Will Get In"
+      "track": {
+        "artist": "Jazkamer",
+        "title": "The Worms Will Get In"
+      }
     },
     {
-      "artist": "B.E.F (British Electric Foundation)",
-      "title": "Music To Kill Your Parents By"
+      "track": {
+        "artist": "B.E.F (British Electric Foundation)",
+        "title": "Music To Kill Your Parents By"
+      }
     },
     {
-      "artist": "Peter Thomas",
-      "title": "International Tension"
+      "track": {
+        "artist": "Peter Thomas",
+        "title": "International Tension"
+      }
     },
     {
-      "artist": "Crash Course In Science",
-      "title": "Cardboard Lamb"
+      "track": {
+        "artist": "Crash Course In Science",
+        "title": "Cardboard Lamb"
+      }
     },
     {
-      "artist": "Aviador Dro",
-      "title": "Nuclear Sí"
+      "track": {
+        "artist": "Aviador Dro",
+        "title": "Nuclear Sí"
+      }
     },
     {
-      "artist": "The Flying Lizards",
-      "title": "Trouble"
+      "track": {
+        "artist": "The Flying Lizards",
+        "title": "Trouble"
+      }
     },
     {
-      "artist": "Crash Course In Science",
-      "title": "Crashing Song"
+      "track": {
+        "artist": "Crash Course In Science",
+        "title": "Crashing Song"
+      }
     },
     {
-      "artist": "Aviador Dro",
-      "title": "La Persecución"
+      "track": {
+        "artist": "Aviador Dro",
+        "title": "La Persecución"
+      }
     },
     {
-      "artist": "De Fabriek",
-      "title": "Break Attack"
+      "track": {
+        "artist": "De Fabriek",
+        "title": "Break Attack"
+      }
     },
     {
-      "artist": "The Flying Lizards",
-      "title": "Mandelay Song"
+      "track": {
+        "artist": "The Flying Lizards",
+        "title": "Mandelay Song"
+      }
     },
     {
-      "artist": "Melvins",
-      "title": "Over From Under The Excrement"
+      "track": {
+        "artist": "Melvins",
+        "title": "Over From Under The Excrement"
+      }
     },
     {
-      "artist": "De Fabriek",
-      "title": "Kleppenspoeling"
+      "track": {
+        "artist": "De Fabriek",
+        "title": "Kleppenspoeling"
+      }
     },
     {
-      "artist": "Jazkamer",
-      "title": "MetalMuisc Machine"
+      "track": {
+        "artist": "Jazkamer",
+        "title": "MetalMuisc Machine"
+      }
     },
     {
-      "artist": "Skip James",
-      "title": "Devil Got My Woman"
+      "track": {
+        "artist": "Skip James",
+        "title": "Devil Got My Woman"
+      }
     },
     {
-      "artist": "Bernard Parmegiani",
-      "title": "Entropie"
+      "track": {
+        "artist": "Bernard Parmegiani",
+        "title": "Entropie"
+      }
     },
     {
-      "artist": "Jazkamer",
-      "title": "Occult Glider"
+      "track": {
+        "artist": "Jazkamer",
+        "title": "Occult Glider"
+      }
     },
     {
-      "artist": "Organ",
-      "title": "For Next"
+      "track": {
+        "artist": "Organ",
+        "title": "For Next"
+      }
     },
     {
-      "artist": "Peter Thomas",
-      "title": "International Link II"
+      "track": {
+        "artist": "Peter Thomas",
+        "title": "International Link II"
+      }
     },
     {
-      "artist": "Joel Vandroogenbroeck",
-      "title": "Galaxy Recall"
+      "track": {
+        "artist": "Joel Vandroogenbroeck",
+        "title": "Galaxy Recall"
+      }
     },
     {
-      "artist": "Corrupted",
-      "title": "Llenandose de gusanos"
+      "track": {
+        "artist": "Corrupted",
+        "title": "Llenandose de gusanos"
+      }
     },
     {
-      "artist": "B.E.F (British Electric Foundation)",
-      "title": "Optimum Chant"
+      "track": {
+        "artist": "B.E.F (British Electric Foundation)",
+        "title": "Optimum Chant"
+      }
     },
     {
-      "artist": "Jean-Pierre Decerf",
-      "title": "Electronic Sounds"
+      "track": {
+        "artist": "Jean-Pierre Decerf",
+        "title": "Electronic Sounds"
+      }
     },
     {
-      "artist": "Telex",
-      "title": "Victime De La Societe"
+      "track": {
+        "artist": "Telex",
+        "title": "Victime De La Societe"
+      }
     },
     {
-      "artist": "Brigitte Fontaine",
-      "title": "Le Beau Cancer"
+      "track": {
+        "artist": "Brigitte Fontaine",
+        "title": "Le Beau Cancer"
+      }
     },
     {
-      "artist": "The Flying Lizards",
-      "title": "Window"
+      "track": {
+        "artist": "The Flying Lizards",
+        "title": "Window"
+      }
     },
     {
-      "artist": "Cecil Leuter",
-      "title": "Pop Electronique No. 11"
+      "track": {
+        "artist": "Cecil Leuter",
+        "title": "Pop Electronique No. 11"
+      }
     },
     {
-      "artist": "B.E.F (British Electric Foundation)",
-      "title": "Rise Of The East"
+      "track": {
+        "artist": "B.E.F (British Electric Foundation)",
+        "title": "Rise Of The East"
+      }
     },
     {
-      "artist": "Douglas Wood",
-      "title": "Icicles"
+      "track": {
+        "artist": "Douglas Wood",
+        "title": "Icicles"
+      }
     },
     {
-      "artist": "Unknown Artist",
-      "title": "The End of Your Suffering"
+      "track": {
+        "artist": "Unknown Artist",
+        "title": "The End of Your Suffering"
+      }
     }
   ]
 }

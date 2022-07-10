@@ -4,51 +4,73 @@
   "curators": [
     "Bobby Bass Ewing"
   ],
-  "cover": "files/fire-up-the-barbie-it-s-big-d-party-time/source.jpg",
+  "cover": "source.jpg",
   "tracks": [
     {
-      "artist": "a guy called gerald",
-      "title": "blow your house down (paul mac mix)"
+      "track": {
+        "artist": "a guy called gerald",
+        "title": "blow your house down (paul mac mix)"
+      }
     },
     {
-      "artist": "Control",
-      "title": "Dance With Me (I'm Your Ecstasy) (Original Mix)"
+      "track": {
+        "artist": "Control",
+        "title": "Dance With Me (I'm Your Ecstasy) (Original Mix)"
+      }
     },
     {
-      "artist": "DeeJay Punk Roc",
-      "title": "My Beatbox"
+      "track": {
+        "artist": "DeeJay Punk Roc",
+        "title": "My Beatbox"
+      }
     },
     {
-      "artist": "dj deeon",
-      "title": "gimme head"
+      "track": {
+        "artist": "dj deeon",
+        "title": "gimme head"
+      }
     },
     {
-      "artist": "Dj Magic Mike",
-      "title": "Bim-Bust Em Down"
+      "track": {
+        "artist": "Dj Magic Mike",
+        "title": "Bim-Bust Em Down"
+      }
     },
     {
-      "artist": "Ghost Town Dj's",
-      "title": "My Boo"
+      "track": {
+        "artist": "Ghost Town Dj's",
+        "title": "My Boo"
+      }
     },
     {
-      "artist": "j.j. fad",
-      "title": "anotha ho (original)"
+      "track": {
+        "artist": "j.j. fad",
+        "title": "anotha ho (original)"
+      }
     },
     {
-      "artist": "Lil Rick ft Mr. Machel Montano",
-      "title": "Guh Down (Remix)"
+      "track": {
+        "artist": "Lil Rick ft Mr. Machel Montano",
+        "title": "Guh Down (Remix)"
+      }
     },
     {
-      "artist": "Sergio Mendes",
-      "title": "Magdalena"
+      "track": {
+        "artist": "Sergio Mendes",
+        "title": "Magdalena"
+      }
     },
     {
-      "artist": "Shirley Bassey",
-      "title": "Goldfinger"
+      "track": {
+        "artist": "Shirley Bassey",
+        "title": "Goldfinger"
+      }
     },
     {
-      "artist": "Underground Resistance",
-      "title": "The Seawolf"
+      "track": {
+        "artist": "Underground Resistance",
+        "title": "The Seawolf"
+      }
     }
   ]
 }

@@ -4,67 +4,97 @@
   "curators": [
     "Minty"
   ],
-  "cover": "files/mes-minty-15-lado-b/source.jpg",
+  "cover": "source.jpg",
   "tracks": [
     {
-      "artist": "La Gusana Ciega",
-      "title": "Talismán"
+      "track": {
+        "artist": "La Gusana Ciega",
+        "title": "Talismán"
+      }
     },
     {
-      "artist": "Santa Sabina",
-      "title": " Chicles"
+      "track": {
+        "artist": "Santa Sabina",
+        "title": " Chicles"
+      }
     },
     {
-      "artist": " Ramones",
-      "title": "I Wanna Be Sedated"
+      "track": {
+        "artist": " Ramones",
+        "title": "I Wanna Be Sedated"
+      }
     },
     {
-      "artist": "Soda Stereo",
-      "title": " Primavera O"
+      "track": {
+        "artist": "Soda Stereo",
+        "title": " Primavera O"
+      }
     },
     {
-      "artist": "Nine Inch Nails",
-      "title": " The Perfect Drug"
+      "track": {
+        "artist": "Nine Inch Nails",
+        "title": " The Perfect Drug"
+      }
     },
     {
-      "artist": "Unknown Artist",
-      "title": "Grey Cell Green"
+      "track": {
+        "artist": "Unknown Artist",
+        "title": "Grey Cell Green"
+      }
     },
     {
-      "artist": "Hombres G",
-      "title": " Venezia"
+      "track": {
+        "artist": "Hombres G",
+        "title": " Venezia"
+      }
     },
     {
-      "artist": "The OneUps - Earthworm Jim",
-      "title": "Andy Asteroids"
+      "track": {
+        "artist": "The OneUps - Earthworm Jim",
+        "title": "Andy Asteroids"
+      }
     },
     {
-      "artist": "Kiss",
-      "title": " God Gave Rock & Roll to You"
+      "track": {
+        "artist": "Kiss",
+        "title": " God Gave Rock & Roll to You"
+      }
     },
     {
-      "artist": "2 Minutos",
-      "title": "La Ladrona"
+      "track": {
+        "artist": "2 Minutos",
+        "title": "La Ladrona"
+      }
     },
     {
-      "artist": "Faith No More",
-      "title": " Take This Bottle"
+      "track": {
+        "artist": "Faith No More",
+        "title": " Take This Bottle"
+      }
     },
     {
-      "artist": "Unknown Artist",
-      "title": "Camila"
+      "track": {
+        "artist": "Unknown Artist",
+        "title": "Camila"
+      }
     },
     {
-      "artist": "Unknown Artist",
-      "title": " No Dejes Que"
+      "track": {
+        "artist": "Unknown Artist",
+        "title": " No Dejes Que"
+      }
     },
     {
-      "artist": "Soul Asylum",
-      "title": " Can't Even Tell"
+      "track": {
+        "artist": "Soul Asylum",
+        "title": " Can't Even Tell"
+      }
     },
     {
-      "artist": "Unknown Artist",
-      "title": " Love Buzz"
+      "track": {
+        "artist": "Unknown Artist",
+        "title": " Love Buzz"
+      }
     }
   ]
 }

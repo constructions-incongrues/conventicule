@@ -7,87 +7,127 @@
     "Firedrill",
     "Ponce Pilate Jackson"
   ],
-  "cover": "files/best-party-ever/source.jpg",
+  "cover": "source.jpg",
   "tracks": [
     {
-      "artist": "B52s",
-      "title": "Party Out of Bounds"
+      "track": {
+        "artist": "B52s",
+        "title": "Party Out of Bounds"
+      }
     },
     {
-      "artist": "Beastie Boys",
-      "title": "Fight For Your Right To Party"
+      "track": {
+        "artist": "Beastie Boys",
+        "title": "Fight For Your Right To Party"
+      }
     },
     {
-      "artist": "Birthday Party, The",
-      "title": "Mr Clarinet"
+      "track": {
+        "artist": "Birthday Party, The",
+        "title": "Mr Clarinet"
+      }
     },
     {
-      "artist": "Bodenstandig 2000",
-      "title": "Party Ganze Nacht"
+      "track": {
+        "artist": "Bodenstandig 2000",
+        "title": "Party Ganze Nacht"
+      }
     },
     {
-      "artist": "boogaloo and his gallant crew",
-      "title": "talk about a party"
+      "track": {
+        "artist": "boogaloo and his gallant crew",
+        "title": "talk about a party"
+      }
     },
     {
-      "artist": "Dave Stewart & Barbara Gaskin",
-      "title": "It's My Party"
+      "track": {
+        "artist": "Dave Stewart & Barbara Gaskin",
+        "title": "It's My Party"
+      }
     },
     {
-      "artist": "dj deeon",
-      "title": "party peeps"
+      "track": {
+        "artist": "dj deeon",
+        "title": "party peeps"
+      }
     },
     {
-      "artist": "drvg cvltvre",
-      "title": "the party's over"
+      "track": {
+        "artist": "drvg cvltvre",
+        "title": "the party's over"
+      }
     },
     {
-      "artist": "Major Lazer",
-      "title": "Original Don Ft. The Partysquad"
+      "track": {
+        "artist": "Major Lazer",
+        "title": "Original Don Ft. The Partysquad"
+      }
     },
     {
-      "artist": "Noia",
-      "title": "Crayola Party"
+      "track": {
+        "artist": "Noia",
+        "title": "Crayola Party"
+      }
     },
     {
-      "artist": "Artiste Inconnu",
-      "title": "PartySierra"
+      "track": {
+        "artist": "Artiste Inconnu",
+        "title": "PartySierra"
+      }
     },
     {
-      "artist": "Patrice & Friends",
-      "title": "Vocoder Party"
+      "track": {
+        "artist": "Patrice & Friends",
+        "title": "Vocoder Party"
+      }
     },
     {
-      "artist": "Ponce Pilate Jackson",
-      "title": "Vertebrate Spy (You Will Recognize Our Party By The Sound Of Our Hooves) "
+      "track": {
+        "artist": "Ponce Pilate Jackson",
+        "title": "Vertebrate Spy (You Will Recognize Our Party By The Sound Of Our Hooves) "
+      }
     },
     {
-      "artist": "Sabrepulse",
-      "title": "Party Bomb"
+      "track": {
+        "artist": "Sabrepulse",
+        "title": "Party Bomb"
+      }
     },
     {
-      "artist": "Scott Sinclair Mariam Wallentin",
-      "title": "Get ready to party"
+      "track": {
+        "artist": "Scott Sinclair Mariam Wallentin",
+        "title": "Get ready to party"
+      }
     },
     {
-      "artist": "The Time & Space Machine",
-      "title": "Pill Party In India (original mix)"
+      "track": {
+        "artist": "The Time & Space Machine",
+        "title": "Pill Party In India (original mix)"
+      }
     },
     {
-      "artist": "Toby",
-      "title": "Tobias Macasu (Motor City Drum Ensemble Loft Party Remix)"
+      "track": {
+        "artist": "Toby",
+        "title": "Tobias Macasu (Motor City Drum Ensemble Loft Party Remix)"
+      }
     },
     {
-      "artist": "Toecutter",
-      "title": "Best Party Ever"
+      "track": {
+        "artist": "Toecutter",
+        "title": "Best Party Ever"
+      }
     },
     {
-      "artist": "Artiste Inconnu",
-      "title": "FC_party_collage_JEN_Chien"
+      "track": {
+        "artist": "Artiste Inconnu",
+        "title": "FC_party_collage_JEN_Chien"
+      }
     },
     {
-      "artist": "Firedrill",
-      "title": "the spirit of the party"
+      "track": {
+        "artist": "Firedrill",
+        "title": "the spirit of the party"
+      }
     }
   ]
 }

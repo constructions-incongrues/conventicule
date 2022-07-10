@@ -4,47 +4,67 @@
   "curators": [
     "Yvan&Lendl"
   ],
-  "cover": "files/childisc-i/source.jpg",
+  "cover": "source.jpg",
   "tracks": [
     {
-      "artist": "Aki Tsuyuko",
-      "title": " dance at happy night"
+      "track": {
+        "artist": "Aki Tsuyuko",
+        "title": " dance at happy night"
+      }
     },
     {
-      "artist": "toki-meki science",
-      "title": "my pianist walked out on me"
+      "track": {
+        "artist": "toki-meki science",
+        "title": "my pianist walked out on me"
+      }
     },
     {
-      "artist": "nobuyasu sakonda",
-      "title": "new century song"
+      "track": {
+        "artist": "nobuyasu sakonda",
+        "title": "new century song"
+      }
     },
     {
-      "artist": "Asao Kikuchi",
-      "title": "qp three minute cooking"
+      "track": {
+        "artist": "Asao Kikuchi",
+        "title": "qp three minute cooking"
+      }
     },
     {
-      "artist": "Aki Tsuyuko",
-      "title": " noel's organ"
+      "track": {
+        "artist": "Aki Tsuyuko",
+        "title": " noel's organ"
+      }
     },
     {
-      "artist": "Asao Kikuchi",
-      "title": "10 am in the park"
+      "track": {
+        "artist": "Asao Kikuchi",
+        "title": "10 am in the park"
+      }
     },
     {
-      "artist": "Unknown Artist",
-      "title": "fake and easy lyric"
+      "track": {
+        "artist": "Unknown Artist",
+        "title": "fake and easy lyric"
+      }
     },
     {
-      "artist": "Aki Tsuyuko",
-      "title": " zou and chou"
+      "track": {
+        "artist": "Aki Tsuyuko",
+        "title": " zou and chou"
+      }
     },
     {
-      "artist": "nobukazu takemura",
-      "title": "dalla barca sul lago"
+      "track": {
+        "artist": "nobukazu takemura",
+        "title": "dalla barca sul lago"
+      }
     },
     {
-      "artist": "toki-meki science",
-      "title": "ending march"
+      "track": {
+        "artist": "toki-meki science",
+        "title": "ending march"
+      }
     }
   ]
 }

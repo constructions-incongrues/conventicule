@@ -4,107 +4,157 @@
   "curators": [
     "Raffi"
   ],
-  "cover": "files/does-dubstep-is-really-shit/source.jpg",
+  "cover": "source.jpg",
   "tracks": [
     {
-      "artist": "Skream",
-      "title": "Tortured Soul"
+      "track": {
+        "artist": "Skream",
+        "title": "Tortured Soul"
+      }
     },
     {
-      "artist": "Goth Trad",
-      "title": "Cut End"
+      "track": {
+        "artist": "Goth Trad",
+        "title": "Cut End"
+      }
     },
     {
-      "artist": "Kode 9",
-      "title": "Nine Samurai"
+      "track": {
+        "artist": "Kode 9",
+        "title": "Nine Samurai"
+      }
     },
     {
-      "artist": "Twist",
-      "title": "Maniac"
+      "track": {
+        "artist": "Twist",
+        "title": "Maniac"
+      }
     },
     {
-      "artist": "Ikonika",
-      "title": "Please"
+      "track": {
+        "artist": "Ikonika",
+        "title": "Please"
+      }
     },
     {
-      "artist": "Torqux",
-      "title": "Relentless"
+      "track": {
+        "artist": "Torqux",
+        "title": "Relentless"
+      }
     },
     {
-      "artist": "The Bug Ft. Warrior Queen",
-      "title": "Skeng (Kode 9 Remix)"
+      "track": {
+        "artist": "The Bug Ft. Warrior Queen",
+        "title": "Skeng (Kode 9 Remix)"
+      }
     },
     {
-      "artist": "DZ",
-      "title": "End dub"
+      "track": {
+        "artist": "DZ",
+        "title": "End dub"
+      }
     },
     {
-      "artist": "Dizzee Rascal & Armand Van Helden",
-      "title": "Bonkers (Doorly Remix)"
+      "track": {
+        "artist": "Dizzee Rascal & Armand Van Helden",
+        "title": "Bonkers (Doorly Remix)"
+      }
     },
     {
-      "artist": "Reso",
-      "title": "If you can"
+      "track": {
+        "artist": "Reso",
+        "title": "If you can"
+      }
     },
     {
-      "artist": "M2J",
-      "title": "Odd Sockz"
+      "track": {
+        "artist": "M2J",
+        "title": "Odd Sockz"
+      }
     },
     {
-      "artist": "Datsik Excision",
-      "title": "Swagga"
+      "track": {
+        "artist": "Datsik Excision",
+        "title": "Swagga"
+      }
     },
     {
-      "artist": "Skizm",
-      "title": "The Blank"
+      "track": {
+        "artist": "Skizm",
+        "title": "The Blank"
+      }
     },
     {
-      "artist": "Nero",
-      "title": "Shaollin"
+      "track": {
+        "artist": "Nero",
+        "title": "Shaollin"
+      }
     },
     {
-      "artist": "The Bug",
-      "title": "Poison Dart (Skream remix)"
+      "track": {
+        "artist": "The Bug",
+        "title": "Poison Dart (Skream remix)"
+      }
     },
     {
-      "artist": "George Lenton",
-      "title": "Sorry"
+      "track": {
+        "artist": "George Lenton",
+        "title": "Sorry"
+      }
     },
     {
-      "artist": "16bit",
-      "title": "Jump"
+      "track": {
+        "artist": "16bit",
+        "title": "Jump"
+      }
     },
     {
-      "artist": "rusko",
-      "title": "2 n a q"
+      "track": {
+        "artist": "rusko",
+        "title": "2 n a q"
+      }
     },
     {
-      "artist": "Goth-Trad",
-      "title": "Smokin' Water"
+      "track": {
+        "artist": "Goth-Trad",
+        "title": "Smokin' Water"
+      }
     },
     {
-      "artist": "Wartech",
-      "title": "The Rattlesnake"
+      "track": {
+        "artist": "Wartech",
+        "title": "The Rattlesnake"
+      }
     },
     {
-      "artist": "Bionics",
-      "title": "Dubcore"
+      "track": {
+        "artist": "Bionics",
+        "title": "Dubcore"
+      }
     },
     {
-      "artist": "DZ",
-      "title": "How We Do"
+      "track": {
+        "artist": "DZ",
+        "title": "How We Do"
+      }
     },
     {
-      "artist": "Bassnectar",
-      "title": "Basshead"
+      "track": {
+        "artist": "Bassnectar",
+        "title": "Basshead"
+      }
     },
     {
-      "artist": "Propa tingz",
-      "title": "Babylons scared"
+      "track": {
+        "artist": "Propa tingz",
+        "title": "Babylons scared"
+      }
     },
     {
-      "artist": "Borgore",
-      "title": "Guided Relaxation Dub"
+      "track": {
+        "artist": "Borgore",
+        "title": "Guided Relaxation Dub"
+      }
     }
   ]
 }

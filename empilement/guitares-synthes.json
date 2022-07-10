@@ -4,103 +4,151 @@
   "curators": [
     "Cellule 34"
   ],
-  "cover": "files/guitares-synthes/source.jpg",
+  "cover": "source.jpg",
   "tracks": [
     {
-      "artist": "Forbidden Zone",
-      "title": "Mystic Knights of the Oingo Boingo"
+      "track": {
+        "artist": "Forbidden Zone",
+        "title": "Mystic Knights of the Oingo Boingo"
+      }
     },
     {
-      "artist": "Wall of Voodoo",
-      "title": "Back in flesh"
+      "track": {
+        "artist": "Wall of Voodoo",
+        "title": "Back in flesh"
+      }
     },
     {
-      "artist": "Devo",
-      "title": "Shrivel Up"
+      "track": {
+        "artist": "Devo",
+        "title": "Shrivel Up"
+      }
     },
     {
-      "artist": "Palais Schaumburg",
-      "title": "Live Apeld 2 -"
+      "track": {
+        "artist": "Palais Schaumburg",
+        "title": "Live Apeld 2 -"
+      }
     },
     {
-      "artist": "Agaskodo Teliverek",
-      "title": "Heinrich The Eminent Cartographer"
+      "track": {
+        "artist": "Agaskodo Teliverek",
+        "title": "Heinrich The Eminent Cartographer"
+      }
     },
     {
-      "artist": "The Vanishing",
-      "title": "Lovesick"
+      "track": {
+        "artist": "The Vanishing",
+        "title": "Lovesick"
+      }
     },
     {
-      "artist": "Lucrate Milk",
-      "title": "James Bond"
+      "track": {
+        "artist": "Lucrate Milk",
+        "title": "James Bond"
+      }
     },
     {
-      "artist": "Dog Faced Hermans",
-      "title": "Love split with blood"
+      "track": {
+        "artist": "Dog Faced Hermans",
+        "title": "Love split with blood"
+      }
     },
     {
-      "artist": "Leben und Arbeiten",
-      "title": "Gefuhl Nix Gut"
+      "track": {
+        "artist": "Leben und Arbeiten",
+        "title": "Gefuhl Nix Gut"
+      }
     },
     {
-      "artist": "Warum Joe",
-      "title": "Datcha (Unterseeboot Demo)"
+      "track": {
+        "artist": "Warum Joe",
+        "title": "Datcha (Unterseeboot Demo)"
+      }
     },
     {
-      "artist": "Velvet Condom",
-      "title": "Lady Audacity "
+      "track": {
+        "artist": "Velvet Condom",
+        "title": "Lady Audacity "
+      }
     },
     {
-      "artist": "Holger Hiller",
-      "title": "Jonny (du lump) "
+      "track": {
+        "artist": "Holger Hiller",
+        "title": "Jonny (du lump) "
+      }
     },
     {
-      "artist": "Bondage Fairies",
-      "title": "Levenus Supremus"
+      "track": {
+        "artist": "Bondage Fairies",
+        "title": "Levenus Supremus"
+      }
     },
     {
-      "artist": "Merci La Nuit",
-      "title": "AIT 3 times a day"
+      "track": {
+        "artist": "Merci La Nuit",
+        "title": "AIT 3 times a day"
+      }
     },
     {
-      "artist": "The Horrorist",
-      "title": "Fire in the sky"
+      "track": {
+        "artist": "The Horrorist",
+        "title": "Fire in the sky"
+      }
     },
     {
-      "artist": "The Horrorist",
-      "title": "Heresy & Innocence"
+      "track": {
+        "artist": "The Horrorist",
+        "title": "Heresy & Innocence"
+      }
     },
     {
-      "artist": "Felix Kubin",
-      "title": "Groscher lausangriff"
+      "track": {
+        "artist": "Felix Kubin",
+        "title": "Groscher lausangriff"
+      }
     },
     {
-      "artist": "Felix Kubin",
-      "title": "Qualitaet des staates"
+      "track": {
+        "artist": "Felix Kubin",
+        "title": "Qualitaet des staates"
+      }
     },
     {
-      "artist": "Medio Mutante - Corre corre",
-      "title": ""
+      "track": {
+        "artist": "Medio Mutante - Corre corre",
+        "title": ""
+      }
     },
     {
-      "artist": "Anti Human",
-      "title": "RE (Untitled???)"
+      "track": {
+        "artist": "Anti Human",
+        "title": "RE (Untitled???)"
+      }
     },
     {
-      "artist": "Perverse Teens",
-      "title": "La Divine"
+      "track": {
+        "artist": "Perverse Teens",
+        "title": "La Divine"
+      }
     },
     {
-      "artist": "Codes",
-      "title": "Convex Machine"
+      "track": {
+        "artist": "Codes",
+        "title": "Convex Machine"
+      }
     },
     {
-      "artist": "Jeunesse Fantôme",
-      "title": "Ksiezyc "
+      "track": {
+        "artist": "Jeunesse Fantôme",
+        "title": "Ksiezyc "
+      }
     },
     {
-      "artist": "Asmus Tietchens",
-      "title": "Die Elektrische Horde"
+      "track": {
+        "artist": "Asmus Tietchens",
+        "title": "Die Elektrische Horde"
+      }
     }
   ]
 }

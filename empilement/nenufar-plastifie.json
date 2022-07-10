@@ -4,75 +4,109 @@
   "curators": [
     "Morusque"
   ],
-  "cover": "files/nenufar-plastifie/source.jpg",
+  "cover": "source.jpg",
   "tracks": [
     {
-      "artist": "Christoffer Brus",
-      "title": "Lovet"
+      "track": {
+        "artist": "Christoffer Brus",
+        "title": "Lovet"
+      }
     },
     {
-      "artist": "Kristuit Salu Vs. Morris Nightingale",
-      "title": "Updowndownup"
+      "track": {
+        "artist": "Kristuit Salu Vs. Morris Nightingale",
+        "title": "Updowndownup"
+      }
     },
     {
-      "artist": "Jörg Piringer",
-      "title": "M∂Nábrt"
+      "track": {
+        "artist": "Jörg Piringer",
+        "title": "M∂Nábrt"
+      }
     },
     {
-      "artist": "goglus",
-      "title": "Dam na MbIoLo_3"
+      "track": {
+        "artist": "goglus",
+        "title": "Dam na MbIoLo_3"
+      }
     },
     {
-      "artist": "Natalie Beridze ",
-      "title": "Whatever Falls Is Sumptuous"
+      "track": {
+        "artist": "Natalie Beridze ",
+        "title": "Whatever Falls Is Sumptuous"
+      }
     },
     {
-      "artist": "Le Berger",
-      "title": "0005 [Thanks to Thomas & Jonas]"
+      "track": {
+        "artist": "Le Berger",
+        "title": "0005 [Thanks to Thomas & Jonas]"
+      }
     },
     {
-      "artist": "Muikrad - Sector IX",
-      "title": "Impressions ~ A Forest of Glass"
+      "track": {
+        "artist": "Muikrad - Sector IX",
+        "title": "Impressions ~ A Forest of Glass"
+      }
     },
     {
-      "artist": "Michel Banabila",
-      "title": "E.T."
+      "track": {
+        "artist": "Michel Banabila",
+        "title": "E.T."
+      }
     },
     {
-      "artist": "Johannes Bünemann",
-      "title": "Dripdropsphere"
+      "track": {
+        "artist": "Johannes Bünemann",
+        "title": "Dripdropsphere"
+      }
     },
     {
-      "artist": "Stephen Vitiello",
-      "title": "18 v.3"
+      "track": {
+        "artist": "Stephen Vitiello",
+        "title": "18 v.3"
+      }
     },
     {
-      "artist": "Martin Stig Andersen",
-      "title": "City"
+      "track": {
+        "artist": "Martin Stig Andersen",
+        "title": "City"
+      }
     },
     {
-      "artist": "Rezo glonti",
-      "title": "sk1"
+      "track": {
+        "artist": "Rezo glonti",
+        "title": "sk1"
+      }
     },
     {
-      "artist": "Olympic Smoker",
-      "title": "5435"
+      "track": {
+        "artist": "Olympic Smoker",
+        "title": "5435"
+      }
     },
     {
-      "artist": "Sébastien Roux",
-      "title": "Précisions sur les vagues #2 (13)"
+      "track": {
+        "artist": "Sébastien Roux",
+        "title": "Précisions sur les vagues #2 (13)"
+      }
     },
     {
-      "artist": "Occurrences In Rain",
-      "title": "The Plot Remembered"
+      "track": {
+        "artist": "Occurrences In Rain",
+        "title": "The Plot Remembered"
+      }
     },
     {
-      "artist": "Wouter van Veldhoven",
-      "title": "Stoffig Stuk"
+      "track": {
+        "artist": "Wouter van Veldhoven",
+        "title": "Stoffig Stuk"
+      }
     },
     {
-      "artist": "Roger Mills",
-      "title": "Millennium Square (live at Medianhaus, Hanover, DE)"
+      "track": {
+        "artist": "Roger Mills",
+        "title": "Millennium Square (live at Medianhaus, Hanover, DE)"
+      }
     }
   ]
 }

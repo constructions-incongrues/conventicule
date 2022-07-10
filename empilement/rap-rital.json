@@ -4,55 +4,79 @@
   "curators": [
     "Le Professeur M."
   ],
-  "cover": "files/rap-rital/source.jpg",
+  "cover": "source.jpg",
   "tracks": [
     {
-      "artist": "Rete 105",
-      "title": "Vacanze"
+      "track": {
+        "artist": "Rete 105",
+        "title": "Vacanze"
+      }
     },
     {
-      "artist": "Pino D'angio",
-      "title": "Donna In Costruzione"
+      "track": {
+        "artist": "Pino D'angio",
+        "title": "Donna In Costruzione"
+      }
     },
     {
-      "artist": "Aldo Maccione",
-      "title": "Le Dragueur Classe"
+      "track": {
+        "artist": "Aldo Maccione",
+        "title": "Le Dragueur Classe"
+      }
     },
     {
-      "artist": "Gino Palatino",
-      "title": "Vendetta A Parrigi"
+      "track": {
+        "artist": "Gino Palatino",
+        "title": "Vendetta A Parrigi"
+      }
     },
     {
-      "artist": "Johnny Junior",
-      "title": "Bank Robbery Rap"
+      "track": {
+        "artist": "Johnny Junior",
+        "title": "Bank Robbery Rap"
+      }
     },
     {
-      "artist": "Band Of Jocks",
-      "title": " Let's All Dance"
+      "track": {
+        "artist": "Band Of Jocks",
+        "title": " Let's All Dance"
+      }
     },
     {
-      "artist": "Boomerang Club Band",
-      "title": "Deejay Superstar (Extended)"
+      "track": {
+        "artist": "Boomerang Club Band",
+        "title": "Deejay Superstar (Extended)"
+      }
     },
     {
-      "artist": "Fassari",
-      "title": "Romadinotte"
+      "track": {
+        "artist": "Fassari",
+        "title": "Romadinotte"
+      }
     },
     {
-      "artist": "Gee Gee & Gym Band",
-      "title": "Majic Kaboolal"
+      "track": {
+        "artist": "Gee Gee & Gym Band",
+        "title": "Majic Kaboolal"
+      }
     },
     {
-      "artist": "Dj Look ",
-      "title": " Capita"
+      "track": {
+        "artist": "Dj Look ",
+        "title": " Capita"
+      }
     },
     {
-      "artist": "Marzio Dance DJ",
-      "title": "Rap-O-Hush _Another Version"
+      "track": {
+        "artist": "Marzio Dance DJ",
+        "title": "Rap-O-Hush _Another Version"
+      }
     },
     {
-      "artist": "Radio Band",
-      "title": "Radio Rap "
+      "track": {
+        "artist": "Radio Band",
+        "title": "Radio Rap "
+      }
     }
   ]
 }

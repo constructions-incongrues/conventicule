@@ -4,59 +4,85 @@
   "curators": [
     "Sascii"
   ],
-  "cover": "files/les-enfants-des-autres/source.jpg",
+  "cover": "source.jpg",
   "tracks": [
     {
-      "artist": "Chocolat Billy",
-      "title": "Collier De Perles"
+      "track": {
+        "artist": "Chocolat Billy",
+        "title": "Collier De Perles"
+      }
     },
     {
-      "artist": "Dorine Muraille",
-      "title": "Dopees"
+      "track": {
+        "artist": "Dorine Muraille",
+        "title": "Dopees"
+      }
     },
     {
-      "artist": "Dorine Muraille",
-      "title": "Se Flinguer Piquer Une Porsche"
+      "track": {
+        "artist": "Dorine Muraille",
+        "title": "Se Flinguer Piquer Une Porsche"
+      }
     },
     {
-      "artist": "Like A Tim",
-      "title": "This Could Be Heaven Or This Could Be Hell"
+      "track": {
+        "artist": "Like A Tim",
+        "title": "This Could Be Heaven Or This Could Be Hell"
+      }
     },
     {
-      "artist": "Like A Tim",
-      "title": "57 Sauce"
+      "track": {
+        "artist": "Like A Tim",
+        "title": "57 Sauce"
+      }
     },
     {
-      "artist": "Fennesz PLAYS",
-      "title": "Paint It Black"
+      "track": {
+        "artist": "Fennesz PLAYS",
+        "title": "Paint It Black"
+      }
     },
     {
-      "artist": "Le Ton Mité",
-      "title": "We Burst When We Meet"
+      "track": {
+        "artist": "Le Ton Mité",
+        "title": "We Burst When We Meet"
+      }
     },
     {
-      "artist": "Tujiko Noriko",
-      "title": "White Film"
+      "track": {
+        "artist": "Tujiko Noriko",
+        "title": "White Film"
+      }
     },
     {
-      "artist": "Animal Collective",
-      "title": "Loch Raven"
+      "track": {
+        "artist": "Animal Collective",
+        "title": "Loch Raven"
+      }
     },
     {
-      "artist": "Unknown Artist",
-      "title": "Childish Music From Staubgold"
+      "track": {
+        "artist": "Unknown Artist",
+        "title": "Childish Music From Staubgold"
+      }
     },
     {
-      "artist": "Tetra (Mika Vainio)",
-      "title": "Tele"
+      "track": {
+        "artist": "Tetra (Mika Vainio)",
+        "title": "Tele"
+      }
     },
     {
-      "artist": "Kink Gong",
-      "title": "PULSMIAO"
+      "track": {
+        "artist": "Kink Gong",
+        "title": "PULSMIAO"
+      }
     },
     {
-      "artist": "Claire Doyon",
-      "title": "RYPMAV"
+      "track": {
+        "artist": "Claire Doyon",
+        "title": "RYPMAV"
+      }
     }
   ]
 }

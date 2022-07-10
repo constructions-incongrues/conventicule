@@ -4,87 +4,127 @@
   "curators": [
     "Gumbi"
   ],
-  "cover": "files/recital-sonore-i/source.jpg",
+  "cover": "source.jpg",
   "tracks": [
     {
-      "artist": "Aleksi Virta",
-      "title": "Art of far"
+      "track": {
+        "artist": "Aleksi Virta",
+        "title": "Art of far"
+      }
     },
     {
-      "artist": "Berestez",
-      "title": "Wrstan lofi"
+      "track": {
+        "artist": "Berestez",
+        "title": "Wrstan lofi"
+      }
     },
     {
-      "artist": "The Flashbulb",
-      "title": "Binedump (Acid Wolf Mix)"
+      "track": {
+        "artist": "The Flashbulb",
+        "title": "Binedump (Acid Wolf Mix)"
+      }
     },
     {
-      "artist": "Local",
-      "title": "I am local"
+      "track": {
+        "artist": "Local",
+        "title": "I am local"
+      }
     },
     {
-      "artist": "Fspee",
-      "title": "1987 face a"
+      "track": {
+        "artist": "Fspee",
+        "title": "1987 face a"
+      }
     },
     {
-      "artist": "Blamstrain",
-      "title": "Etkno44"
+      "track": {
+        "artist": "Blamstrain",
+        "title": "Etkno44"
+      }
     },
     {
-      "artist": "Camille Saint Saens",
-      "title": "Personnages à longues oreilles"
+      "track": {
+        "artist": "Camille Saint Saens",
+        "title": "Personnages à longues oreilles"
+      }
     },
     {
-      "artist": "Fridge",
-      "title": "Cut up piano and xylophone"
+      "track": {
+        "artist": "Fridge",
+        "title": "Cut up piano and xylophone"
+      }
     },
     {
-      "artist": "Frog Pocket",
-      "title": "Carac cyls-boss"
+      "track": {
+        "artist": "Frog Pocket",
+        "title": "Carac cyls-boss"
+      }
     },
     {
-      "artist": "Neotropic",
-      "title": "In reverse order"
+      "track": {
+        "artist": "Neotropic",
+        "title": "In reverse order"
+      }
     },
     {
-      "artist": "Abstract Keal Agram",
-      "title": "Nato"
+      "track": {
+        "artist": "Abstract Keal Agram",
+        "title": "Nato"
+      }
     },
     {
-      "artist": "Pimmon",
-      "title": "Over the Black Dot"
+      "track": {
+        "artist": "Pimmon",
+        "title": "Over the Black Dot"
+      }
     },
     {
-      "artist": "Ambulance",
-      "title": "Tickle"
+      "track": {
+        "artist": "Ambulance",
+        "title": "Tickle"
+      }
     },
     {
-      "artist": "Shex",
-      "title": "ooo chat chat"
+      "track": {
+        "artist": "Shex",
+        "title": "ooo chat chat"
+      }
     },
     {
-      "artist": "Psilodump",
-      "title": "Senki Otus"
+      "track": {
+        "artist": "Psilodump",
+        "title": "Senki Otus"
+      }
     },
     {
-      "artist": "R Garcia",
-      "title": "Girl on the corner"
+      "track": {
+        "artist": "R Garcia",
+        "title": "Girl on the corner"
+      }
     },
     {
-      "artist": "The Tuss",
-      "title": "Rushup i bank 12"
+      "track": {
+        "artist": "The Tuss",
+        "title": "Rushup i bank 12"
+      }
     },
     {
-      "artist": "The Flashbulb",
-      "title": "Lawn Wake IV (Black)"
+      "track": {
+        "artist": "The Flashbulb",
+        "title": "Lawn Wake IV (Black)"
+      }
     },
     {
-      "artist": "End",
-      "title": "Science fiction"
+      "track": {
+        "artist": "End",
+        "title": "Science fiction"
+      }
     },
     {
-      "artist": "Boards of Canada",
-      "title": "In the annexe"
+      "track": {
+        "artist": "Boards of Canada",
+        "title": "In the annexe"
+      }
     }
   ]
 }

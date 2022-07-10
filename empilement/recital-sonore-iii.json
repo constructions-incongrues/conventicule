@@ -5,79 +5,115 @@
     "Gumbi",
     "Melorman"
   ],
-  "cover": "files/recital-sonore-iii/source.jpg",
+  "cover": "source.jpg",
   "tracks": [
     {
-      "artist": "Our Broken Garden",
-      "title": "Anchoring Interlude"
+      "track": {
+        "artist": "Our Broken Garden",
+        "title": "Anchoring Interlude"
+      }
     },
     {
-      "artist": "Maps and Diagrams",
-      "title": "Unordinary People"
+      "track": {
+        "artist": "Maps and Diagrams",
+        "title": "Unordinary People"
+      }
     },
     {
-      "artist": "Northcape",
-      "title": "Alluvial"
+      "track": {
+        "artist": "Northcape",
+        "title": "Alluvial"
+      }
     },
     {
-      "artist": "36",
-      "title": "Untitled"
+      "track": {
+        "artist": "36",
+        "title": "Untitled"
+      }
     },
     {
-      "artist": "Response",
-      "title": "Unify"
+      "track": {
+        "artist": "Response",
+        "title": "Unify"
+      }
     },
     {
-      "artist": "Desolate",
-      "title": "Cathartic"
+      "track": {
+        "artist": "Desolate",
+        "title": "Cathartic"
+      }
     },
     {
-      "artist": "Empyrean",
-      "title": "Empty Space"
+      "track": {
+        "artist": "Empyrean",
+        "title": "Empty Space"
+      }
     },
     {
-      "artist": "Sorrow",
-      "title": "Nostalgia"
+      "track": {
+        "artist": "Sorrow",
+        "title": "Nostalgia"
+      }
     },
     {
-      "artist": "Stumbleine",
-      "title": "Aliceband"
+      "track": {
+        "artist": "Stumbleine",
+        "title": "Aliceband"
+      }
     },
     {
-      "artist": "NCThompson",
-      "title": "This Can Kill"
+      "track": {
+        "artist": "NCThompson",
+        "title": "This Can Kill"
+      }
     },
     {
-      "artist": "Bartel",
-      "title": "The Quiet Years"
+      "track": {
+        "artist": "Bartel",
+        "title": "The Quiet Years"
+      }
     },
     {
-      "artist": "Tycho",
-      "title": "Dictaphone's Lament"
+      "track": {
+        "artist": "Tycho",
+        "title": "Dictaphone's Lament"
+      }
     },
     {
-      "artist": "Plaid",
-      "title": "The Launching of Big Face"
+      "track": {
+        "artist": "Plaid",
+        "title": "The Launching of Big Face"
+      }
     },
     {
-      "artist": "Araya",
-      "title": "The Mast"
+      "track": {
+        "artist": "Araya",
+        "title": "The Mast"
+      }
     },
     {
-      "artist": "Sleepytown Manufacture",
-      "title": "Latatoo (Laa Laa Lacklustermx)"
+      "track": {
+        "artist": "Sleepytown Manufacture",
+        "title": "Latatoo (Laa Laa Lacklustermx)"
+      }
     },
     {
-      "artist": "Ciaran Byrne",
-      "title": "Let Down"
+      "track": {
+        "artist": "Ciaran Byrne",
+        "title": "Let Down"
+      }
     },
     {
-      "artist": "Squarepusher",
-      "title": "Rebus"
+      "track": {
+        "artist": "Squarepusher",
+        "title": "Rebus"
+      }
     },
     {
-      "artist": "Bola",
-      "title": "Sirasancerre"
+      "track": {
+        "artist": "Bola",
+        "title": "Sirasancerre"
+      }
     }
   ]
 }

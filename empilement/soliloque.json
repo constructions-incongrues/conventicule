@@ -4,71 +4,103 @@
   "curators": [
     "Jacques Cochise"
   ],
-  "cover": "files/soliloque/source.jpg",
+  "cover": "source.jpg",
   "tracks": [
     {
-      "artist": "LES SURFS",
-      "title": "If you please"
+      "track": {
+        "artist": "LES SURFS",
+        "title": "If you please"
+      }
     },
     {
-      "artist": "FLIGHT OF THE CONCHORDS",
-      "title": "Robots"
+      "track": {
+        "artist": "FLIGHT OF THE CONCHORDS",
+        "title": "Robots"
+      }
     },
     {
-      "artist": "CSOKOLOM",
-      "title": " Kören Chave"
+      "track": {
+        "artist": "CSOKOLOM",
+        "title": " Kören Chave"
+      }
     },
     {
-      "artist": "MOURNING NOISE",
-      "title": "Fighting chance"
+      "track": {
+        "artist": "MOURNING NOISE",
+        "title": "Fighting chance"
+      }
     },
     {
-      "artist": "BLENDER",
-      "title": "Sweet Suicide"
+      "track": {
+        "artist": "BLENDER",
+        "title": "Sweet Suicide"
+      }
     },
     {
-      "artist": "NIGHT FEVER",
-      "title": "Twilight zone"
+      "track": {
+        "artist": "NIGHT FEVER",
+        "title": "Twilight zone"
+      }
     },
     {
-      "artist": "BLACK BUG",
-      "title": "Run"
+      "track": {
+        "artist": "BLACK BUG",
+        "title": "Run"
+      }
     },
     {
-      "artist": "DELS",
-      "title": "Capsize feat. joe goddard and roots manuva"
+      "track": {
+        "artist": "DELS",
+        "title": "Capsize feat. joe goddard and roots manuva"
+      }
     },
     {
-      "artist": "SPARKS",
-      "title": "Tryouts For The Human Race"
+      "track": {
+        "artist": "SPARKS",
+        "title": "Tryouts For The Human Race"
+      }
     },
     {
-      "artist": "ULRICH",
-      "title": "Message Pirate"
+      "track": {
+        "artist": "ULRICH",
+        "title": "Message Pirate"
+      }
     },
     {
-      "artist": "BRAND IMAGE",
-      "title": "All Your Loving"
+      "track": {
+        "artist": "BRAND IMAGE",
+        "title": "All Your Loving"
+      }
     },
     {
-      "artist": "KIM WILDE",
-      "title": "House of Salome"
+      "track": {
+        "artist": "KIM WILDE",
+        "title": "House of Salome"
+      }
     },
     {
-      "artist": "LOLITA",
-      "title": "Joli Garcon"
+      "track": {
+        "artist": "LOLITA",
+        "title": "Joli Garcon"
+      }
     },
     {
-      "artist": "DAVE CLARK feat. CHICKS ON SPEED",
-      "title": "What Was Her Name"
+      "track": {
+        "artist": "DAVE CLARK feat. CHICKS ON SPEED",
+        "title": "What Was Her Name"
+      }
     },
     {
-      "artist": "JACQUES COCHISE",
-      "title": "Plaquage"
+      "track": {
+        "artist": "JACQUES COCHISE",
+        "title": "Plaquage"
+      }
     },
     {
-      "artist": "Unknown Artist",
-      "title": "CHRONOLOGIE DU HARDROCK VITE FAIT"
+      "track": {
+        "artist": "Unknown Artist",
+        "title": "CHRONOLOGIE DU HARDROCK VITE FAIT"
+      }
     }
   ]
 }

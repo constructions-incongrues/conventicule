@@ -4,47 +4,67 @@
   "curators": [
     "Santa Nihill"
   ],
-  "cover": "files/miami-bass-war-the-gay-side/source.jpg",
+  "cover": "source.jpg",
   "tracks": [
     {
-      "artist": "The 2 Live Crew",
-      "title": "Face Down, Ass Up"
+      "track": {
+        "artist": "The 2 Live Crew",
+        "title": "Face Down, Ass Up"
+      }
     },
     {
-      "artist": "DJ Laz",
-      "title": "Journey Into Bass"
+      "track": {
+        "artist": "DJ Laz",
+        "title": "Journey Into Bass"
+      }
     },
     {
-      "artist": "Tag Team",
-      "title": "Whoop! There It Is"
+      "track": {
+        "artist": "Tag Team",
+        "title": "Whoop! There It Is"
+      }
     },
     {
-      "artist": "DJ Kizzy Rock & DJ Smurf",
-      "title": "Crank This Ship Up"
+      "track": {
+        "artist": "DJ Kizzy Rock & DJ Smurf",
+        "title": "Crank This Ship Up"
+      }
     },
     {
-      "artist": "Splack Pack",
-      "title": "Scrub Da Ground"
+      "track": {
+        "artist": "Splack Pack",
+        "title": "Scrub Da Ground"
+      }
     },
     {
-      "artist": "DJ Jealous J & Jock D",
-      "title": "Party time"
+      "track": {
+        "artist": "DJ Jealous J & Jock D",
+        "title": "Party time"
+      }
     },
     {
-      "artist": "Maggotron Crushing Crew",
-      "title": "Miami's Rockin' Baby"
+      "track": {
+        "artist": "Maggotron Crushing Crew",
+        "title": "Miami's Rockin' Baby"
+      }
     },
     {
-      "artist": "MC ADE",
-      "title": "Transformer"
+      "track": {
+        "artist": "MC ADE",
+        "title": "Transformer"
+      }
     },
     {
-      "artist": "69 Boyz",
-      "title": "Tootsie Roll"
+      "track": {
+        "artist": "69 Boyz",
+        "title": "Tootsie Roll"
+      }
     },
     {
-      "artist": "Uncle Al & Luke",
-      "title": "Get Rowdy"
+      "track": {
+        "artist": "Uncle Al & Luke",
+        "title": "Get Rowdy"
+      }
     }
   ]
 }

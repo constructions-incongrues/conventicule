@@ -4,71 +4,103 @@
   "curators": [
     "Eat Rabbit"
   ],
-  "cover": "files/superbit/source.jpg",
+  "cover": "source.jpg",
   "tracks": [
     {
-      "artist": "Kommando Liebe",
-      "title": "I N F E C T E D"
+      "track": {
+        "artist": "Kommando Liebe",
+        "title": "I N F E C T E D"
+      }
     },
     {
-      "artist": "Bad Land Farmers",
-      "title": "Fastest train on the railroad"
+      "track": {
+        "artist": "Bad Land Farmers",
+        "title": "Fastest train on the railroad"
+      }
     },
     {
-      "artist": "The J. Arthur Keenes Band",
-      "title": "You Sunk My Spaceship!"
+      "track": {
+        "artist": "The J. Arthur Keenes Band",
+        "title": "You Sunk My Spaceship!"
+      }
     },
     {
-      "artist": "Lektrogirl featuring MC Tighty Whitey",
-      "title": "Poupée Flash"
+      "track": {
+        "artist": "Lektrogirl featuring MC Tighty Whitey",
+        "title": "Poupée Flash"
+      }
     },
     {
-      "artist": "The Hardliner",
-      "title": "Zolöft Blues"
+      "track": {
+        "artist": "The Hardliner",
+        "title": "Zolöft Blues"
+      }
     },
     {
-      "artist": "Psilodump",
-      "title": "Kom tillbakaaa"
+      "track": {
+        "artist": "Psilodump",
+        "title": "Kom tillbakaaa"
+      }
     },
     {
-      "artist": "Pontonius",
-      "title": "7000 Angstrom"
+      "track": {
+        "artist": "Pontonius",
+        "title": "7000 Angstrom"
+      }
     },
     {
-      "artist": "Stranglecop",
-      "title": "Emergency Car!"
+      "track": {
+        "artist": "Stranglecop",
+        "title": "Emergency Car!"
+      }
     },
     {
-      "artist": "La Bite à Bertier",
-      "title": "Oh no!"
+      "track": {
+        "artist": "La Bite à Bertier",
+        "title": "Oh no!"
+      }
     },
     {
-      "artist": "Egotronic",
-      "title": "Ich Weiss Bescheid"
+      "track": {
+        "artist": "Egotronic",
+        "title": "Ich Weiss Bescheid"
+      }
     },
     {
-      "artist": "Don Augusto",
-      "title": "Alto"
+      "track": {
+        "artist": "Don Augusto",
+        "title": "Alto"
+      }
     },
     {
-      "artist": "Rauberhole",
-      "title": "Micromusic rap"
+      "track": {
+        "artist": "Rauberhole",
+        "title": "Micromusic rap"
+      }
     },
     {
-      "artist": "386 DX",
-      "title": "Группа крови"
+      "track": {
+        "artist": "386 DX",
+        "title": "Группа крови"
+      }
     },
     {
-      "artist": "Cowp",
-      "title": "Solomonshort"
+      "track": {
+        "artist": "Cowp",
+        "title": "Solomonshort"
+      }
     },
     {
-      "artist": "Logicbomb",
-      "title": "Vol de nuit"
+      "track": {
+        "artist": "Logicbomb",
+        "title": "Vol de nuit"
+      }
     },
     {
-      "artist": "x|k",
-      "title": "Lazerlit"
+      "track": {
+        "artist": "x|k",
+        "title": "Lazerlit"
+      }
     }
   ]
 }

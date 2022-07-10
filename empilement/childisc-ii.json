@@ -4,43 +4,61 @@
   "curators": [
     "Yvan&Lendl"
   ],
-  "cover": "files/childisc-ii/source.jpg",
+  "cover": "source.jpg",
   "tracks": [
     {
-      "artist": "hirono nishiyama",
-      "title": "lampelstelthkin"
+      "track": {
+        "artist": "hirono nishiyama",
+        "title": "lampelstelthkin"
+      }
     },
     {
-      "artist": "nobukazu takemura",
-      "title": "tuirirukabinbon"
+      "track": {
+        "artist": "nobukazu takemura",
+        "title": "tuirirukabinbon"
+      }
     },
     {
-      "artist": "taisuke matsuo",
-      "title": "apirge"
+      "track": {
+        "artist": "taisuke matsuo",
+        "title": "apirge"
+      }
     },
     {
-      "artist": "hirono nishiyama",
-      "title": "pied piper"
+      "track": {
+        "artist": "hirono nishiyama",
+        "title": "pied piper"
+      }
     },
     {
-      "artist": "aki tsuyuko",
-      "title": "zou and chou"
+      "track": {
+        "artist": "aki tsuyuko",
+        "title": "zou and chou"
+      }
     },
     {
-      "artist": "compound",
-      "title": "pinpon"
+      "track": {
+        "artist": "compound",
+        "title": "pinpon"
+      }
     },
     {
-      "artist": "nobukazu takemura",
-      "title": "puro"
+      "track": {
+        "artist": "nobukazu takemura",
+        "title": "puro"
+      }
     },
     {
-      "artist": "nobuyasu sakonda",
-      "title": "clockwork idealism"
+      "track": {
+        "artist": "nobuyasu sakonda",
+        "title": "clockwork idealism"
+      }
     },
     {
-      "artist": "hirono nishiyama",
-      "title": "to to tin"
+      "track": {
+        "artist": "hirono nishiyama",
+        "title": "to to tin"
+      }
     }
   ]
 }
