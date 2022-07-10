@@ -5,7 +5,9 @@ backend:
   site_domain: 1a522206-9642-4c26-bac4-280770cfbff4
   
 media_folder: static/files
-public_folder: files
+public_folder: /files
+
+publish_mode: editorial_workflow
 
 collections:
   - label: "Contents"
