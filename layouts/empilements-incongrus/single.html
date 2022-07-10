@@ -5,18 +5,20 @@
   </head>
 
   <body>
-
-    <div class="next-post">
-      {{ if .NextPage }}
+    {{ if .NextPage }}
+    <span>
       <a class="link-reverse" href="{{ .NextPage.Permalink }}">« {{ .NextPage.Title | truncate 50 "..." }}</a>
-      {{ end }}
-    </div>
-    <br>
-    <div class="previous-post">
-      {{ if .PrevPage }}
+    </span>
+    {{ end }}
+
+    <span> | </span>
+
+    {{ if .PrevPage }}
+    <span>
       <a class="link-reverse" href="{{ .PrevPage.Permalink }}">{{ .PrevPage.Title | truncate 50 "..."}} »</a>
-      {{ end }}
-    </div>
+    </span>
+    {{ end }}
+
 
     <h1>{{ .Title }}</h1>
     <p>par {{ delimit (.Params.curators | default (slice "")) ", " " et " }}</p>
@@ -24,12 +26,18 @@
 
     <hr>
 
-    <img src="{{ .Params.cover }}" />
-
+    {{ $image := .Resources.GetMatch (string .Params.cover) }}
+    {{ if $image }}
+    {{ with $image }}
+    {{ $img := .Fit "500x500"}}
+    <img src="{{ $img.RelPermalink }}" width="{{ $img.Width }}" height="{{ $img.Height }}">
+    {{ end}}
+    {{ end}}
     <hr>
 
     <div>
-      <span class="amplitude-play-pause">PLAYPAUSE</span>
+      <span class="amplitude-play">PLAY</span>
+      <span class="amplitude-pause">PAUSE</span>
     </div>
 
     <hr>
