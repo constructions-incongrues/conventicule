@@ -2,7 +2,7 @@ backend:
   name: github
   repo: constructions-incongrues/empilements
   branch: main
-  site_domain: empilements.constructions-incongrues.net
+  site_domain: 1a522206-9642-4c26-bac4-280770cfbff4
   
 media_folder: static/files
 public_folder: files
