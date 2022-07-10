@@ -9,7 +9,7 @@ backend:
 media_folder: static/files
 public_folder: /files
 
-display_url: https://empilements.constructions-incongrues.org
+display_url: https://empilements.constructions-incongrues.net
 publish_mode: editorial_workflow
 show_preview_links: true
 
