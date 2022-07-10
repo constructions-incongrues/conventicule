@@ -3,11 +3,12 @@
 
   <h2>Collections publiques</h2>
   
+  
   <ul>
     {{ range .Pages }}
     <li>
       <a href="{{ .RelPermalink }}">
-        {{ .Title }}
+        {{ .Title | humanize }}
       </a>
     </li>
     {{ end }}

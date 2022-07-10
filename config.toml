@@ -17,4 +17,5 @@ subtitle = "La situation empile à chaque seconde"
 
 [outputs]
   home = ['HTML']
+  section = ['HTML', 'RSS', 'JSON']
   page = ['HTML', 'JSON', 'RSS']
