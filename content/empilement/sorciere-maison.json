@@ -4,51 +4,73 @@
   "curators": [
     "Parasite"
   ],
-  "cover": "files/sorciere-maison/source.jpg",
+  "cover": "source.jpg",
   "tracks": [
     {
-      "artist": "Unknown Artist",
-      "title": "La sorcière grabouilla"
+      "track": {
+        "artist": "Unknown Artist",
+        "title": "La sorcière grabouilla"
+      }
     },
     {
-      "artist": "BLOWIN UP",
-      "title": "gvcci hvcci"
+      "track": {
+        "artist": "BLOWIN UP",
+        "title": "gvcci hvcci"
+      }
     },
     {
-      "artist": "WHITE RING",
-      "title": "IXC999"
+      "track": {
+        "artist": "WHITE RING",
+        "title": "IXC999"
+      }
     },
     {
-      "artist": "oOoOO",
-      "title": "egyptynlvr"
+      "track": {
+        "artist": "oOoOO",
+        "title": "egyptynlvr"
+      }
     },
     {
-      "artist": "SALEM",
-      "title": "King Night"
+      "track": {
+        "artist": "SALEM",
+        "title": "King Night"
+      }
     },
     {
-      "artist": "FOSTERCARE",
-      "title": "heavens gate"
+      "track": {
+        "artist": "FOSTERCARE",
+        "title": "heavens gate"
+      }
     },
     {
-      "artist": "AIMON",
-      "title": "symbols"
+      "track": {
+        "artist": "AIMON",
+        "title": "symbols"
+      }
     },
     {
-      "artist": "DEAD VIRGIN",
-      "title": "watver"
+      "track": {
+        "artist": "DEAD VIRGIN",
+        "title": "watver"
+      }
     },
     {
-      "artist": "BAM ACAB",
-      "title": "expect"
+      "track": {
+        "artist": "BAM ACAB",
+        "title": "expect"
+      }
     },
     {
-      "artist": "PURITY RING",
-      "title": "Lofticries"
+      "track": {
+        "artist": "PURITY RING",
+        "title": "Lofticries"
+      }
     },
     {
-      "artist": "BRITNEY SPEARS",
-      "title": "Till The World Ends (Salem Remix)"
+      "track": {
+        "artist": "BRITNEY SPEARS",
+        "title": "Till The World Ends (Salem Remix)"
+      }
     }
   ]
 }

@@ -4,83 +4,121 @@
   "curators": [
     "Klaus Vomi"
   ],
-  "cover": "files/tanzen-mit-vomi/source.jpg",
+  "cover": "source.jpg",
   "tracks": [
     {
-      "artist": "Felix Kubin",
-      "title": "Die Kulturelle revolution"
+      "track": {
+        "artist": "Felix Kubin",
+        "title": "Die Kulturelle revolution"
+      }
     },
     {
-      "artist": "Die Radierer",
-      "title": "Aller guten dinge sind 1, 2, 3"
+      "track": {
+        "artist": "Die Radierer",
+        "title": "Aller guten dinge sind 1, 2, 3"
+      }
     },
     {
-      "artist": "Foyer des arts",
-      "title": "Schimmliges Brot"
+      "track": {
+        "artist": "Foyer des arts",
+        "title": "Schimmliges Brot"
+      }
     },
     {
-      "artist": "Die Radierer",
-      "title": "Oh Katzenfrau"
+      "track": {
+        "artist": "Die Radierer",
+        "title": "Oh Katzenfrau"
+      }
     },
     {
-      "artist": "Das M",
-      "title": "Sturzflug durch das weltbild"
+      "track": {
+        "artist": "Das M",
+        "title": "Sturzflug durch das weltbild"
+      }
     },
     {
-      "artist": "Der Plan",
-      "title": "Die Welt ist schlecht"
+      "track": {
+        "artist": "Der Plan",
+        "title": "Die Welt ist schlecht"
+      }
     },
     {
-      "artist": "Fehlfarben",
-      "title": "Apokalypse"
+      "track": {
+        "artist": "Fehlfarben",
+        "title": "Apokalypse"
+      }
     },
     {
-      "artist": "Keinmensch!",
-      "title": "Dickarsch"
+      "track": {
+        "artist": "Keinmensch!",
+        "title": "Dickarsch"
+      }
     },
     {
-      "artist": "Die Gesunden",
-      "title": "Die Gesunden Kommen"
+      "track": {
+        "artist": "Die Gesunden",
+        "title": "Die Gesunden Kommen"
+      }
     },
     {
-      "artist": "Foyer des arts",
-      "title": "Hubschraubereinsatz"
+      "track": {
+        "artist": "Foyer des arts",
+        "title": "Hubschraubereinsatz"
+      }
     },
     {
-      "artist": "Daf",
-      "title": "Ich und die wirklichkeit"
+      "track": {
+        "artist": "Daf",
+        "title": "Ich und die wirklichkeit"
+      }
     },
     {
-      "artist": "Berlin Express",
-      "title": "Die Russian kommen"
+      "track": {
+        "artist": "Berlin Express",
+        "title": "Die Russian kommen"
+      }
     },
     {
-      "artist": "Saal 2",
-      "title": "Ich liebe Donald Duck"
+      "track": {
+        "artist": "Saal 2",
+        "title": "Ich liebe Donald Duck"
+      }
     },
     {
-      "artist": "Keinmensch!",
-      "title": "Kekeinmensch!"
+      "track": {
+        "artist": "Keinmensch!",
+        "title": "Kekeinmensch!"
+      }
     },
     {
-      "artist": "Die Gesunden",
-      "title": "Film Musik"
+      "track": {
+        "artist": "Die Gesunden",
+        "title": "Film Musik"
+      }
     },
     {
-      "artist": "Schwefelgelb",
-      "title": "Spieglein Spieglein"
+      "track": {
+        "artist": "Schwefelgelb",
+        "title": "Spieglein Spieglein"
+      }
     },
     {
-      "artist": "Der Plan",
-      "title": "Du du bist"
+      "track": {
+        "artist": "Der Plan",
+        "title": "Du du bist"
+      }
     },
     {
-      "artist": "Einsturzende Neubauten",
-      "title": "Hirnlego"
+      "track": {
+        "artist": "Einsturzende Neubauten",
+        "title": "Hirnlego"
+      }
     },
     {
-      "artist": "Felix Kubin",
-      "title": "Waschzwangmama"
+      "track": {
+        "artist": "Felix Kubin",
+        "title": "Waschzwangmama"
+      }
     }
   ]
 }

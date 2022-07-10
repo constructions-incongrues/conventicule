@@ -4,31 +4,43 @@
   "curators": [
     "Klaus Vomi"
   ],
-  "cover": "files/vomi-mc-s/source.jpg",
+  "cover": "source.jpg",
   "tracks": [
     {
-      "artist": "Nouveau riche",
-      "title": "Elektronische Dierentuin"
+      "track": {
+        "artist": "Nouveau riche",
+        "title": "Elektronische Dierentuin"
+      }
     },
     {
-      "artist": "Gangpol und mit",
-      "title": "machine à remonter le temps"
+      "track": {
+        "artist": "Gangpol und mit",
+        "title": "machine à remonter le temps"
+      }
     },
     {
-      "artist": "Taktloss feat busdriver",
-      "title": "wunder bars"
+      "track": {
+        "artist": "Taktloss feat busdriver",
+        "title": "wunder bars"
+      }
     },
     {
-      "artist": "Nouveau riche",
-      "title": "Pomp Les Volumes"
+      "track": {
+        "artist": "Nouveau riche",
+        "title": "Pomp Les Volumes"
+      }
     },
     {
-      "artist": "Gangpol und mit",
-      "title": "ghetto galaxy"
+      "track": {
+        "artist": "Gangpol und mit",
+        "title": "ghetto galaxy"
+      }
     },
     {
-      "artist": "Taktloss feat Mc Basstard",
-      "title": "Dogma"
+      "track": {
+        "artist": "Taktloss feat Mc Basstard",
+        "title": "Dogma"
+      }
     }
   ]
 }

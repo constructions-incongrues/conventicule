@@ -4,59 +4,85 @@
   "curators": [
     "Ricky Copro"
   ],
-  "cover": "files/procrastination-hysterik/source.jpg",
+  "cover": "source.jpg",
   "tracks": [
     {
-      "artist": " die tödliche doris",
-      "title": "futuristenparty"
+      "track": {
+        "artist": " die tödliche doris",
+        "title": "futuristenparty"
+      }
     },
     {
-      "artist": "Blondie",
-      "title": "Sunday Girl"
+      "track": {
+        "artist": "Blondie",
+        "title": "Sunday Girl"
+      }
     },
     {
-      "artist": "Serge Gainsbourg",
-      "title": "psychastenie"
+      "track": {
+        "artist": "Serge Gainsbourg",
+        "title": "psychastenie"
+      }
     },
     {
-      "artist": "Jay Jay Johanson",
-      "title": "haircut suicide"
+      "track": {
+        "artist": "Jay Jay Johanson",
+        "title": "haircut suicide"
+      }
     },
     {
-      "artist": "PJ Harvey",
-      "title": "Dress"
+      "track": {
+        "artist": "PJ Harvey",
+        "title": "Dress"
+      }
     },
     {
-      "artist": "sol k. brigh",
-      "title": "hawaiian cowboy"
+      "track": {
+        "artist": "sol k. brigh",
+        "title": "hawaiian cowboy"
+      }
     },
     {
-      "artist": "Lady Data",
-      "title": "Elle est (feat. gerard kassoulet)"
+      "track": {
+        "artist": "Lady Data",
+        "title": "Elle est (feat. gerard kassoulet)"
+      }
     },
     {
-      "artist": "Cabaret Voltaire",
-      "title": "no escape"
+      "track": {
+        "artist": "Cabaret Voltaire",
+        "title": "no escape"
+      }
     },
     {
-      "artist": "jesus lizard",
-      "title": "monkey trick"
+      "track": {
+        "artist": "jesus lizard",
+        "title": "monkey trick"
+      }
     },
     {
-      "artist": "Nick Cave and the Bad Seeds",
-      "title": "The Mercy Seat (acoustic version)"
+      "track": {
+        "artist": "Nick Cave and the Bad Seeds",
+        "title": "The Mercy Seat (acoustic version)"
+      }
     },
     {
-      "artist": "Elli et Jacno",
-      "title": "une mauvaise amie"
+      "track": {
+        "artist": "Elli et Jacno",
+        "title": "une mauvaise amie"
+      }
     },
     {
-      "artist": "Jamie Summers",
-      "title": "Sex Fiend"
+      "track": {
+        "artist": "Jamie Summers",
+        "title": "Sex Fiend"
+      }
     },
     {
-      "artist": "alain goraguer",
-      "title": "demain je dors jusqu'a midi"
+      "track": {
+        "artist": "alain goraguer",
+        "title": "demain je dors jusqu'a midi"
+      }
     }
   ]
 }

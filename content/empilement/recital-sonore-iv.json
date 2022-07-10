@@ -4,83 +4,121 @@
   "curators": [
     "Gumbi"
   ],
-  "cover": "files/recital-sonore-iv/source.jpg",
+  "cover": "source.jpg",
   "tracks": [
     {
-      "artist": "El Michels Affair",
-      "title": "C.R.E.A.M"
+      "track": {
+        "artist": "El Michels Affair",
+        "title": "C.R.E.A.M"
+      }
     },
     {
-      "artist": "Deceptikon",
-      "title": "Inaccessibility"
+      "track": {
+        "artist": "Deceptikon",
+        "title": "Inaccessibility"
+      }
     },
     {
-      "artist": "Dj Krush",
-      "title": "Real"
+      "track": {
+        "artist": "Dj Krush",
+        "title": "Real"
+      }
     },
     {
-      "artist": "Neotropic",
-      "title": "Under violent objects"
+      "track": {
+        "artist": "Neotropic",
+        "title": "Under violent objects"
+      }
     },
     {
-      "artist": "Delarosa & Asora",
-      "title": "Paper Rout"
+      "track": {
+        "artist": "Delarosa & Asora",
+        "title": "Paper Rout"
+      }
     },
     {
-      "artist": "Malcolm Kipe",
-      "title": "Orange Country"
+      "track": {
+        "artist": "Malcolm Kipe",
+        "title": "Orange Country"
+      }
     },
     {
-      "artist": "Souls Of Mischief",
-      "title": "Never No More (76 Seville Remix)"
+      "track": {
+        "artist": "Souls Of Mischief",
+        "title": "Never No More (76 Seville Remix)"
+      }
     },
     {
-      "artist": "The Black Dog",
-      "title": "Tahr"
+      "track": {
+        "artist": "The Black Dog",
+        "title": "Tahr"
+      }
     },
     {
-      "artist": "Puppetmastaz",
-      "title": "MIDI Mighty Moe"
+      "track": {
+        "artist": "Puppetmastaz",
+        "title": "MIDI Mighty Moe"
+      }
     },
     {
-      "artist": "Boards of Canada",
-      "title": "Rue the Whirl"
+      "track": {
+        "artist": "Boards of Canada",
+        "title": "Rue the Whirl"
+      }
     },
     {
-      "artist": "Swollen members",
-      "title": "Front Street"
+      "track": {
+        "artist": "Swollen members",
+        "title": "Front Street"
+      }
     },
     {
-      "artist": "Mobb Deep feat. Method Man",
-      "title": "Extortion"
+      "track": {
+        "artist": "Mobb Deep feat. Method Man",
+        "title": "Extortion"
+      }
     },
     {
-      "artist": "House Of Pain",
-      "title": "Jump Around"
+      "track": {
+        "artist": "House Of Pain",
+        "title": "Jump Around"
+      }
     },
     {
-      "artist": "µ-Ziq",
-      "title": "The Hwicci Song"
+      "track": {
+        "artist": "µ-Ziq",
+        "title": "The Hwicci Song"
+      }
     },
     {
-      "artist": "Cex",
-      "title": "Good Morning, Universe"
+      "track": {
+        "artist": "Cex",
+        "title": "Good Morning, Universe"
+      }
     },
     {
-      "artist": "Jega",
-      "title": "Soulflute"
+      "track": {
+        "artist": "Jega",
+        "title": "Soulflute"
+      }
     },
     {
-      "artist": "Pest",
-      "title": "Downward Steps"
+      "track": {
+        "artist": "Pest",
+        "title": "Downward Steps"
+      }
     },
     {
-      "artist": "Blockhead",
-      "title": "Carnivores Unite"
+      "track": {
+        "artist": "Blockhead",
+        "title": "Carnivores Unite"
+      }
     },
     {
-      "artist": "Silent Poets feat. Ursula RUcker",
-      "title": "Get Ready"
+      "track": {
+        "artist": "Silent Poets feat. Ursula RUcker",
+        "title": "Get Ready"
+      }
     }
   ]
 }

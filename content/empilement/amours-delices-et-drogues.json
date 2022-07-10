@@ -4,79 +4,115 @@
   "curators": [
     "Jean-Michel Chakra Lambert"
   ],
-  "cover": "files/amours-delices-et-drogues/source.jpg",
+  "cover": "source.jpg",
   "tracks": [
     {
-      "artist": "Minikui",
-      "title": "Faites donc le pigeon"
+      "track": {
+        "artist": "Minikui",
+        "title": "Faites donc le pigeon"
+      }
     },
     {
-      "artist": "Renaldo And The Loaf",
-      "title": "Bearded Cats"
+      "track": {
+        "artist": "Renaldo And The Loaf",
+        "title": "Bearded Cats"
+      }
     },
     {
-      "artist": "Acanthus",
-      "title": "Wedding Party (Angoisse Temporelle)"
+      "track": {
+        "artist": "Acanthus",
+        "title": "Wedding Party (Angoisse Temporelle)"
+      }
     },
     {
-      "artist": "Gong",
-      "title": "Witch's Song I Am Your Pussy"
+      "track": {
+        "artist": "Gong",
+        "title": "Witch's Song I Am Your Pussy"
+      }
     },
     {
-      "artist": "Gerald Sampler",
-      "title": "Debbie Does Dallas Theme"
+      "track": {
+        "artist": "Gerald Sampler",
+        "title": "Debbie Does Dallas Theme"
+      }
     },
     {
-      "artist": " Joe Meek & The Blue Men",
-      "title": "Love Dance Of The Saroos"
+      "track": {
+        "artist": " Joe Meek & The Blue Men",
+        "title": "Love Dance Of The Saroos"
+      }
     },
     {
-      "artist": "Jean et Janet",
-      "title": "Je t'aime normal"
+      "track": {
+        "artist": "Jean et Janet",
+        "title": "Je t'aime normal"
+      }
     },
     {
-      "artist": "Terry & The Topics",
-      "title": "Where's my pussycat"
+      "track": {
+        "artist": "Terry & The Topics",
+        "title": "Where's my pussycat"
+      }
     },
     {
-      "artist": "Felix Kubin & Coolhaven",
-      "title": "There is a Garden"
+      "track": {
+        "artist": "Felix Kubin & Coolhaven",
+        "title": "There is a Garden"
+      }
     },
     {
-      "artist": "Messer Chups",
-      "title": "Holiday of Love"
+      "track": {
+        "artist": "Messer Chups",
+        "title": "Holiday of Love"
+      }
     },
     {
-      "artist": "Soft Cell",
-      "title": "Tainted Love, Where Did Our Love Go"
+      "track": {
+        "artist": "Soft Cell",
+        "title": "Tainted Love, Where Did Our Love Go"
+      }
     },
     {
-      "artist": "Adult.",
-      "title": "I Feel Worse When I'm with You"
+      "track": {
+        "artist": "Adult.",
+        "title": "I Feel Worse When I'm with You"
+      }
     },
     {
-      "artist": "Cheveu",
-      "title": "Clara Venus"
+      "track": {
+        "artist": "Cheveu",
+        "title": "Clara Venus"
+      }
     },
     {
-      "artist": "Le syndicat éléctronique",
-      "title": "L'amour d'un Traitre"
+      "track": {
+        "artist": "Le syndicat éléctronique",
+        "title": "L'amour d'un Traitre"
+      }
     },
     {
-      "artist": "Anne Laplantine",
-      "title": "Michiko Kusaki"
+      "track": {
+        "artist": "Anne Laplantine",
+        "title": "Michiko Kusaki"
+      }
     },
     {
-      "artist": "Spectre",
-      "title": "Love"
+      "track": {
+        "artist": "Spectre",
+        "title": "Love"
+      }
     },
     {
-      "artist": "Mc Bushpig",
-      "title": "Swamps of Sadness Ft. MC Slurry"
+      "track": {
+        "artist": "Mc Bushpig",
+        "title": "Swamps of Sadness Ft. MC Slurry"
+      }
     },
     {
-      "artist": "Dragibus",
-      "title": "Fuyez Princesse!"
+      "track": {
+        "artist": "Dragibus",
+        "title": "Fuyez Princesse!"
+      }
     }
   ]
 }

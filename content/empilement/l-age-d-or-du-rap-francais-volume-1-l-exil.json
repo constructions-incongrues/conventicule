@@ -5,35 +5,49 @@
     "Fchaff",
     "Morusque"
   ],
-  "cover": "files/l-age-d-or-du-rap-francais-volume-1-l-exil/source.jpg",
+  "cover": "source.jpg",
   "tracks": [
     {
-      "artist": "Bernard Lavilliers",
-      "title": "San Salvador"
+      "track": {
+        "artist": "Bernard Lavilliers",
+        "title": "San Salvador"
+      }
     },
     {
-      "artist": "Joe Dassin",
-      "title": "L'été indien"
+      "track": {
+        "artist": "Joe Dassin",
+        "title": "L'été indien"
+      }
     },
     {
-      "artist": "Johnny Hallyday",
-      "title": "Poème Sur La 7ème"
+      "track": {
+        "artist": "Johnny Hallyday",
+        "title": "Poème Sur La 7ème"
+      }
     },
     {
-      "artist": "Pierre Vassiliu",
-      "title": "En vadrouille a montpellier"
+      "track": {
+        "artist": "Pierre Vassiliu",
+        "title": "En vadrouille a montpellier"
+      }
     },
     {
-      "artist": "Sacha Distel",
-      "title": "Le bateau blanc"
+      "track": {
+        "artist": "Sacha Distel",
+        "title": "Le bateau blanc"
+      }
     },
     {
-      "artist": "Visage",
-      "title": "Fade To Grey"
+      "track": {
+        "artist": "Visage",
+        "title": "Fade To Grey"
+      }
     },
     {
-      "artist": "Yves Simon",
-      "title": "J'ai rêvé New York"
+      "track": {
+        "artist": "Yves Simon",
+        "title": "J'ai rêvé New York"
+      }
     }
   ]
 }

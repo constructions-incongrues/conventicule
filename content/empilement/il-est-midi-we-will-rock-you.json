@@ -4,67 +4,97 @@
   "curators": [
     "Le mystérieux papy Makinananas"
   ],
-  "cover": "files/il-est-midi-we-will-rock-you/source.jpg",
+  "cover": "source.jpg",
   "tracks": [
     {
-      "artist": "Queen midi",
-      "title": "We will rock you"
+      "track": {
+        "artist": "Queen midi",
+        "title": "We will rock you"
+      }
     },
     {
-      "artist": "Francisco Andres",
-      "title": "Pop Muzik"
+      "track": {
+        "artist": "Francisco Andres",
+        "title": "Pop Muzik"
+      }
     },
     {
-      "artist": "Din stalker",
-      "title": "Lidilidi"
+      "track": {
+        "artist": "Din stalker",
+        "title": "Lidilidi"
+      }
     },
     {
-      "artist": "Scott bradlee",
-      "title": "Regulate (Toy Instrument remix)"
+      "track": {
+        "artist": "Scott bradlee",
+        "title": "Regulate (Toy Instrument remix)"
+      }
     },
     {
-      "artist": "Ed cox",
-      "title": "Arabian raves organ mix"
+      "track": {
+        "artist": "Ed cox",
+        "title": "Arabian raves organ mix"
+      }
     },
     {
-      "artist": "Hudson Mohawke",
-      "title": "Thunder Bay "
+      "track": {
+        "artist": "Hudson Mohawke",
+        "title": "Thunder Bay "
+      }
     },
     {
-      "artist": "EI-P",
-      "title": "Drones Over BKLYN"
+      "track": {
+        "artist": "EI-P",
+        "title": "Drones Over BKLYN"
+      }
     },
     {
-      "artist": "The Source",
-      "title": "Yeah Yeah Yeah"
+      "track": {
+        "artist": "The Source",
+        "title": "Yeah Yeah Yeah"
+      }
     },
     {
-      "artist": "Wali band",
-      "title": "Baik baik sayang (disco  mix)"
+      "track": {
+        "artist": "Wali band",
+        "title": "Baik baik sayang (disco  mix)"
+      }
     },
     {
-      "artist": "Fellow",
-      "title": "Hands Dem Up"
+      "track": {
+        "artist": "Fellow",
+        "title": "Hands Dem Up"
+      }
     },
     {
-      "artist": "Fast Radio",
-      "title": "Under My Thumb"
+      "track": {
+        "artist": "Fast Radio",
+        "title": "Under My Thumb"
+      }
     },
     {
-      "artist": "Hadise",
-      "title": "Düm Tek Tek"
+      "track": {
+        "artist": "Hadise",
+        "title": "Düm Tek Tek"
+      }
     },
     {
-      "artist": "Hercelot",
-      "title": "Owing to difference in music char"
+      "track": {
+        "artist": "Hercelot",
+        "title": "Owing to difference in music char"
+      }
     },
     {
-      "artist": "Mayhem",
-      "title": "Nintendon't"
+      "track": {
+        "artist": "Mayhem",
+        "title": "Nintendon't"
+      }
     },
     {
-      "artist": "Dada Life",
-      "title": "Happy Violence"
+      "track": {
+        "artist": "Dada Life",
+        "title": "Happy Violence"
+      }
     }
   ]
 }

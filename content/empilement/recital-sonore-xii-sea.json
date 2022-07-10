@@ -5,71 +5,103 @@
     "Gumbi",
     "Melorman"
   ],
-  "cover": "files/recital-sonore-xii-sea/source.jpg",
+  "cover": "source.jpg",
   "tracks": [
     {
-      "artist": "Primus",
-      "title": "Seas of cheese"
+      "track": {
+        "artist": "Primus",
+        "title": "Seas of cheese"
+      }
     },
     {
-      "artist": "Sleepy Town Manufacture",
-      "title": "Sea sickness"
+      "track": {
+        "artist": "Sleepy Town Manufacture",
+        "title": "Sea sickness"
+      }
     },
     {
-      "artist": "Decal",
-      "title": "Star of the Sea"
+      "track": {
+        "artist": "Decal",
+        "title": "Star of the Sea"
+      }
     },
     {
-      "artist": "Maps and Diagrams",
-      "title": "Below Sea level"
+      "track": {
+        "artist": "Maps and Diagrams",
+        "title": "Below Sea level"
+      }
     },
     {
-      "artist": "Autechre",
-      "title": "Drowning in a Sea of independance"
+      "track": {
+        "artist": "Autechre",
+        "title": "Drowning in a Sea of independance"
+      }
     },
     {
-      "artist": "Freescha",
-      "title": "Whales wave goodbye"
+      "track": {
+        "artist": "Freescha",
+        "title": "Whales wave goodbye"
+      }
     },
     {
-      "artist": "Jean-Jacques Perrey",
-      "title": "Caverns in deep Sea"
+      "track": {
+        "artist": "Jean-Jacques Perrey",
+        "title": "Caverns in deep Sea"
+      }
     },
     {
-      "artist": "Meta Program",
-      "title": "Underwater café"
+      "track": {
+        "artist": "Meta Program",
+        "title": "Underwater café"
+      }
     },
     {
-      "artist": "Mr Scruff",
-      "title": "Sea mammal"
+      "track": {
+        "artist": "Mr Scruff",
+        "title": "Sea mammal"
+      }
     },
     {
-      "artist": "Frog Pocket",
-      "title": "Sea angel lament boss"
+      "track": {
+        "artist": "Frog Pocket",
+        "title": "Sea angel lament boss"
+      }
     },
     {
-      "artist": "Arovane",
-      "title": "Seaside"
+      "track": {
+        "artist": "Arovane",
+        "title": "Seaside"
+      }
     },
     {
-      "artist": "Aphex Twin",
-      "title": "Blue Calx"
+      "track": {
+        "artist": "Aphex Twin",
+        "title": "Blue Calx"
+      }
     },
     {
-      "artist": "Funki Porcini",
-      "title": "The big Sea"
+      "track": {
+        "artist": "Funki Porcini",
+        "title": "The big Sea"
+      }
     },
     {
-      "artist": "The Merricks & Pollux",
-      "title": "Blue sand red Sea"
+      "track": {
+        "artist": "The Merricks & Pollux",
+        "title": "Blue sand red Sea"
+      }
     },
     {
-      "artist": "Kettel",
-      "title": "Through friendly waters"
+      "track": {
+        "artist": "Kettel",
+        "title": "Through friendly waters"
+      }
     },
     {
-      "artist": "Plaid",
-      "title": "Dead Sea"
+      "track": {
+        "artist": "Plaid",
+        "title": "Dead Sea"
+      }
     }
   ]
 }

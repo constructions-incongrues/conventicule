@@ -4,47 +4,67 @@
   "curators": [
     "Santa Nihill"
   ],
-  "cover": "files/miami-bass-war-the-slut-side/source.jpg",
+  "cover": "source.jpg",
   "tracks": [
     {
-      "artist": "Connie",
-      "title": "Rock Me"
+      "track": {
+        "artist": "Connie",
+        "title": "Rock Me"
+      }
     },
     {
-      "artist": "JJ Fad",
-      "title": "Supersonic"
+      "track": {
+        "artist": "JJ Fad",
+        "title": "Supersonic"
+      }
     },
     {
-      "artist": "Anquette",
-      "title": " Shake It (Do The 61st)"
+      "track": {
+        "artist": "Anquette",
+        "title": " Shake It (Do The 61st)"
+      }
     },
     {
-      "artist": "deborah",
-      "title": "no sense"
+      "track": {
+        "artist": "deborah",
+        "title": "no sense"
+      }
     },
     {
-      "artist": "The Get Fresh Girls ft. Beatmaster Clay D.",
-      "title": "I seen your boyfriend (radio edit)"
+      "track": {
+        "artist": "The Get Fresh Girls ft. Beatmaster Clay D.",
+        "title": "I seen your boyfriend (radio edit)"
+      }
     },
     {
-      "artist": "Debbie Deb",
-      "title": "When I Hear Music [12'' Club Mix]"
+      "track": {
+        "artist": "Debbie Deb",
+        "title": "When I Hear Music [12'' Club Mix]"
+      }
     },
     {
-      "artist": "Jazzi and Neat",
-      "title": "outh me baby (vocal)"
+      "track": {
+        "artist": "Jazzi and Neat",
+        "title": "outh me baby (vocal)"
+      }
     },
     {
-      "artist": "Ladi Luv",
-      "title": "Ring My Bell (long mix)"
+      "track": {
+        "artist": "Ladi Luv",
+        "title": "Ring My Bell (long mix)"
+      }
     },
     {
-      "artist": "Sexy C Feat. Disco Rick",
-      "title": "Megga Bitch Mixx"
+      "track": {
+        "artist": "Sexy C Feat. Disco Rick",
+        "title": "Megga Bitch Mixx"
+      }
     },
     {
-      "artist": "L'Trimm",
-      "title": "Cars With The Boom"
+      "track": {
+        "artist": "L'Trimm",
+        "title": "Cars With The Boom"
+      }
     }
   ]
 }

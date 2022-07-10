@@ -4,79 +4,115 @@
   "curators": [
     "Gakona"
   ],
-  "cover": "files/electric-rain/source.jpg",
+  "cover": "source.jpg",
   "tracks": [
     {
-      "artist": "Pansonic",
-      "title": "Teurastamo"
+      "track": {
+        "artist": "Pansonic",
+        "title": "Teurastamo"
+      }
     },
     {
-      "artist": "If",
-      "title": "Superman"
+      "track": {
+        "artist": "If",
+        "title": "Superman"
+      }
     },
     {
-      "artist": "Faceless Mind",
-      "title": "Ocean Movers"
+      "track": {
+        "artist": "Faceless Mind",
+        "title": "Ocean Movers"
+      }
     },
     {
-      "artist": "Snuff Crew",
-      "title": "Control"
+      "track": {
+        "artist": "Snuff Crew",
+        "title": "Control"
+      }
     },
     {
-      "artist": "Orgue Electronique",
-      "title": "Suck Seed"
+      "track": {
+        "artist": "Orgue Electronique",
+        "title": "Suck Seed"
+      }
     },
     {
-      "artist": "Crash Course in Science",
-      "title": "Cardboard Lamb"
+      "track": {
+        "artist": "Crash Course in Science",
+        "title": "Cardboard Lamb"
+      }
     },
     {
-      "artist": "DJ Pierre",
-      "title": "Acid Pop"
+      "track": {
+        "artist": "DJ Pierre",
+        "title": "Acid Pop"
+      }
     },
     {
-      "artist": "Legowelt",
-      "title": "Slowjam Deeptechno"
+      "track": {
+        "artist": "Legowelt",
+        "title": "Slowjam Deeptechno"
+      }
     },
     {
-      "artist": "D'Marc Cantu",
-      "title": "Black Tears"
+      "track": {
+        "artist": "D'Marc Cantu",
+        "title": "Black Tears"
+      }
     },
     {
-      "artist": "Basic Soul Unit",
-      "title": "Soulspeak"
+      "track": {
+        "artist": "Basic Soul Unit",
+        "title": "Soulspeak"
+      }
     },
     {
-      "artist": "Mark Broom",
-      "title": "Twenty Nine"
+      "track": {
+        "artist": "Mark Broom",
+        "title": "Twenty Nine"
+      }
     },
     {
-      "artist": "Jeff Mills",
-      "title": "i9"
+      "track": {
+        "artist": "Jeff Mills",
+        "title": "i9"
+      }
     },
     {
-      "artist": "Unit Moebius",
-      "title": "Summertime"
+      "track": {
+        "artist": "Unit Moebius",
+        "title": "Summertime"
+      }
     },
     {
-      "artist": "Triphase",
-      "title": "TRP6-A3"
+      "track": {
+        "artist": "Triphase",
+        "title": "TRP6-A3"
+      }
     },
     {
-      "artist": "Esoteric",
-      "title": "Odd Sins A"
+      "track": {
+        "artist": "Esoteric",
+        "title": "Odd Sins A"
+      }
     },
     {
-      "artist": "Curley",
-      "title": "Kibra Hacha"
+      "track": {
+        "artist": "Curley",
+        "title": "Kibra Hacha"
+      }
     },
     {
-      "artist": "Rude66",
-      "title": "La Route"
+      "track": {
+        "artist": "Rude66",
+        "title": "La Route"
+      }
     },
     {
-      "artist": "D.A.F.",
-      "title": "Alles Ist Gut"
+      "track": {
+        "artist": "D.A.F.",
+        "title": "Alles Ist Gut"
+      }
     }
   ]
 }

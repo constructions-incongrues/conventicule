@@ -6,67 +6,97 @@
     "Bozoo",
     "Eat Rabbit"
   ],
-  "cover": "files/siege-incline/source.jpg",
+  "cover": "source.jpg",
   "tracks": [
     {
-      "artist": "Sol Dat",
-      "title": "Make Yr Car Look Extremely Pretty"
+      "track": {
+        "artist": "Sol Dat",
+        "title": "Make Yr Car Look Extremely Pretty"
+      }
     },
     {
-      "artist": "Airborn Audio",
-      "title": "Miami the jungle"
+      "track": {
+        "artist": "Airborn Audio",
+        "title": "Miami the jungle"
+      }
     },
     {
-      "artist": "Cybotron",
-      "title": "Cosmic Cars (Dub)"
+      "track": {
+        "artist": "Cybotron",
+        "title": "Cosmic Cars (Dub)"
+      }
     },
     {
-      "artist": "Mesu kasumai",
-      "title": "i-75"
+      "track": {
+        "artist": "Mesu kasumai",
+        "title": "i-75"
+      }
     },
     {
-      "artist": "Yello",
-      "title": "I Love You"
+      "track": {
+        "artist": "Yello",
+        "title": "I Love You"
+      }
     },
     {
-      "artist": "Ceephax Acid Crew",
-      "title": "Woof Acid"
+      "track": {
+        "artist": "Ceephax Acid Crew",
+        "title": "Woof Acid"
+      }
     },
     {
-      "artist": "T.Raumschmiere",
-      "title": "Monstertruckdriver"
+      "track": {
+        "artist": "T.Raumschmiere",
+        "title": "Monstertruckdriver"
+      }
     },
     {
-      "artist": "Patric D. Martin",
-      "title": "I Like 'lectric Motors"
+      "track": {
+        "artist": "Patric D. Martin",
+        "title": "I Like 'lectric Motors"
+      }
     },
     {
-      "artist": "Michael knight (dmx krew)",
-      "title": "knight ryder (12inch version)"
+      "track": {
+        "artist": "Michael knight (dmx krew)",
+        "title": "knight ryder (12inch version)"
+      }
     },
     {
-      "artist": "Melodik Pinpon",
-      "title": "J'crame ma paye"
+      "track": {
+        "artist": "Melodik Pinpon",
+        "title": "J'crame ma paye"
+      }
     },
     {
-      "artist": "Stu",
-      "title": "Scooter"
+      "track": {
+        "artist": "Stu",
+        "title": "Scooter"
+      }
     },
     {
-      "artist": "Mike Patton",
-      "title": "Ford Mustang"
+      "track": {
+        "artist": "Mike Patton",
+        "title": "Ford Mustang"
+      }
     },
     {
-      "artist": "Les Tueurs De La Lune De Miel",
-      "title": "Route Nationale 7"
+      "track": {
+        "artist": "Les Tueurs De La Lune De Miel",
+        "title": "Route Nationale 7"
+      }
     },
     {
-      "artist": "Squarepusher",
-      "title": "My Red Hot Car"
+      "track": {
+        "artist": "Squarepusher",
+        "title": "My Red Hot Car"
+      }
     },
     {
-      "artist": "Satellite and atom christal",
-      "title": "Boulevard Circulaire"
+      "track": {
+        "artist": "Satellite and atom christal",
+        "title": "Boulevard Circulaire"
+      }
     }
   ]
 }

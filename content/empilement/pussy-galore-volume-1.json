@@ -4,71 +4,103 @@
   "curators": [
     "DJ Chananas"
   ],
-  "cover": "files/pussy-galore-volume-1/source.jpg",
+  "cover": "source.jpg",
   "tracks": [
     {
-      "artist": "Ed Special",
-      "title": "Whats new pussy"
+      "track": {
+        "artist": "Ed Special",
+        "title": "Whats new pussy"
+      }
     },
     {
-      "artist": "Chat en colère",
-      "title": "Miaou "
+      "track": {
+        "artist": "Chat en colère",
+        "title": "Miaou "
+      }
     },
     {
-      "artist": "DJ Chananas",
-      "title": "Dédicace aux minous"
+      "track": {
+        "artist": "DJ Chananas",
+        "title": "Dédicace aux minous"
+      }
     },
     {
-      "artist": "Harry Roy & His Bat Club Boys",
-      "title": "My Girl's Pussy"
+      "track": {
+        "artist": "Harry Roy & His Bat Club Boys",
+        "title": "My Girl's Pussy"
+      }
     },
     {
-      "artist": "Tiger",
-      "title": "Love-Pussy-Cocaine"
+      "track": {
+        "artist": "Tiger",
+        "title": "Love-Pussy-Cocaine"
+      }
     },
     {
-      "artist": "The Specials",
-      "title": "ElL Pussycat Ska"
+      "track": {
+        "artist": "The Specials",
+        "title": "ElL Pussycat Ska"
+      }
     },
     {
-      "artist": "Devo",
-      "title": "Pink pussycat"
+      "track": {
+        "artist": "Devo",
+        "title": "Pink pussycat"
+      }
     },
     {
-      "artist": "Takako Minekawa",
-      "title": "Fantastic cat"
+      "track": {
+        "artist": "Takako Minekawa",
+        "title": "Fantastic cat"
+      }
     },
     {
-      "artist": "Pepe deluxe",
-      "title": "Pussy Cat Rock"
+      "track": {
+        "artist": "Pepe deluxe",
+        "title": "Pussy Cat Rock"
+      }
     },
     {
-      "artist": "Ol' Dirty bastard",
-      "title": "IWantPussy"
+      "track": {
+        "artist": "Ol' Dirty bastard",
+        "title": "IWantPussy"
+      }
     },
     {
-      "artist": "Klart",
-      "title": "Shaver"
+      "track": {
+        "artist": "Klart",
+        "title": "Shaver"
+      }
     },
     {
-      "artist": "DJ Felipe",
-      "title": "My Pussy o poder"
+      "track": {
+        "artist": "DJ Felipe",
+        "title": "My Pussy o poder"
+      }
     },
     {
-      "artist": "Spank Rock",
-      "title": "Put The Love Parade Pussy On Me"
+      "track": {
+        "artist": "Spank Rock",
+        "title": "Put The Love Parade Pussy On Me"
+      }
     },
     {
-      "artist": "DJ Mafia",
-      "title": "Pussy pussy edit"
+      "track": {
+        "artist": "DJ Mafia",
+        "title": "Pussy pussy edit"
+      }
     },
     {
-      "artist": "Steel Panther",
-      "title": "I Want Pussy"
+      "track": {
+        "artist": "Steel Panther",
+        "title": "I Want Pussy"
+      }
     },
     {
-      "artist": "Dirty Christmas Songs",
-      "title": "White Christmas"
+      "track": {
+        "artist": "Dirty Christmas Songs",
+        "title": "White Christmas"
+      }
     }
   ]
 }

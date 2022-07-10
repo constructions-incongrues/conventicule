@@ -4,79 +4,115 @@
   "curators": [
     "Big Pink Ping"
   ],
-  "cover": "files/everything-but-the-pet-shop-boys/source.jpg",
+  "cover": "source.jpg",
   "tracks": [
     {
-      "artist": "brunk",
-      "title": "violence on tv"
+      "track": {
+        "artist": "brunk",
+        "title": "violence on tv"
+      }
     },
     {
-      "artist": "The units",
-      "title": "high pressure days"
+      "track": {
+        "artist": "The units",
+        "title": "high pressure days"
+      }
     },
     {
-      "artist": "Sans-Blanc",
-      "title": "Volvoluv"
+      "track": {
+        "artist": "Sans-Blanc",
+        "title": "Volvoluv"
+      }
     },
     {
-      "artist": " EeL",
-      "title": "Little Prince Loves You"
+      "track": {
+        "artist": " EeL",
+        "title": "Little Prince Loves You"
+      }
     },
     {
-      "artist": "Fat32",
-      "title": "Hard Drive"
+      "track": {
+        "artist": "Fat32",
+        "title": "Hard Drive"
+      }
     },
     {
-      "artist": "Gwilly Edmondez",
-      "title": "Opening Title"
+      "track": {
+        "artist": "Gwilly Edmondez",
+        "title": "Opening Title"
+      }
     },
     {
-      "artist": " Enio Morricona",
-      "title": "robodog"
+      "track": {
+        "artist": " Enio Morricona",
+        "title": "robodog"
+      }
     },
     {
-      "artist": "V.D.B. Joel",
-      "title": "Video Funk"
+      "track": {
+        "artist": "V.D.B. Joel",
+        "title": "Video Funk"
+      }
     },
     {
-      "artist": "peter thomas - moonflowers & miniskirts",
-      "title": "happening in white main theme"
+      "track": {
+        "artist": "peter thomas - moonflowers & miniskirts",
+        "title": "happening in white main theme"
+      }
     },
     {
-      "artist": "Marx Roach",
-      "title": "freedom day"
+      "track": {
+        "artist": "Marx Roach",
+        "title": "freedom day"
+      }
     },
     {
-      "artist": " Jeri Rossi",
-      "title": "I Left My Heart But I Don't Know Where"
+      "track": {
+        "artist": " Jeri Rossi",
+        "title": "I Left My Heart But I Don't Know Where"
+      }
     },
     {
-      "artist": "Quattro Stagioni",
-      "title": "the brains other supplier"
+      "track": {
+        "artist": "Quattro Stagioni",
+        "title": "the brains other supplier"
+      }
     },
     {
-      "artist": "Ground Zero",
-      "title": "thema mao 2"
+      "track": {
+        "artist": "Ground Zero",
+        "title": "thema mao 2"
+      }
     },
     {
-      "artist": "Jared C Balogh",
-      "title": "TheSomewhat Unlucky"
+      "track": {
+        "artist": "Jared C Balogh",
+        "title": "TheSomewhat Unlucky"
+      }
     },
     {
-      "artist": "Sarah Weis",
-      "title": "Quentin TarantiNo"
+      "track": {
+        "artist": "Sarah Weis",
+        "title": "Quentin TarantiNo"
+      }
     },
     {
-      "artist": "hella",
-      "title": "self checkout"
+      "track": {
+        "artist": "hella",
+        "title": "self checkout"
+      }
     },
     {
-      "artist": "spazz",
-      "title": "spudboy"
+      "track": {
+        "artist": "spazz",
+        "title": "spudboy"
+      }
     },
     {
-      "artist": "The Coasters",
-      "title": "Get An Ugly Girl To Marry You"
+      "track": {
+        "artist": "The Coasters",
+        "title": "Get An Ugly Girl To Marry You"
+      }
     }
   ]
 }

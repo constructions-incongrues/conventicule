@@ -5,6 +5,7 @@ backend:
   site_domain: 1a522206-9642-4c26-bac4-280770cfbff4
   auth_scope: repo
   open_authoring: true
+  use_graphql: true
 
 backend_local: true
 
@@ -15,7 +16,6 @@ display_url: https://empilements.constructions-incongrues.net
 publish_mode: editorial_workflow
 show_preview_links: true
 
-
 collections:
   - label: Empilement
     name: empilement
@@ -25,6 +25,8 @@ collections:
     preview_path: empilement/{{slug}}
     identifier_field: title
     extension: json
+    path: '{{slug}}/index'
+    
     view_groups:
       - label: Year
         field: date
@@ -32,31 +34,44 @@ collections:
         pattern: \d{4}
       - label: Curator
         field: curators
+
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Publish Date', name: 'date', widget: 'date' }
-      - { label: 'Description', name: 'description', widget: 'markdown', required: false }
-      - label: Cover
-        name: cover
-        widget: image
-        choose_url: false
-        media_folder: ''
+
       - label: Curators
         name: curators
         widget: list
         summary: '{{name}}'
         fields:
           - {label: Name, name: name, widget: string}
+
+      - { label: 'Publish Date', name: 'date', widget: 'date' }
+
+      - { label: 'Description', name: 'description', widget: 'markdown', required: false }
+
+
+      - label: Cover
+        name: cover
+        widget: image
+        choose_url: false
+        hint: Une image pour illustrer
+
       - label: Tracks
         name: tracks
         widget: list
-        summary: '{{artist}} - {{title}}'
         fields:
-          - {label: Artist, name: artist, widget: string}
-          - {label: Title, name: title, widget: string}
-          - label: File
-            name: file
-            widget: file
-            required: false
-            choose_url: false
-            media_folder: ''
+          - label: Track
+            name: track
+            widget: object
+            fields: 
+              - label: Artist 
+                name: artist
+                widget: string
+              - label: Title
+                name: title
+                widget: string
+              - label: File
+                name: file
+                widget: file
+                required: false
+                choose_url: false

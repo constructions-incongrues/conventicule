@@ -4,59 +4,85 @@
   "curators": [
     "Carl Cock"
   ],
-  "cover": "files/dub/source.jpg",
+  "cover": "source.jpg",
   "tracks": [
     {
-      "artist": "Count Ossie and the mystic revelation of rastafari",
-      "title": "Tales Of Mozambique"
+      "track": {
+        "artist": "Count Ossie and the mystic revelation of rastafari",
+        "title": "Tales Of Mozambique"
+      }
     },
     {
-      "artist": "General Strike",
-      "title": " Interplanetary Music"
+      "track": {
+        "artist": "General Strike",
+        "title": " Interplanetary Music"
+      }
     },
     {
-      "artist": "Lee Scratch Perry",
-      "title": "rise & shine dub"
+      "track": {
+        "artist": "Lee Scratch Perry",
+        "title": "rise & shine dub"
+      }
     },
     {
-      "artist": "Jah Wobble, Holger  Czukay, Jaki Liebezeit",
-      "title": "How Much Are They "
+      "track": {
+        "artist": "Jah Wobble, Holger  Czukay, Jaki Liebezeit",
+        "title": "How Much Are They "
+      }
     },
     {
-      "artist": "King Tubby & Augustus Pablo",
-      "title": "555 Dub St."
+      "track": {
+        "artist": "King Tubby & Augustus Pablo",
+        "title": "555 Dub St."
+      }
     },
     {
-      "artist": "Rhythm and Sound",
-      "title": "Distance tr"
+      "track": {
+        "artist": "Rhythm and Sound",
+        "title": "Distance tr"
+      }
     },
     {
-      "artist": "Alpha & Omega",
-      "title": "Merciful Jah"
+      "track": {
+        "artist": "Alpha & Omega",
+        "title": "Merciful Jah"
+      }
     },
     {
-      "artist": "Pole",
-      "title": "fremd"
+      "track": {
+        "artist": "Pole",
+        "title": "fremd"
+      }
     },
     {
-      "artist": "Jah Shaka",
-      "title": "Hunter"
+      "track": {
+        "artist": "Jah Shaka",
+        "title": "Hunter"
+      }
     },
     {
-      "artist": "Snares",
-      "title": "Electric Funeral"
+      "track": {
+        "artist": "Snares",
+        "title": "Electric Funeral"
+      }
     },
     {
-      "artist": "Dj Scud",
-      "title": "Stormtrooper"
+      "track": {
+        "artist": "Dj Scud",
+        "title": "Stormtrooper"
+      }
     },
     {
-      "artist": "King Earthquake",
-      "title": "Dub Power"
+      "track": {
+        "artist": "King Earthquake",
+        "title": "Dub Power"
+      }
     },
     {
-      "artist": "Martyn",
-      "title": "krdl-t-grv"
+      "track": {
+        "artist": "Martyn",
+        "title": "krdl-t-grv"
+      }
     }
   ]
 }

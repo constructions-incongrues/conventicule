@@ -4,47 +4,67 @@
   "curators": [
     "Logan"
   ],
-  "cover": "files/slow-corpse-2/source.jpg",
+  "cover": "source.jpg",
   "tracks": [
     {
-      "artist": "Slowdive",
-      "title": "Souvlaki Space Station"
+      "track": {
+        "artist": "Slowdive",
+        "title": "Souvlaki Space Station"
+      }
     },
     {
-      "artist": "Loop",
-      "title": "Straight To Your Heart"
+      "track": {
+        "artist": "Loop",
+        "title": "Straight To Your Heart"
+      }
     },
     {
-      "artist": "Oneohtrix Point Never",
-      "title": "Submersible"
+      "track": {
+        "artist": "Oneohtrix Point Never",
+        "title": "Submersible"
+      }
     },
     {
-      "artist": "Windsor For The Derby",
-      "title": "Seven"
+      "track": {
+        "artist": "Windsor For The Derby",
+        "title": "Seven"
+      }
     },
     {
-      "artist": "Current 93",
-      "title": "All The Pretty Little Horses (feat. Nick Cave)"
+      "track": {
+        "artist": "Current 93",
+        "title": "All The Pretty Little Horses (feat. Nick Cave)"
+      }
     },
     {
-      "artist": "Olafur Arnalds",
-      "title": "Fyrsta"
+      "track": {
+        "artist": "Olafur Arnalds",
+        "title": "Fyrsta"
+      }
     },
     {
-      "artist": "Ride",
-      "title": "Cool Your Boots"
+      "track": {
+        "artist": "Ride",
+        "title": "Cool Your Boots"
+      }
     },
     {
-      "artist": "Pale Saints",
-      "title": "Sight Of You"
+      "track": {
+        "artist": "Pale Saints",
+        "title": "Sight Of You"
+      }
     },
     {
-      "artist": "Spectrum",
-      "title": "How You Satisfy Me"
+      "track": {
+        "artist": "Spectrum",
+        "title": "How You Satisfy Me"
+      }
     },
     {
-      "artist": "Eïnsturzende Neubauten",
-      "title": "The Garden"
+      "track": {
+        "artist": "Eïnsturzende Neubauten",
+        "title": "The Garden"
+      }
     }
   ]
 }

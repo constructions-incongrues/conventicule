@@ -6,75 +6,109 @@
     "Iris",
     "Satanik Mike"
   ],
-  "cover": "files/gravitation-universelle-universelle-universelle/source.jpg",
+  "cover": "source.jpg",
   "tracks": [
     {
-      "artist": "Steve Waring",
-      "title": "Les Grenouilles"
+      "track": {
+        "artist": "Steve Waring",
+        "title": "Les Grenouilles"
+      }
     },
     {
-      "artist": "Roberto Pregadio",
-      "title": "bi-di-bi-da"
+      "track": {
+        "artist": "Roberto Pregadio",
+        "title": "bi-di-bi-da"
+      }
     },
     {
-      "artist": "Les Quatre Barbus",
-      "title": "La Pince à Linge"
+      "track": {
+        "artist": "Les Quatre Barbus",
+        "title": "La Pince à Linge"
+      }
     },
     {
-      "artist": "Mio Mao",
-      "title": "The Spider"
+      "track": {
+        "artist": "Mio Mao",
+        "title": "The Spider"
+      }
     },
     {
-      "artist": "Disco Zombies",
-      "title": "Drums Over London"
+      "track": {
+        "artist": "Disco Zombies",
+        "title": "Drums Over London"
+      }
     },
     {
-      "artist": "Jean Leccia",
-      "title": "Les Saintes Chéries"
+      "track": {
+        "artist": "Jean Leccia",
+        "title": "Les Saintes Chéries"
+      }
     },
     {
-      "artist": "The Chordettes",
-      "title": "Mr. Sandman"
+      "track": {
+        "artist": "The Chordettes",
+        "title": "Mr. Sandman"
+      }
     },
     {
-      "artist": "Aphex Twin",
-      "title": "Didgeridoo"
+      "track": {
+        "artist": "Aphex Twin",
+        "title": "Didgeridoo"
+      }
     },
     {
-      "artist": "Ennio Morricone",
-      "title": "Il Était Une Fois La Révolution"
+      "track": {
+        "artist": "Ennio Morricone",
+        "title": "Il Était Une Fois La Révolution"
+      }
     },
     {
-      "artist": "Akira OST",
-      "title": "Doll's Polyphony"
+      "track": {
+        "artist": "Akira OST",
+        "title": "Doll's Polyphony"
+      }
     },
     {
-      "artist": "Piero Umiliani",
-      "title": "Luna di Miele"
+      "track": {
+        "artist": "Piero Umiliani",
+        "title": "Luna di Miele"
+      }
     },
     {
-      "artist": "Queen",
-      "title": "Under Pressure"
+      "track": {
+        "artist": "Queen",
+        "title": "Under Pressure"
+      }
     },
     {
-      "artist": "Dim",
-      "title": "Publicité"
+      "track": {
+        "artist": "Dim",
+        "title": "Publicité"
+      }
     },
     {
-      "artist": "Goblin",
-      "title": "Tenebre"
+      "track": {
+        "artist": "Goblin",
+        "title": "Tenebre"
+      }
     },
     {
-      "artist": "Francis Blanche et Pierre Dac",
-      "title": "Le Parti d'En Rire"
+      "track": {
+        "artist": "Francis Blanche et Pierre Dac",
+        "title": "Le Parti d'En Rire"
+      }
     },
     {
-      "artist": "François de Roubaix",
-      "title": "Piti Piti Pas"
+      "track": {
+        "artist": "François de Roubaix",
+        "title": "Piti Piti Pas"
+      }
     },
     {
-      "artist": "Kermit",
-      "title": "The Rainbow Connection"
+      "track": {
+        "artist": "Kermit",
+        "title": "The Rainbow Connection"
+      }
     }
   ]
 }

@@ -4,63 +4,91 @@
   "curators": [
     "Satanik Mike"
   ],
-  "cover": "files/extracurricular-activity-projective-reconstruction-34-kandor-12-35/source.jpg",
+  "cover": "source.jpg",
   "tracks": [
     {
-      "artist": "Michael Maller & Myriam Chadcar",
-      "title": "Love Within You"
+      "track": {
+        "artist": "Michael Maller & Myriam Chadcar",
+        "title": "Love Within You"
+      }
     },
     {
-      "artist": "Recreation",
-      "title": "Music Against Music"
+      "track": {
+        "artist": "Recreation",
+        "title": "Music Against Music"
+      }
     },
     {
-      "artist": "Tony Banks - The Wicked Lady",
-      "title": "Caroline"
+      "track": {
+        "artist": "Tony Banks - The Wicked Lady",
+        "title": "Caroline"
+      }
     },
     {
-      "artist": "Traks Boys",
-      "title": "Unbroken"
+      "track": {
+        "artist": "Traks Boys",
+        "title": "Unbroken"
+      }
     },
     {
-      "artist": "WARMTH II",
-      "title": "Praise Poems"
+      "track": {
+        "artist": "WARMTH II",
+        "title": "Praise Poems"
+      }
     },
     {
-      "artist": "I Gres",
-      "title": "Jeannette"
+      "track": {
+        "artist": "I Gres",
+        "title": "Jeannette"
+      }
     },
     {
-      "artist": "Unknown Artist",
-      "title": "Mike Kelly Interview"
+      "track": {
+        "artist": "Unknown Artist",
+        "title": "Mike Kelly Interview"
+      }
     },
     {
-      "artist": "Hugh Hopper",
-      "title": "Morning Order"
+      "track": {
+        "artist": "Hugh Hopper",
+        "title": "Morning Order"
+      }
     },
     {
-      "artist": "Hookin for the Honey",
-      "title": "Bruce Haack"
+      "track": {
+        "artist": "Hookin for the Honey",
+        "title": "Bruce Haack"
+      }
     },
     {
-      "artist": "MC 900 FT JESUS",
-      "title": "Falling Elevators"
+      "track": {
+        "artist": "MC 900 FT JESUS",
+        "title": "Falling Elevators"
+      }
     },
     {
-      "artist": "Astral Sounds ",
-      "title": "Airspace"
+      "track": {
+        "artist": "Astral Sounds ",
+        "title": "Airspace"
+      }
     },
     {
-      "artist": "MR MISTER BROKEN WINGS",
-      "title": "SCREWED DOUBLE DIPPED TRIPPED AND FLANGED BY DR PIZZA"
+      "track": {
+        "artist": "MR MISTER BROKEN WINGS",
+        "title": "SCREWED DOUBLE DIPPED TRIPPED AND FLANGED BY DR PIZZA"
+      }
     },
     {
-      "artist": "Raymond Scott",
-      "title": "Sleepy Time"
+      "track": {
+        "artist": "Raymond Scott",
+        "title": "Sleepy Time"
+      }
     },
     {
-      "artist": "Konstruktivists",
-      "title": "My Name Jade"
+      "track": {
+        "artist": "Konstruktivists",
+        "title": "My Name Jade"
+      }
     }
   ]
 }
