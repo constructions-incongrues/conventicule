@@ -1,8 +1,7 @@
 <body>
   <h1>Nice. It's looking good already.</h1>
-  {{ .GetPage "/empilement" }}
   <ul>
-    {{ range (where .Pages "Section" "empilement") }}
+    {{ range .Pages }}
     <li>
       <a href="{{ .RelPermalink }}">
         {{ .Title }}
