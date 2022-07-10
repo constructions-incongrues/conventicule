@@ -18,7 +18,7 @@ collections:
     name: empilements
     folder: content/empilement
     create: true
-    slug: {{title}}
+    slug: '{{title}}'
     preview_path: empilement/{{slug}}
     identifier_field: title
     fields:
@@ -33,13 +33,13 @@ collections:
       - label: Curators
         name: curators
         widget: list
-        summary: {{name}}
+        summary: '{{name}}'
         fields:
           - {label: Name, name: name, widget: string}
       - label: Tracks
         name: tracks
         widget: list
-        summary: "{{artist}} - {{title}}"
+        summary: '{{artist}} - {{title}}'
         fields:
           - {label: Artist, name: artist, widget: string}
           - {label: Title, name: title, widget: string}
