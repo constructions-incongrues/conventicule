@@ -18,7 +18,7 @@ show_preview_links: true
 publish_mode: editorial_workflow
 
 collections:
-  - label: 'Empilements Incongrus'
+  - label: 'Empilement'
     name: empilements
     folder: content/empilements
     create: true
