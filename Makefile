@@ -1,2 +1,2 @@
 dev:
-	hugo server --debug
+	hugo server --debug --disableFastRender

@@ -1,15 +1,20 @@
-{{ range .Pages }}
-    {{ .Render "li" }}
+{{ define "metadata" }}
+<dl>
+    <dd>
+        <a class="link-prev" href="{{ .Site.Home.Permalink }}">«</a>
+        <a class="link-prev" href="{{ .Site.Home.Permalink }}" style="visibility:hidden;">«</a>
+    </dd>
+</dl>
+<dl>
+    <dt>Collection</dt>
+    <dd><a href="{{ .Permalink }}">{{ .Title | humanize | title | truncate 30 }}</a></dd>
+</dl>
 {{ end }}
 
-<hr>
-
-{{ range .AlternativeOutputFormats -}}
-<a href="{{ .Permalink | safeURL }}">{{ .MediaType.Type }}</a> |
-{{ end -}}
-
-<hr>
-
-{{ range .AlternativeOutputFormats -}}
-<link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
-{{ end -}}
+{{ define "main" }}
+    <dl>
+    {{ range .Pages }}
+        {{ partial "item/list-entry" . }}
+    {{ end }}
+    </dl>
+{{ end }}

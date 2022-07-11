@@ -1,0 +1,53 @@
+{{ define "metadata" }}
+    <div>
+        <dl>
+            <dd>
+                <a class="link-prev" href="{{ .Site.Home.Permalink }}">«</a>
+                <a class="link-prev" href="{{ .Site.Home.Permalink }}" style="visibility:hidden;">«</a>
+            </dd>
+        </dl>
+        <dl>
+            <dt>Collection</dt>
+            <dd><a href="{{ printf "/%s" .Type | relURL }}">{{ .Type | humanize | title | truncate 30 }}</a></dd>
+        </dl>
+    </div>
+    
+    <div>
+        <dl>
+            <dd>
+                {{ if .PrevPage }}
+                <a class="link-prev" href="{{ .PrevPage.Permalink }}">«</a>
+                {{ else }}
+                <a class="link-prev" href="#" style="visibility:hidden;">«</a>
+                {{ end }}
+                {{ if .NextPage }}
+                <a class="link-next" href="{{ .NextPage.Permalink }}">»</a>
+                {{ else }}
+                <a class="link-next" href="#" style="visibility:hidden;">»</a>
+                {{ end }}
+            </dd>
+        </dl>
+        <dl>
+            <dt>Titre</dt>
+            <dd><a href="{{ .Permalink }}">{{ .Title | humanize | title | truncate 30 }}</a></dd>
+        </dl>
+
+        {{ if .Params.publishdate }}
+        <dl>
+            <dt>Date</dt>
+            <dd>{{ .Params.publishdate | time.Format ":date_long" }}</dd>
+        </dl>
+        {{ end }}
+
+        {{ if .Params.curators }}
+        <dl>
+            <dt>Auteurs</dt>
+            <dd>{{ delimit (.Params.curators | default (slice "")) ", " " et " }}</dd>
+        </dl>
+        {{ end }}
+    </div>
+{{ end }}
+
+{{ define "main" }}
+    {{ partial "item/item.html" . }}
+{{ end }}

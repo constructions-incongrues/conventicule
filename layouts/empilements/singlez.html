@@ -1,0 +1,53 @@
+{{ define "main" }}
+  <h1>{{ title .Title }}</h1>
+  <p>par {{ delimit (.Params.curators | default (slice "")) ", " " et " }}</p>
+  <p>{{ .Params.description | markdownify }}</p>
+
+  <hr>
+
+  {{ $image := .Resources.GetMatch (string .Params.cover) }}
+  {{ if $image }}
+    {{ with $image }}
+      {{ $img := .Fit "500x500"}}
+  <img src="{{ $img.RelPermalink }}" width="{{ $img.Width }}" height="{{ $img.Height }}">
+      {{ end}}
+    {{ end}}
+
+    <hr>
+
+  <div>
+    <span class="amplitude-playpause">PLAY</span> 
+    <span class="amplitude-pause">PAUSE</span>
+    <span class="amplitude-stop">STOP</span> 
+    <span class="amplitude-prev">PREV</span>
+    <span class="amplitude-next">NEXT</span>
+  </div>
+
+  <hr>
+
+  {{ range $index, $track := .Params.tracks }}
+  <div class="amplitude-song-container" data-amplitude-song-index="{{ $index }}">
+    <span data-amplitude-song-info="name" data-amplitude-song-index="{{ $index }}"></span> - 
+    <span data-amplitude-song-info="artist" data-amplitude-song-index="{{ $index }}"></span>
+  </div>
+  {{ end }}
+
+  <hr>
+
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/amplitudejs@v5.3.2/dist/amplitude.js"></script>
+  <script>
+  var tracks = JSON.parse({{ .Params.tracks | jsonify }});
+  var songs = [];
+  tracks.forEach(track => {
+  songs.push({
+  name: track.track.title,
+  artist: track.track.artist,
+  url: track.track.file,
+  cover: track.track.cover
+  })
+  });
+  Amplitude.init({
+  "songs": songs
+  });
+  </script>
+{{ end }}

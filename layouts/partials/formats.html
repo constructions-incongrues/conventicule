@@ -1,0 +1,3 @@
+{{ range .AlternativeOutputFormats -}}
+<a href="{{ .Permalink | safeURL }}">{{ .MediaType.Type }}</a>
+{{ end -}}

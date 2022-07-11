@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+
+    <link rel="stylesheet" href="{{ "css/tacit-css.min.css" | absURL }}"/>
+
+    {{ range .AlternativeOutputFormats -}}
+    <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
+    {{ end -}}
+
+    <title>{{ block "title" . }}
+      {{ .Site.Title }}
+    {{ end }}</title>
+    
+  </head>
+
+  <body>
+    <section>
+      {{ block "metadata" . }}
+      <div>
+        <dl>
+          <dd>
+            &nbsp;
+          </dd>
+      </dl>
+        <dl>
+            <dt>{{ .Site.Title }}</dt>
+            <dd>
+                <a class="link-prev" href="{{ .Site.Home.Permalink }}">Collections</a>
+            </dd>
+        </dl>
+      </div>
+      {{ end }}
+
+      <hr>
+
+      {{ block "main" . }}
+      {{ end }}
+    
+      {{ block "footer" . }}
+      {{ end }}
+    </section>
+  </body>
+</html>

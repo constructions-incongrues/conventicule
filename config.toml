@@ -1,8 +1,9 @@
 baseURL = "https://empiler.incongru.org"
 enableGitInfo = true
 
-title = "L'Ampoule des Sens"
-subtitle = "La situation empile à chaque seconde"
+title = "Conservatoire"
+
+defaultContentLanguage = 'fr-fr'
 
 [params]
   AuthorName = 'Constructions Incongrues'

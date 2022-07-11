@@ -1,16 +1,7 @@
-<body>
-  <h1>EMPILER</h1>
-
-  <h2>Collections publiques</h2>
-  
-  
-  <ul>
+{{ define "main" }}
+  <dl>
     {{ range .Pages }}
-    <li>
-      <a href="{{ .RelPermalink }}">
-        {{ .Title | humanize }}
-      </a>
-    </li>
+    <dt><a href="{{ .RelPermalink }}">{{ title .Title }}</a></dt>
     {{ end }}
-  </ul>
-</body>
+  </dl>
+{{ end }}

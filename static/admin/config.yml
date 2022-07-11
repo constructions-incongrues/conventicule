@@ -10,7 +10,6 @@ backend:
   use_graphql: true
   squash_merges: true
 
-
 media_folder: static/files
 public_folder: /files
 
@@ -20,8 +19,8 @@ publish_mode: editorial_workflow
 
 collections:
   - label: 'Empilements Incongrus'
-    name: empilements-incongrus
-    folder: content/empilements-incongrus
+    name: empilements
+    folder: content/empilements
     create: true
     slug: '{{title}}'
     preview_path: '{{slug}}'
