@@ -3,8 +3,8 @@
 <dl>
     {{ range $index, $track := .Params.tracks }}
     <dd>
-        <span>{{ $track.track.artist }}</span> -
-        <a href="{{ $track.track.file }}">{{ $track.track.title }}</a>
+        <span>{{ title $track.track.artist }}</span> -
+        <a href="{{ $track.track.file }}">{{ title $track.track.title }}</a>
     </dd>
     {{ end }}
 </dl>
