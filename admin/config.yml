@@ -2,7 +2,7 @@ backend_local: true
 
 backend:
   name: github
-  repo: constructions-incongrues/empiler
+  repo: constructions-incongrues/conventicule
   branch: main
   site_domain: 1a522206-9642-4c26-bac4-280770cfbff4
   auth_scope: repo
@@ -13,7 +13,7 @@ backend:
 media_folder: static/files
 public_folder: /files
 
-site_url: https://empiler.incongru.org
+site_url: https://conventicule.incongru.org
 show_preview_links: true
 publish_mode: editorial_workflow
 
